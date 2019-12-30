@@ -1,0 +1,5 @@
+I'll start! My name is Ben Miller, and I'm an assistant professor in the Composition program of the English department, where I've taught Composition Studies, Writing with Style, Composing Digital Media, and a bunch of sections of Seminar in Composition. This is my fourth year at Pitt.
+
+Before coming here, I earned a PhD from the Graduate Center of the City University of New York (CUNY), where I also got a certificate in Interactive Technology and Pedagogy; I was for three years an Instructional Technology Fellow at CUNY's Macaulay Honors College, working with faculty across the curriculum to develop assignment sequences and resources that take advantage of digital environments and software. And I'm a founding editor of the Journal of Interactive Technology and Pedagogy, where I'm often called upon to edit both CSS stylesheets and articles-in-progress.
+
+There's more, but maybe that's enough for now! I'm very much looking forward to this semester: I've thought a lot about where it might go, but I've taught enough by now to realize that it's all going to change when we get into it together. Can't wait to see where we end up!

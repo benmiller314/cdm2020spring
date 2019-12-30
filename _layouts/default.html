@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include sitewide_head.html %}
+</head>
+<body class="thin_header container-fluid"> 
+  {% include thin_header.html %}
+<div id="bg" class="container-fluid">
+<div id="fg" class="container-fluid foreground col-xs-10 col-xs-offset-1">
+
+  <article class="col-md-8 col-md-offset-2 foreground">
+
+    <section id="content">
+      {{content}}
+    </section> 
+
+  </article>
+</div> <!-- /#fg -->
+</div> <!-- /#bg -->
+<footer>
+  {% include credits_and_license.html %}
+</footer>
+
+<!--jQuery & Twitter Bootstrap JavaScript-->
+<script type="javascript" src="/{{site.course.base_path}}assets/js/jquery-3.2.1.min.js"></script>
+<script type="javascript" src="/{{site.course.base_path}}assets/js/bootstrap.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,179 @@
+@import url('bootstrap.min.css');
+
+/* Basic color scheme */
+body {
+	background-color: #00005e;
+}
+
+.foreground {
+	background-color: #f7f7f7;
+	min-height: 720px;
+	padding-bottom: 5em;
+}
+
+header h1, header h2, header h3, header h4 {
+	font-family: asap, calibri, sans-serif;
+}
+
+header, .page-header {
+	background-color: #f7f7f7;
+}
+
+footer {
+    color: #d0d0d0;
+    bottom: 0;
+    margin: 0.5em 10%;
+}
+
+footer a {
+    color: #6294f4;
+}
+
+footer a:hover, footer a:visited {
+    color: #297fdb;
+}
+
+
+/* Header spacing */
+
+body.thin_header {
+	padding-top: 69px;
+}
+
+body.bottom_header {
+	padding-bottom: 69px;
+}
+
+div#navbar-collapse-1 {
+	margin-top: 9px;
+}
+
+body.full_header {
+	padding-top: 105px;
+}
+
+div#navbar-collapse-2 {
+	margin-top: -15px;
+}
+
+button#menu-button {
+	margin-top: -3.5em;
+}
+
+img.banner {
+  width: 200%;
+  display: block;
+  margin-left: -50%;
+  margin-right: auto;
+}
+
+/* Don't let the anchor-jumps get chomped by the header */
+h1::before, h2::before, h3::before, h4::before {
+  display: block;
+  content: " ";
+  margin-top: -85px;
+  height: 85px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Footnotes */
+.ftnref {
+    font-size: .83em;
+    line-height: 0.5em;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+.footnote-block {
+	margin: 2.5em 0;
+	font-size: 0.8em;
+}
+
+/* Images. Add padding, don't overflow column, maintain aspect ratio. */
+article figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+article figure {
+    margin: 2em auto;
+}
+
+article figure figcaption {
+    margin: 1em;
+    font-style: italic;
+}
+
+/* Indent dictionary definitions, better demarcate dictionary terms */
+dt {
+    font-style:italic;
+    font-weight: bold;
+}
+
+dd {
+    margin: 0 0 1em 2em;
+}
+
+/* Center navigation on front page */
+.center-pills {
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap
+}
+
+/* Make new alert class with a transparent middle but a colored border; useful for sidebar topics within main content */
+.alert-white {
+    border: 1px solid deepskyblue;
+}
+
+/* Some lists should be more widely spaced */
+ul.spaced li, ol.spaced li {
+	  margin-bottom: 1em;
+}
+
+details[open] {
+	margin-bottom: 0.9em;
+}
+
+/* Create side-by-side columns */
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	/* flex-wrap: nowrap; */
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+/* Make <detail> accordion-style elements prettier */
+details summary {
+    width: 100%;
+    background-color: #a7d6ff;
+    border: 1px solid #75bfff;
+    margin: 5px 0;
+    padding: 0.5em;
+}
+
+details[open] {
+    margin-bottom: 2em;
+}
+
+
+/* Add more visual separation between consecutive
+   dictionary list items (e.g. on resources page) */
+dt:nth-child(1) {
+    border-top: 3px solid #008000a8;
+    padding-top: 0.5em;
+}
+
+dd + dt {
+    border-top: 3px solid #008000a8;
+    margin-top: 3em;
+    padding-top: 0.5em;
+}
+
+
+dd + dt:nth-of-type(even) {
+    border-top: 3px solid #05015ea8;
+}
