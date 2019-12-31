@@ -34,7 +34,7 @@ HW for next time:
 * **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
 * **Watch** Michael Wesch, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM&amp;feature=youtube_gdata_player)
 * **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
-* **Join** [GitHub](https://github.com/) if you haven't yet, and **post** an introduction to yourself on <a href="{{site.github.repository_url}}/issues/1">the issue queue</a>].
+* **Join** [GitHub](https://github.com/) if you haven't yet, and **post** an introduction to yourself on <a href="{{site.github.issues_url}}/1">the issue queue</a>].
 
 
 <h3><a href="{{site.github.url}}/plans/lesson-02">Lesson 2, Thursday 8/29</a> – What Can We Do With Digital?</h3>
@@ -53,7 +53,7 @@ HW for next time:
 For next time:
 
 * **Listen** to example sound narratives
-* **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.repository_url}}/issues">the Issues page</a>.
+* **Write** a short blog post: what do you notice? what do you wonder? Post this on <a href="{{site.github.issues_url}}">the Issues page</a>.
 * **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
 * *Optionally* also download the [separate FFmpeg import/export library](https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html)
 <!-- * **Schedule** a one-on-one conference with Ben using https://benmiller314.youcanbook.me -->
@@ -67,7 +67,7 @@ For next time:
 
 * **Read** *Writer/Designer* excerpt (scanned file)
 * **Read** Stanford’s Fair Use overview _(optional)_;
-* **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.repository_url}}/issues">the Issues page</a>.
+* **Write** a proposal for your sound narrative, including a prospective asset list (as per *W/D*); post to <a href="{{site.github.issues_url}}">the Issues page</a>.
 * **Skim** the audio resources on the site, and read more deeply in anything that seems like it would help you.
 * **Begin** recording the sounds you'll need
 * **Bring** headphones so you can work in class
@@ -141,7 +141,7 @@ For next time:
 
 For next time:
 
-* **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.repository_url}}/issues">the issue queue</a>
+* **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 
 
 <h3><a href="{{site.github.url}}/plans/lesson-12">Lesson 12, Tuesday 10/8</a> – Visual Unit Studio</h3>
@@ -203,7 +203,7 @@ For next time:
 * **View/Read** documentation on using GitHub Pages <!-- https://pages.github.com/ -->
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
-* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the <a href="{{site.github.repository_url}}/issues">issue queue</a>.
+* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
 <h3><a href="{{site.github.url}}/plans/lesson-18">Lesson 18, Tuesday 10/29</a> – Web Unit Studio / Deployment</h3>
 
@@ -233,7 +233,7 @@ For next time:
 For next time:
 
 * **Read/View** collaborative unit examples/intros (see detailed hw in lesson plan)
-* **Write** one more blog post about what to do in weeks 12-13 (collaborative creative unit), which starts next week! Post this to <a href="{{site.github.repository_url}}/issues">the issue queue</a>, as usual
+* **Write** one more blog post about what to do in weeks 12-13 (collaborative creative unit), which starts next week! Post this to <a href="{{site.github.issues_url}}">the issue queue</a>, as usual
 * **Bring** headphones
 
 

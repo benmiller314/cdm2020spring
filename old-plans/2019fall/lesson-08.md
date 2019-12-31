@@ -7,7 +7,7 @@ layout: bottomnav
 
 **Work to have done**:
 
-* A short [blog post about possible group projects]({{site.github.repository_url}}/issues/6)
+* A short [blog post about possible group projects]({{site.github.issues_url}}/6)
 * Work in pursuit of a final soundscape narrative
 
 **Plan for the day**:
@@ -63,6 +63,6 @@ If you're using sounds someone else recorded, be sure to include enough informat
    - Your own assessment of how you met the baseline criteria and goals for the unit, as well as any aspirational criteria as appropriate
    - At least one photograph of a notecard with feedback you used (and please say how)
    - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
-* **Post your reflection** to the course site's [Issue queue]({{site.github.repository_url}}/issues/3), to make it easier to embed images.
+* **Post your reflection** to the course site's [Issue queue]({{site.github.issues_url}}/3), to make it easier to embed images.
    - If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!
    - If you feel strongly that you'd rather keep your reflection private, you can email it to me instead. But my default assumption is that we learn from each other as much as from ourselves, so I hope you can find a way to write publicly about your experience with this project.

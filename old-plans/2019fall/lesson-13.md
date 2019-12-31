@@ -22,7 +22,7 @@ In your own space – you won't have to share this unless you want to – do a 
 </div>
 
 ## 2. Refresher on visual arguments we've liked (5 min)
-Shift now in your writing to think about the [blog posts on rhetorical collages  in the wild]({{site.github.repository_url}}/issues/7) – or, if you haven't read through them in a while, look at them quickly now with an eye toward _what people are praising_ in these images:  **what seems to make a visual design work well, especially for making some intervention in the world or the viewer? Jot down some notes.**
+Shift now in your writing to think about the [blog posts on rhetorical collages  in the wild]({{site.github.issues_url}}/7) – or, if you haven't read through them in a while, look at them quickly now with an eye toward _what people are praising_ in these images:  **what seems to make a visual design work well, especially for making some intervention in the world or the viewer? Jot down some notes.**
 
 ## 3. Gathering criteria (45 min)
 Primed now by that writing and thinking, I'm going to ask you to get in groups and brainstorm in pursuit of baseline and aspirational criteria for this unit.

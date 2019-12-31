@@ -131,7 +131,7 @@ Based on your viewing, would anyone like to propose changes to the baseline crit
   - Visual programming (probably in [Scratch](https://scratch.mit.edu/about))
   - UI/UX design in Adobe Suite (talk to [Margaret](mailto:mpalko@pitt.edu) about this one!)
 
-* Skim through any links above that seem intriguing, and if something strikes you, **[post a proposal]({{site.github.repository_url}}/issues/13) to try to recruit partners**. As before, there is no minimum length for these posts.
+* Skim through any links above that seem intriguing, and if something strikes you, **[post a proposal]({{site.github.issues_url}}/13) to try to recruit partners**. As before, there is no minimum length for these posts.
 
 * Next class will be a web designers' studio: **optionally bring headphones for [sonic isolation](http://noisli.com)**, and whatever else you need to work towards finalizing your website portfolio.
   - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [prompt](https://github.com/benmiller314/webste-portfolio-2019fall#project-3-website-portfolio) for further details.

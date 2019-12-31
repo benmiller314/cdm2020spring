@@ -7,7 +7,7 @@ layout: bottomnav
 **Work to have achieved**:
 
 * A final-for-now version of your soundscape narratives
-* Write and [post]({{site.github.repository_url}}/issues/3) reflection on same
+* Write and [post]({{site.github.issues_url}}/3) reflection on same
 
 
 **Plan for the day**:
@@ -111,4 +111,4 @@ Points to hit:
    - By "design," I mean that some person made an active choice in its arrangement.
    - By "argument," I mean there should be an idea beyond the pure visual layout. The argument could be explicit or implicit; it could be serious or a joke. (Some claims are just _X is like Y_.) But you should be able to put it in words.
 * **Write** a short blog post, sharing your visual argument example. Examine it through the lenses of positive/negative, dominance/hierarchy, and rhythm/movement: what does that help you see? Would you say this is effectively designed for making its argument? (NB: If the argument is implicit, please try to articulate what you think it's claiming.)
-   - Post this to the issue queue, under ["Visual Arguments are Everywhere"]({{site.github.repository_url}}/issues/7).
+   - Post this to the issue queue, under ["Visual Arguments are Everywhere"]({{site.github.issues_url}}/7).

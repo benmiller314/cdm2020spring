@@ -33,7 +33,7 @@ Fill in as many items as you can in a couple of minutes.
 
 Look over your questions, and decide what's most urgent or most important. When you have one to share, share it around your table!
 
-Work together, using what you've each learned to answer as many of each other's questions as you can. We likely won't have time to get through everything; what questions remain, please post to the [Issue Queue]({{site.github.repository_url}}/issues)!
+Work together, using what you've each learned to answer as many of each other's questions as you can. We likely won't have time to get through everything; what questions remain, please post to the [Issue Queue]({{site.github.issues_url}}/)!
 
 ## 3. Loop writing
 _This exercise is adapted from one by Sondra Perl._
@@ -79,6 +79,6 @@ Once you feel good about that, work toward the project itself. (A preview will b
     - What idea or argument will you try to represent? What _claim_ will you try to make – or, at least, what is the triggering idea (starting point) of that claim?
     - Include or link to a **prospective assets list**, i.e. a table of the images you think you'll need and where you might be able to source them. You can choose to include that assets list here or place it as a file in your repository, to more easily track changes.
     - **Link to your project repository,** whether on GitHub or as a shared Box folder, so it's easier to find when we get to group work.
-* **Post** your proposal to the appropriate forum on the [Issue Queue]({{site.github.repository_url}}/issues).
+* **Post** your proposal to the appropriate forum on the [Issue Queue]({{site.github.issues_url}}/).
 
 * Finally, next class will be a studio; bring headphones if you'd like sonic isolation while you work among your peers.

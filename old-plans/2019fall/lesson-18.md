@@ -7,7 +7,7 @@ layout: bottomnav
 **Work to have done**:
 
 * As much of the [Interneting is Hard (but it doesn't have to be)](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-6 (from "Introduction" through "CSS Selectors")
-* A website proposal, posted to the [Issue Queue]({{site.github.repository_url}}/issues)
+* A website proposal, posted to the [Issue Queue]({{site.github.issues_url}}/)
 * More reading on [CSS selectors](https://css-tricks.com/how-css-selectors-work/) and [GitHub Pages](https://pages.github.com/)
 
 **Plan for the day**:

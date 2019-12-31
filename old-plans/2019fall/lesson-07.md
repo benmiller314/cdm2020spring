@@ -79,7 +79,7 @@ EXT: Based on your listening, would anyone like to propose new or modified basel
   - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [soundscape prompt](https://github.com/benmiller314/soundscape-prompt-2019fall) for further details.
 * Even as we zoom in toward the unit finale, I want to keep one eye open toward the bigger picture. **Write a short blog post** thinking about possible group projects you'd like to try for the end of term.
   - What further possibilities of sound might you want to explore in connection with other people, and other media?
-  - You can post this to the [Issue Queue]({{site.github.repository_url}}/issues/6); there is no minimum length requirement.
+  - You can post this to the [Issue Queue]({{site.github.issues_url}}/6); there is no minimum length requirement.
 
 
 

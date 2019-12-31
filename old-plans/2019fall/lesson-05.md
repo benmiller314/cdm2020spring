@@ -6,7 +6,7 @@ layout: bottomnav
 
 **Texts to have read / listened to:** _Writer/Designer_ on "Working with Multimodal Assets and Sources" (Ball, Sheppard, Arola); Stuart Fowkes on field recording; Alison MacAdam on breathing life into audio scenes; and optionally the Stanford Overview of Fair Use.
 
-**Work to have achieved:** a proposal for the soundscape narative, posted to the [issue queue]({{site.github.repository_url}}/issues/4)
+**Work to have achieved:** a proposal for the soundscape narative, posted to the [issue queue]({{site.github.issues_url}}/4)
 
 ## Plan for the day
 

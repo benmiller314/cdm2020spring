@@ -92,7 +92,7 @@ Based on your viewing, would anyone like to propose new criteria, whether baseli
   - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [rhetorical collage prompt](https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage) for further details.
 * Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). **Write a short blog post** thinking about possible group projects you'd like to try for the end of term.
   - What further possibilities of graphic design might you want to explore in connection with other people, and other media?
-  - You can post this to the [Issue Queue]({{site.github.repository_url}}/issues/10); like last time, there is no minimum length requirement.
+  - You can post this to the [Issue Queue]({{site.github.issues_url}}/10); like last time, there is no minimum length requirement.
 
 
 ## EXT:

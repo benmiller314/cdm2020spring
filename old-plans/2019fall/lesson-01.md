@@ -52,7 +52,7 @@ Don’t feel that you have to answer every single one of these questions, and es
 * EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course's (public) website, vs. just sending to me?
 
 ## 4. Homework preview
-One of the tasks for homework will be to post a brief introduction to yourself on our course discussion forum. We'll be using GitHub Issues for this purpose; I'll <a href="{{site.github.repository_url}}/issues/1">demo quickly</a>, in case you haven't seen this before.
+One of the tasks for homework will be to post a brief introduction to yourself on our course discussion forum. We'll be using GitHub Issues for this purpose; I'll <a href="{{site.github.issues_url}}/1">demo quickly</a>, in case you haven't seen this before.
 
 <div class="alert alert-info">
 An important consideration: <em>what web handle do you want to use for yourself in this course?</em> Will it be the same one you generally use for social media? Will you use your real name, or something more anonymous? There are pros and cons with each choice.
@@ -70,4 +70,4 @@ An important consideration: <em>what web handle do you want to use for yourself 
  3. **Watch** Michael Wesch's short video-essay, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM)
  4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
  5. **Join** [GitHub](https://github.com/) if you haven't yet, and
- 6. **Post** a brief introduction to yourself on the <a href="{{site.github.repository_url}}/issues/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And please do include a link to that digital tool / app / website you recommended at the start of class!
+ 6. **Post** a brief introduction to yourself on the <a href="{{site.github.issues_url}}/1">issue queue</a>. Feel free to excerpt from the letter you wrote me today, or to adapt it for the wider audience, if you want; you should have received a copy of your post at whichever email address you used on the form. And please do include a link to that digital tool / app / website you recommended at the start of class!

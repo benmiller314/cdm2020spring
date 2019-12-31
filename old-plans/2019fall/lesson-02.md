@@ -12,7 +12,7 @@ layout: bottomnav
 
 **Writing to turn in:**
 
-* A post to the main course [issue queue]({{site.github.repository_url}}/issues/1), introducing yourself to your classmates (and anyone else who stumbles upon it)
+* A post to the main course [issue queue]({{site.github.issues_url}}/1), introducing yourself to your classmates (and anyone else who stumbles upon it)
 
 
 ## Plan for the Day

@@ -8,7 +8,7 @@ layout: bottomnav
 
 **Work to have achieved:**
 
-* Post [on the issue queue]({{site.github.repository_url}}/issues/2) about what you noticed while listening
+* Post [on the issue queue]({{site.github.issues_url}}/2) about what you noticed while listening
 * Download or update [Audacity](https://www.audacityteam.org/download/)
 
 ## Plan for the day
@@ -139,7 +139,7 @@ The main writing assignment for Tuesday is to <strong>post a proposal for your s
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
   - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
 
-* To **post your proposal**, go to the [issue queue]({{site.github.repository_url}}/issues/5) and reply to the relevant thread.
+* To **post your proposal**, go to the [issue queue]({{site.github.issues_url}}/5) and reply to the relevant thread.
    - Note that this is an edit from the assignment: I realized last night that it makes more sense for you to be able to see each other's ideas, and bounce them off each other, than to start out isolated.
    - You can still choose to list your assets only in the repo.
    - But please do **include a link to your repository in your post**!

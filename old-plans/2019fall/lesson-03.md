@@ -242,7 +242,7 @@ Armed with that primer, let's do one more thing at the command line before you g
   - [Breaking Bad]({{site.github.url}}/assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.
   - [Battlestar Galactica]({{site.github.url}}/assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes.
 
-* **Write** a short blog post [on the issue queue]({{site.github.repository_url}}/issues/2): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
+* **Write** a short blog post [on the issue queue]({{site.github.issues_url}}/2): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
 
 * _Optional:_ This will be part of the homework for next weekend, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).

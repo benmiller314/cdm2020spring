@@ -129,7 +129,7 @@ EXT: If you're good on what a CSS class is, and how to add it to an HTML element
 
 * **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), getting through at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
-* **Write** a website proposal, posted to the [Issue Queue]({{site.github.repository_url}}/issues), including:
+* **Write** a website proposal, posted to the [Issue Queue]({{site.github.issues_url}}/), including:
     - some text about the idea or appeal you're hoping to make;
     - some sense of what pages and page sections you expect to include;
     - a prospective assets chart (what you'll need, where you might get it);
