@@ -65,7 +65,7 @@ An important consideration: <em>what web handle do you want to use for yourself 
  1. submit the info form and letter, if you haven't yet
  2. take the [grading contract](https://github.com/pitt-cdm/miller2019spring/blob/gh-pages/uploads/miller-2019spring-composingdigitalmedia-gradingcontract.docx)
 * **For next time**:
- 1. **Read** [syllabus and grading contract](/{{site.course.base_path}}uploads.md), which you can download on the Uploads page of the site. Print and either initial-and-sign the contract, or come back with suggested changes. (But bear in mind that all bargaining over the contract must be collective – we have to achieve consensus on any revisions.)
+ 1. **Read** [syllabus and grading contract]({{site.github.url}}/uploads.md), which you can download on the Uploads page of the site. Print and either initial-and-sign the contract, or come back with suggested changes. (But bear in mind that all bargaining over the contract must be collective – we have to achieve consensus on any revisions.)
  2. **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). *NB: This requires Flash to view, and therefore will not work in Google Chrome – and will probably require your explicit permission to open in Firefox or Safari.* It's published on a reputable academic journal. I believe it's safe or I wouldn't assign it. *After you've finished the Flash version, skim the pdf version.*
  3. **Watch** Michael Wesch's short video-essay, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM)
  4. **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class

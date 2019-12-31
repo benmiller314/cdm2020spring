@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/{{site.course.base_path}}assets/img/many-moons.jpg" class="banner" alt="banner: phases of the moon" />
+<img src="{{site.github.url}}/assets/img/many-moons.jpg" class="banner" alt="banner: phases of the moon" />
 
 
 ## Office Hours
