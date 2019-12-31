@@ -61,7 +61,7 @@ For next time:
 
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
-<h3><a href="{{site.github.url}}/plans/lesson-04">Lesson 4, Thursday 9/5</a> – Sound, Space, and Audacity<!-- tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
+<h3><a href="{{site.github.url}}/plans/lesson-04">Lesson 4, Thursday 9/5</a> – Sound, Space, and Audacity<!-- tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
 
 For next time:
 

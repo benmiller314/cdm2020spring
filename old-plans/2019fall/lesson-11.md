@@ -7,7 +7,7 @@ layout: bottomnav
 **Work to have achieved**:
 
 * Read about fonts
-* Review the [resources page]({{/site.course.base_path}}resources)
+* Review the [resources page]({{site.github.url}}/resources)
 * Do at least two tutorials from [gimp.org/tutorials](https://gimp.org/tutorials)
 
 **Plan for the day**:

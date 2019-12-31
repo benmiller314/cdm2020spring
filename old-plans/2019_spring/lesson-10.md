@@ -100,5 +100,5 @@ Don't miss the screencapture gif of the advanced search filters on Google Images
 # Homework for next time:
 * **Read** about fonts at [https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/](https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/). Note that this is part 2 of a 3-part series; feel free to read part 1 for more vocabulary about fonts, or part 3 if you get excited about font-learning! But part 2 has the most essential bits.
    - Optionally, **play** a font-matching game at http://www.typeconnection.com/ to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
-* **Review** the [resources page]({{/site.course.base_path}}resources), this time with an eye toward visual resources.
+* **Review** the [resources page]({{site.github.url}}/resources), this time with an eye toward visual resources.
 * **Write** a visual rhetoric proposal, thinking in words about what you'd like to make for this unit's major project. See more detailed instructions for what to include in the [Issue Queue](https://github.com/pitt-cdm/miller2019spring/issues/9).
