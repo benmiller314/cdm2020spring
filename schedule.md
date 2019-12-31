@@ -27,7 +27,7 @@ Unit VI | [Reflection and Revision](#unit-6) | (weeks 13-14)
 {: .table }
 
 <h2 id="unit-1">Unit I: What Makes Digital Media New?</h2>
-<h3><a href="/{{site.course.base_path}}plans/lesson-01">Lesson 1, Tuesday 8/27</a> – Introductions</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-01">Lesson 1, Tuesday 1/7</a> – Introductions</h3>
 HW for next time:
 
 * **Read** [syllabus and grading contract](/{{site.course.base_url}}uploads); return with questions or a signed contract.
@@ -37,18 +37,19 @@ HW for next time:
 * **Join** [GitHub](https://github.com/) if you haven't yet, and **post** an introduction to yourself on <a href="{{site.github.repository_url}}/issues/1">the issue queue</a>].
 
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-02">Lesson 2, Thursday 8/29</a> – What Can We Do With Digital?</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-02">Lesson 2, Thursday 1/9</a> – What Can We Do With Digital?</h3>
 
 HW for next time:
 
 * **Watch** Git and GitHub for Poets, starting at least with
 [the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow.
 * **Download** any software you'll need [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03), possibly including Homebrew (on Mac) and GitBash (on Windows)
-   - If you're feeling intimidated by the command line, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
-* *Optional* Also **download** the [GitHub Desktop application](https://desktop.github.com), available for MacOS or Windows.
+  - If you're feeling intimidated by the command line but want to give it a go, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
+* *Optional but highly recommended:* Also **download** the [GitHub Desktop application](https://desktop.github.com), available for MacOS or Windows.
 
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-03">Lesson 3, Tuesday 9/3</a> – Building a Repository</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-03">Lesson 3, Tuesday 1/14</a> – Building a Repository</h3>
+<!-- Be sure to clarify that what you want is a single folder and a single file, so you can track its evolution. Some people always seem to want to create new repos for each draft, which defeats the purpose. -->
 
 For next time:
 
@@ -61,7 +62,7 @@ For next time:
 
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-04">Lesson 4, Thursday 9/5</a> – Sound, Space, and Audacity<!-- tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-04">Lesson 4, Thursday 1/16</a> – Sound, Space, and Audacity<!-- discuss posts. demo tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
 
 For next time:
 
@@ -73,13 +74,13 @@ For next time:
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-05">Lesson 5, Tuesday 9/10</a> – Hands On with Audacity</h3>
-<!-- representative and reprehensible sampling
+<h3><a href="/{{site.course.base_path}}plans/lesson-05">Lesson 5, Tuesday 1/21</a> – Sound Ethics, Sound Studio</h3>
+<!-- instead of representative and reprehensible sampling, what if we practice looping?
 -->
 
 For next time:
 
-* **Fork** the assignment repository on GitHub
+* **Fork** the assignment repository on GitHub if you haven't yet
 * **Work** toward your soundscape narrative
 * **Push** a soundscape preview, including
   - the layered Audacity file (.aup)
@@ -88,7 +89,7 @@ For next time:
   - a brief description of what you've included (.txt or .md)
 
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-06">Lesson 6, Thursday 9/12</a> – Sound criteria and stretch goals</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-06">Lesson 6, Thursday 1/23</a> – Sound criteria and stretch goals</h3>
 
 
 For next time:
@@ -98,15 +99,15 @@ For next time:
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
 * **Bring** headphones
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-07">Lesson 7, Tuesday 9/17</a> – Sound Workshop</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-07">Lesson 7, Tuesday 1/28</a> – Sound Workshop</h3>
 
 For next time:
 
-* **Write** a blog post of possible group projects for the end of term. What more might you want to explore?
+* **Write** a blog post of possible collaborative / integrative projects for the end of term. <!--What games or branching narratives do the soundscapes put you in mind of? Or w --> What more might you want to explore?
 * **Bring** headphones so you can work in class
 
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-08">Lesson 8, Thursday 9/19</a> – Sound Studio</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-08">Lesson 8, Thursday 1/30</a> – Sound Studio</h3>
 
 For next time:
 
@@ -118,7 +119,7 @@ For next time:
 <h2 id="unit-3">Unit III: Visual Rhetorics and Argument</h2>
 *In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.*
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-09">Lesson 9, Tuesday 9/24</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-09">Lesson 9, Tuesday 2/4</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
 
 For next time:
 
@@ -126,191 +127,171 @@ For next time:
 * **Find** an example of a rhetorical visual design
 * **Write** a blog post about your example, using the analytical language from the reading
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-10">Lesson 10, Thursday 9/26</a> – Intro to GIMP and Visual Design</h3>
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-10">Lesson 10, Thursday 2/6</a> – Generating Visual Ideas</h3>
 
 For next time:
 
 * **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
-
-<div class="alert alert-danger">
-<strong>No class</strong> Tuesday, 10/1: Rosh Hashanah
-</div>
-
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Thursday 10/3</a> - Generating Visual Ideas</h3>
-
-For next time:
-
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.repository_url}}/issues">the issue queue</a>
 
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-12">Lesson 12, Tuesday 10/8</a> – Visual Unit Studio</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-11">Lesson 11, Tuesday 2/11</a> – Visual Unit Studio</h3>
 
 For next time:
 
 * **Compose and push** a visual rhetoric preview
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-13">Lesson 13, Thursday 10/10</a> – Visual Unit Criteria and Stretch Goals</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-12">Lesson 12, Thursday 2/13</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
 
 * **Compose and push** a visual rhetoric draft
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-14">Lesson 14, Tuesday 10/15</a> – Visual Unit Workshop</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-13">Lesson 13, Tuesday 2/18</a> – Visual Unit Workshop</h3>
 
 For next time:
 
-* **Write** a blog post with more ideas toward weeks 12-13 (collaborative creative unit)
-* **Bring** headphones
+* **Write** a blog post with more ideas toward the collaborative / integrative project unit. What further possibilities might you want to explore?
+* **Bring** headphones for <a href="https://www.noisli.com/">sonic isolation</a>, if you'd like
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-15">Lesson 15, Thursday 10/17</a> – Studio</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-14">Lesson 14, Thursday 2/20</a> – Studio</h3>
 
 For next time:
 
 * **By 11:59pm on Sunday,** complete – at least for now – your visual argument.
 * **By Tuesday's class,** write a prose reflection that incorporates images from your feedback and screenshots of your GIMP project.
-
+<!-- BEN HW: prepare a ppt on HTML, separation of content and display. See notes in /old-plans/2019fall/lesson-17.md, and also your Seminar in Pedagogy notebook from 2019 spring. -->
 
 
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-16">Lesson 16, Tuesday 10/22</a> – Midterm Reflections and Intro to Markup</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-15">Lesson 15, Tuesday 2/25</a> – Midterm Reflections and Intro to Markup</h3>
 <!--
-Revisit Sorapure/Manovich, introduce Janet Murray. This unit will focus on the encyclopedic, spatial, and procedural nature of digital media.
-Modern web markup is all about separation of content from display.
-[CSS Zen Garden](http://www.csszengarden.com/)
-EXT: developer tools demo, ideally using some site with a very clear box model.
+See lesson outline in old-plans/2019fall/lesson-17.md.
+It starts with [CSS Zen Garden](http://www.csszengarden.com/) as seen through the lens of visual emphasis, only later revealing that it's exactly the same content underneath.
 -->
 For next time:
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS")
 * **Show your work** by pushing your tutorial code to a repository
-* **Bring** headphones for sonic isolation during studio time
+* *Optionally* bring headphones for sonic isolation during studio time
 
-
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-17">Lesson 17, Thursday 10/24</a> – Intro to Web Design and Generative Sketching</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-16">Lesson 16, Thursday 2/27</a> – Intro to Web Design and Generative Studio</h3>
 <!--
-Start with EXT from last time, if need be.
-[Web design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
 Generative loop writing
 Offline sketching
-EXT: Self-paced tutorialing
+Self-paced tutorialing
 -->
 For next time:
 
-* **View/Read** documentation on using GitHub Pages <!-- https://pages.github.com/ -->
-* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
+* **Do** more of the [HTML and CSS tutorial](https://internetingishard.com/html-and-css/), including at least The Box Model (5) and CSS Selectors (6), if you haven't yet.
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
-* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the <a href="{{site.github.repository_url}}/issues">issue queue</a>.
+* **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, a prospective asset list, and a link to your repo. Post to the <a href="{{site.github.repository_url}}/issues">issue queue</a>.
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-18">Lesson 18, Tuesday 10/29</a> – Web Unit Studio / Deployment</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-17">Lesson 17, Tuesday 3/3</a> – Web Unit Studio / Deployment</h3>
 
 <!--
-Make sure everyone has successfully activated GitHub Pages before they leave -->
+Make sure everyone has successfully activated GitHub Pages before they leave. Note that the instructions at  https://pages.github.com/ are confusing, because we *don't want to create a whole new repo.* -->
 
 For next time:
 
-* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+* Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)). <!-- See notes from /old-plans/2019fall/lesson-21.md -->
 * **Compose and push** a website preview: a beginning.
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-19">Lesson 19, Thursday 10/31</a> – Web Unit Criteria and Stretch Goals</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-18">Lesson 18, Thursday 3/5</a> – Web Unit Criteria and Stretch Goals</h3>
 <!--
-Happy Halloween!
 Developer tools demo
 Self-paced tutorialing
 Offline sketching
 -->
 For next time:
 
+* **Finish** the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing.
+  - Email me with any questions, noting that I can help fastest if you include a screenshot and a link.
+* **Save and push as you go!** A full draft of your website project is due by the Thursday after break.
+* **View/Play** sample Twine games.
+
+
+<div class="alert alert-warning">
+Spring break is the week of Tu 3/10 and Th 3/12; our only classes will be CSS classes.
+</div>
+
+<h3><a href="/{{site.course.base_path}}plans/lesson-19">Lesson 19, Tuesday 3/17</a> – Studio and Collab Unit Planning</h3>
+
+For next time:
+
+<!-- * **Write** (or respond to) a pitch toward the collaborative project
+-->
 * **Compose and push** a full draft of your website project
 
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-20">Lesson 20, Tuesday 11/5</a> – Web Unit Workshop</h3>
-*Election Day*
+<h3><a href="/{{site.course.base_path}}plans/lesson-20">Lesson 20, Thursday 3/19</a> – Web Unit Workshop</h3>
 
 For next time:
 
-* **Read/View** collaborative unit examples/intros (see detailed hw in lesson plan)
-* **Write** one more blog post about what to do in weeks 12-13 (collaborative creative unit), which starts next week! Post this to <a href="{{site.github.repository_url}}/issues">the issue queue</a>, as usual
-* **Bring** headphones
+* **By 11:59pm on Tuesday,** complete – at least for now – your website project.
+* **By Thursday's class** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
 
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-21">Lesson 21, Thursday 11/7</a> – Studio</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-21">Lesson 21, Tuesday 3/24</a> – Studio</h3>
 
 For next time:
 
-* **By 11:59pm on Sunday,** complete – at least for now – your portfolio website project.
-* **By Tuesday's class** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
-
+* **Our class WILL NOT MEET on Thursday, 3/26: I will be out of town for the Conference on College Composition and Communication.**
+* **By 11:59pm,** complete – at least for now – your website project.
+* **By Thursday's class,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
 
 
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
-*The deadlines and assignments here will vary... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
+*The deadlines and assignments here will vary from group to group... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-22">Lesson 22, Tuesday 11/12</a> – Intro to Final Unit: Charting a Course Forward <!--(Integrative Interactive Narratives)--></h3>
-
-For next time:
-
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-23">Lesson 23, Thursday 11/14</a> – Grouping Up and Setting Out</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-22">Lesson 22, Tuesday 3/31</a> – Intro to Collaborative Unit: Charting a Course Forward</h3>
 
 For next time:
-* Make shared repository (GH, Box, or Drive), task list.
-* Push a collaborative project preview (get something started)
+* Make shared repository (GH, Box, or Drive) containing a task list and proposed roles for your team members, if you haven't done that already in class.
+* Decide together what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
+<!-- * Twinefolk, skim through [the Twine 2 wiki](http://twinery.org/wiki/twine2:guide).
+  - Note as well the possiblity of reverse engineering an existing Twine! Just import the html, and you can see what it's made of. -->
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-24">Lesson 24, Tuesday 11/19</a> – Studio / Minilessons / TBD</h3>
-
-For next time:
-
-* Keep documenting your progress with screenshots, commit messages, and/or reflective notes
-
-
-<h3><a href="/{{site.course.base_path}}plans/lesson-25">Lesson 25, Thursday 11/21</a> – Studio / Minilessons / TBD</h3>
+<h3><a href="/{{site.course.base_path}}plans/lesson-23">Lesson 23, Thursday 4/2</a> – Collaborative Unit Studio</h3>
 
 For next time:
+* Push a collaborative project preview (i.e. get something started) to your group repository.
+* Continue updating and following your group plan.
+* Document your progress as you go! Screenshot, save, commit (or otherwise log changes), push.
 
-* Keep documenting your progress with screenshots, commit messages, and/or reflective notes
+<h3><a href="/{{site.course.base_path}}plans/lesson-24">Lesson 24, Tuesday 4/7</a> – Collaborative Unit Criteria (But Mostly Studio)</h3> <!-- and intro to final portfolio -->
 
-<div class="alert alert-danger">
-<strong>No class</strong> Tuesday 11/26 or Thursday 11/28: Happy Thanksgiving!
-</div>
+For next time:
+* Full-as-possible draft of collaborative project
 
+<h3><a href="/{{site.course.base_path}}plans/lesson-25">Lesson 25, Thursday 4/9</a> – Collaborative Unit Studio</h3>
+<!-- **NO CLASS or a SUB? This is the first day / second night of Passover.** -->
+
+For next time:
+* Set group deadlines: are you trying to finish by Sunday? By the last class (next Thursday)?
 
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
+*Before the semester ends, we'll have time set aside for in-class revisions and reviews, and for drafting a reflective introduction to your final portfolio.*
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-26">Lesson 26, Tuesday 12/3</a> – Looking Backward to Look Forward (plus Studio time)</h3>
-<!--
-TRANSFER OWNERSHIP OF PROJECT REPOS
-Metaphors for learning?
-Review course goals
-Go over final portfolio requirements
-Make plans for final portfolio, introduction
-MAKE SURE TO ASSIGN THEM TO READ BACK THROUGH THEIR GIT HISTORIES, AND MAYBE EVEN DIFFS. Reflect not only on what you changed, but **why**: what were your goals as you revised each project? What goals stayed the same across the projects? CONNECT THIS BACK TO THE COURSE OUTCOMES IN THE SYLLABUS
-EXT: studio -->
+<h3><a href="/{{site.course.base_path}}plans/lesson-26">Lesson 26, Tuesday 4/14</a> – Studio; Intro to Final Portfolio</h3>
 
 For next time:
+* Finish collaborative project (at least for now), if you haven't yet
 
 * **Read** Paul Ford's "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019).
 * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
 * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll briefly share these next time.
 
-<h3><a href="/{{site.course.base_path}}plans/lesson-27">Lesson 27, Thursday 12/5</a> – Parting Gifts; in-class writing and revising time</h3>
-<!--
- OMETs (teacher evaluations)
--->
 
-*Last day of class!*
+<h3><a href="/{{site.course.base_path}}plans/lesson-27">Lesson 27, Thursday, 4/16</a> – Last day of class! Parting Gifts; Project Presentations; Play and Prep and Q&A</h3>
 
 For next time:
 * Work to complete your final portfolio
-
-
 
 &nbsp;
 
 &nbsp;
 <div class="alert alert-success">
-Final portfolios will be due by the end of the final exam slot, which we now know is <strong>Tuesday, December 10, at 1:50pm</strong>.
+<em>Final portfolios will be due by the end of the final exam slot, which will be announced soon.</em>
 </div>
