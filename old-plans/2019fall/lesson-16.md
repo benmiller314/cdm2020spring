@@ -143,7 +143,7 @@ Note that you can set Atom as your default text editor in GitHub Desktop, making
 ## EXT: Start the homework tutorial.
 I think the full tutorial's worth reading through, even if you're already familiar with the content (I was, and I still consolidated a lot of my understandings).
 
-But if you're able to breeze through parts 1-4, and still have time left in class, please look through the web-related sections of the class  [Resources]({{site.github.url}}/resources) page, and click through to the documentation for anything that sounds interesting!
+But if you're able to breeze through parts 1-4, and still have time left in class, please look through the web-related sections of the class  [Resources]({{site.github.baseurl}}/resources) page, and click through to the documentation for anything that sounds interesting!
 
 <!-- MOVED TO NEXT LESSON
 ## 4. "Web Design in 4 Minutes"... in 15 minutes

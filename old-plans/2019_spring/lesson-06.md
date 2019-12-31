@@ -26,7 +26,7 @@ Primed now by that writing and thinking, I'm going to ask you to get in groups a
 
 ### 3a. Let's try these groups:
 <figure>
-<img src="{{site.github.url}}/assets/img/2019-seating-groups.png" alt="Aba, Jared, Anthony, and Aliyah / Russell, Jesse, Laura, and Tessa / Jenny C, Jenny H, Margaret, and Tyler R / Tyller B, Christy, and Ryan / Beth, Nicole, Lauren, and Emma">
+<img src="{{site.github.baseurl}}/assets/img/2019-seating-groups.png" alt="Aba, Jared, Anthony, and Aliyah / Russell, Jesse, Laura, and Tessa / Jenny C, Jenny H, Margaret, and Tyler R / Tyller B, Christy, and Ryan / Beth, Nicole, Lauren, and Emma">
 </figure>
 
 ### 3b. Crowdsource ideas (10 min)
@@ -42,7 +42,7 @@ Quickly read through the other groups' notes, and as you see overlap, propose an
 We'll refine as a group, and repeat, and then come back and revise after Tuesday's workshop.
 
 <figure>
-<img src="{{site.github.url}}/assets/img/board--lesson-06.jpg" style="max-width:80%; height:auto; max-height: 70vh; width:auto;" />
+<img src="{{site.github.baseurl}}/assets/img/board--lesson-06.jpg" style="max-width:80%; height:auto; max-height: 70vh; width:auto;" />
 </figure>
 
 

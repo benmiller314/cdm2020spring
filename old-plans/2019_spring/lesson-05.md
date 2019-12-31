@@ -17,7 +17,7 @@ Lots of overlap _and_ plenty of difference in the proposals, which is always a g
 
 This is also, of course, a good reminder to try to find ways of making your story _your_ story, even as it takes on the conventions of a particular genre. If your proposal is focused on routine, what stories does your routine allow you to tell? If it's a game or a performance, what will draw listeners to this particular game or performance?
 
-Remember, as well, that one tool you have in your toolkit is music, especially open-licensed music. **The [resources]({{site.github.url}}/resources) page of our website has lots of links and suggestions; please do make use of them!**
+Remember, as well, that one tool you have in your toolkit is music, especially open-licensed music. **The [resources]({{site.github.baseurl}}/resources) page of our website has lots of links and suggestions; please do make use of them!**
 
 <!-- If by some miracle it's still 9:35, spend 5 minutes on Fair Use: purpose of copy, nature of original, substantiality of amount copied, market impact. -->
 
@@ -59,7 +59,7 @@ For clip 2, catching the listener's attention is all that matters. Here, anythin
 We'll share these among each other, but not post to GitHub – we don't want any of our fake clips to circulate widely!
 
 <div class="alert alert-success">
-Today's audio clip is from <a href="{{site.github.url}}/uploads/pelosi-accepts-gavel-20190103.mp3">Nancy Pelosi's address to the House of Representatives on again being elected Speaker</a>, January 3, 2019. Download it, and get going!
+Today's audio clip is from <a href="{{site.github.baseurl}}/uploads/pelosi-accepts-gavel-20190103.mp3">Nancy Pelosi's address to the House of Representatives on again being elected Speaker</a>, January 3, 2019. Download it, and get going!
 </div>
 
 <aside><smaller>
