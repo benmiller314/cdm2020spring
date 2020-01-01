@@ -12,5 +12,5 @@ This course requires students to compose digital media while exploring the rheto
     <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link" role="navigation" href="resources" title="useful links">Resources</a>
     <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link" role="navigation" href="office" title="one-on-one is most hands-on">Office Hours</a>
     <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link" role="navigation" href="uploads" title="files and handouts">Uploads</a>
-    <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link" role="navigation" href="{{site.github.forum_url}}" title="discuss readings, post responses">Forum</a>
+    <a class="flex-lg-fill text-lg-center btn btn-outline-secondary nav-item nav-link" role="navigation" href="{{site.github.issues_url}}" title="discuss readings, post responses">Forum</a>
 </nav>
