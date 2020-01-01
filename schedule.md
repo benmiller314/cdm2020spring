@@ -1,8 +1,9 @@
 ---
 layout: default
+featuredimage: "many-moons.jpg"
+featuredalt: "banner: phases of the moon"
 ---
 
-<img src="{{site.github.baseurl}}/assets/img/many-moons.jpg" class="banner" alt="banner: phases of the moon" />
 
 # Class-by-Class Schedule
 

@@ -1,8 +1,11 @@
 <section class="w-100">
 <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light .bg-light fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark .bg-dark fixed-top">
       {% include nav_contents.html %}
     </nav>
+    {% if page.featuredimage %}
+      <img src="{{site.github.baseurl}}/assets/img/{{page.featuredimage}}" alt="{{page.featuredalt}}" title="{{page.featuredtitle}}" class="banner" />
+    {% endif %}
   </div>
 </section>
