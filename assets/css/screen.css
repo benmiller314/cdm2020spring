@@ -8,15 +8,44 @@ body {
 .foreground {
 	background-color: #f7f7f7;
 	min-height: 720px;
-	padding-bottom: 5em;
+	width: 90%;
+	margin: 0 5%;
+	padding: 5em;
+}
+
+/* Front page styling */
+p#description {
+	max-width: 50em;
+	margin: 0 1.5em;
+}
+
+.center-pills {
+    display: flex;
+    justify-content: center;
+		flex-wrap: wrap;
+}
+
+.center-pills .nav-item {
+		height: fit-content;
+		margin: 5px;
 }
 
 header h1, header h2, header h3, header h4 {
 	font-family: asap, calibri, sans-serif;
 }
 
+header h3 {
+    font-size: 1.3em;
+    font-weight: initial;
+    color: #777;
+}
+
 header, .page-header {
 	background-color: #f7f7f7;
+}
+
+.page-header {
+	max-width: 70%;
 }
 
 footer {
@@ -44,6 +73,10 @@ body.bottom_header {
 	padding-bottom: 69px;
 }
 
+body.front header {
+	flex-wrap: wrap;
+}
+
 div#navbar-collapse-1 {
 	margin-top: 9px;
 }
@@ -52,7 +85,7 @@ body.full_header {
 	padding-top: 105px;
 }
 
-div#navbar-collapse-2 {
+div#navbar-collapse-2 {   /* only used in full_header.html*/
 	margin-top: -15px;
 }
 
@@ -116,13 +149,6 @@ dd {
     margin: 0 0 1em 2em;
 }
 
-/* Center navigation on front page */
-.center-pills {
-    display: flex;
-    justify-content: center;
-    flex-wrap:wrap
-}
-
 /* Make new alert class with a transparent middle but a colored border; useful for sidebar topics within main content */
 .alert-white {
     border: 1px solid deepskyblue;
@@ -133,9 +159,6 @@ ul.spaced li, ol.spaced li {
 	  margin-bottom: 1em;
 }
 
-details[open] {
-	margin-bottom: 0.9em;
-}
 
 /* Create side-by-side columns */
 .flex-container {

@@ -3,48 +3,50 @@
 <head>
   {% include sitewide_head.html %}
 </head>
-<body>
+<body class="front">
+  <span class="sr-only sr-only-focusable"><a href="#front-nav">Jump to navigation</a></span>
   <div id="background" class="container-fluid background">
 
-  <div id="foreground" class="foreground col-xs-12 col-md-10 col-md-offset-1">
+  <div id="foreground" class="foreground">
 
-    <header class="clearfix">
-      <div class="col-md-3 col-md-offset-1 col-sm-12">
+    <header class="d-flex align-items-center page-header justify-content-between">
+      <div class="col col-md-6">
         <h1 class="sr-only">Composing Digital Media</h1>
         <img src="{{site.github.baseurl}}/assets/img/course-title.gif" alt="animating media through replication, revision, responsiveness, rearrangement, remix, and more." />
-      </div>  
-      <div class="col-md-5 col-md-offset-2 col-sm-12">
-        <div class="row clearfix page-header">
-          <h2 class="text-right">{{ site.course.instructor.name }}</h2>
-          <h2 class="text-right"><small>
+      </div>
+      <div class="flex-column justify-content-between align-items-center page-header col-md-6">
+          <h2>{{ site.course.instructor.name }}</h2>
+          <h3>
               {{ site.course.term }} |
               {{ site.course.time }} |
-              {{ site.course.room }}</small></h2>
-        </div>
+              {{ site.course.room }}</h3>
       </div>
     </header>
-    <div id="featured-image" class="col-md-5 col-md-offset-1 col-sm-12">
 
-    {{ page.featured_image }}
+    {%if page.featured_image %}
+      <div id="featured-image" class="col-md-5 col-md-offset-1 col-sm-12">
 
-    </div>
+      {{ page.featured_image }}
 
-    <section id="content" class="col-md-5 col-sm-10 col-sm-offset-1 col-xs-12">
+      </div>
+    {% endif %}
+
+    <section id="content" class="d-flex justify-content-around flex-sm-wrap-reverse flex-lg-nowrap">
 
     {{content}}
-  
+
     </section>
   </div> <!-- end of foreground -->
-  
+
   </div> <!-- end of background -->
   <footer>
     {% include credits_and_license.html %}
   </footer>
-  
+
 
 <!--jQuery & Twitter Bootstrap JavaScript-->
-<script type="javascript" src="{{site.github.baseurl}}/assets/js/jquery-3.2.1.min.js"></script>
-<script type="javascript" src="{{site.github.baseurl}}/assets/js/bootstrap.min.js"></script>
+<script type="javascript" src="{{site.github.baseurl}}/assets/js/jquery-3.4.1.min.js"></script>
+<script type="javascript" src="{{site.github.baseurl}}/assets/js/bootstrap.bundle.min.js"></script>
 
 </body>
 </html>
