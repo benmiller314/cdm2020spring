@@ -1,8 +1,9 @@
 ---
 layout: default
+featuredimage: "dangerous-to-go-alone-wide.jpg"
+featuredalt: "banner: It's dangerous to go alone. Take this!"
+featuredtitle: "image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."
 ---
-
-<img src="assets/img/dangerous-to-go-alone-wide.jpg" class="banner" alt="banner: It's dangerous to go alone. Take this!" title="image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."/>
 
 
 # Uploaded Files and handouts
