@@ -15,7 +15,7 @@ Table of contents:
    - [Sounds and Music](#sounds-and-music)
    - [Visuals](#visuals)
    - [Web Frameworks](#web-frameworks)
-* [Unit-Specific Resources](#unit-specific-resources)
+* [Advice and Examples](#advice-and-examples)
    - [Audio](#audio)
    - [Visual](#visual)
    - [Web Design](#web-design)
@@ -125,8 +125,8 @@ Table of contents:
 </dd>
 </dl>
 
-## Unit-Specific Resources
-*This section will expand as we move forward; feel free to suggest others that you come across!* (You can <a href="https://github.com/benmiller314/cdm2019fall/blob/gh-pages/resources.md">edit this page</a> and file pull request, or just email me.)
+## Advice and Examples
+*This section will expand as we move forward; feel free to suggest others that you come across!* (You can fork the repo, <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">edit this page</a>, and file a pull request! Or just email me. That works, too.)
 
 ### Audio
 Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
