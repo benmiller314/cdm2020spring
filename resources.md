@@ -5,6 +5,8 @@ featuredalt: "banner: It's dangerous to go alone. Take this!"
 featuredtitle: "image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."
 ---
 
+*This set of resources will likely expand as we move forward; feel free to suggest others that you come across!* (You can fork the repo, <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">edit this page</a>, and file a pull request! Or just email me. That works, too.)
+
 
 # Resources
 
@@ -126,7 +128,6 @@ Table of contents:
 </dl>
 
 ## Advice and Examples
-*This section will expand as we move forward; feel free to suggest others that you come across!* (You can fork the repo, <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">edit this page</a>, and file a pull request! Or just email me. That works, too.)
 
 ### Audio
 Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listings</a> above, you might find FreeSound, CCMixter, SoundCloud, and Jamendo especially pertinent. See also the sections on <a href="#file-compression">file compression</a> and the link to <a href="#other-resource-roundups">Courtney Danforth's soundwriting advice</a>, below.
