@@ -12,9 +12,9 @@ On this page, you'll find links to important course documents and readings you c
 
 ## Syllabus-related materials
 
-* [Grading contract](https://github.com/benmiller314/cdm2019fall/raw/gh-pages/uploads/miller-2019fall-composingdigitalmedia-gradingcontract.docx)
-* [Syllabus, all except grading contract](https://github.com/benmiller314/cdm2019fall/raw/gh-pages/uploads/miller-2019fall-composingdigitalmedia--long-syllabus-except-grading-contract.docx) (includes first-day letter from Ben)
+* [Full syllabus, including Grading Contract]({{site.github.repository_url}}/raw/gh-pages/uploads/miller--2020spring--composingdigitalmedia--longsyllabus-with-grading-contract.docx)
+<!-- * [Syllabus, all except grading contract](https://github.com/benmiller314/cdm2019fall/raw/gh-pages/uploads/miller-2019fall-composingdigitalmedia--long-syllabus-except-grading-contract.docx) (includes first-day letter from Ben) -->
 <!-- * [Ben's welcome letter from first day](https://github.com/benmiller314/cdm2019fall/blob/gh-pages/first-day-letter.md) -->
 
 ## Other handouts
-(coming soon)
+(will be posted here, as needed)
