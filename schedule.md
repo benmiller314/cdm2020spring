@@ -31,7 +31,7 @@ Unit VI | [Reflection and Revision](#unit-6) | (weeks 13-14)
 <h3><a href="{{site.github.baseurl}}/plans/lesson-01">Lesson 1, Tuesday 1/7</a> – Introductions</h3>
 HW for next time:
 
-* **Read** [syllabus and grading contract](/{{site.course.base_url}}uploads); return with questions or a signed contract.
+* **Read** [syllabus and grading contract](/{{site.github.baseurl}}/uploads); return with questions or a signed contract.
 * **Read** Madeline Sorapure's interactive webtext, ["Five Principles of New Media: or, Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/binder2.html?coverweb/sorapure/index.htm). After you've finished the Flash version, skim the pdf version.
 * **Watch** Michael Wesch, [“Information R/evolution”](http://www.youtube.com/watch?v=-4CV05HyAbM&amp;feature=youtube_gdata_player)
 * **Respond** to the [Tech Comfort Survey](http://bit.ly/cdm2019survey) if you haven't done so in class
