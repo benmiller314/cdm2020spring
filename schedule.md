@@ -251,8 +251,10 @@ For next time:
 For next time:
 * Make shared repository (GH, Box, or Drive) containing a task list and proposed roles for your team members, if you haven't done that already in class.
 * Decide together what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
-<!-- * Twinefolk, skim through [the Twine 2 wiki](http://twinery.org/wiki/twine2:guide).
-  - Note as well the possiblity of reverse engineering an existing Twine! Just import the html, and you can see what it's made of. -->
+<!--
+* Twinefolk, skim through [the Twine 2 wiki](http://twinery.org/wiki/twine2:guide).
+  - Note as well the possiblity of reverse engineering an existing Twine! Just import the html, and you can see what it's made of.
+-->
 
 <h3><a href="{{site.github.baseurl}}/plans/lesson-23">Lesson 23, Thursday 4/2</a> – Collaborative Unit Studio</h3>
 
