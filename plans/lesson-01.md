@@ -50,6 +50,7 @@ Don’t feel that you have to answer every single one of these questions, and es
 
 * EXT: If you finish early, think about making the letter multimodal. What images would you want to add? How might you arrange the images and text?
 * EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course's (public) website, vs. just sending to me?
+* EXT: Finally, if you're still waiting for others, go ahead and read the rest of this page, starting from the URL in the syllabus. Then you can start the homework until we're ready as a class to sync up again.
 
 ## 4. Homework preview
 One of the tasks for homework will be to post a brief introduction to yourself on our course discussion forum. We'll be using GitHub Issues for this purpose; I'll <a href="{{site.github.issues_url}}/1">demo quickly</a>, in case you haven't seen this before.
