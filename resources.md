@@ -1,8 +1,8 @@
 ---
 layout: default
-featuredimage: "dangerous-to-go-alone-wide.jpg"
-featuredalt: "banner: It's dangerous to go alone. Take this!"
-featuredtitle: "image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."
+bannerimage: "dangerous-to-go-alone-wide.jpg"
+banneralt: "banner: It's dangerous to go alone. Take this!"
+bannertitle: "image modified from still of *The Legend of Zelda* by Shigeru Miyamoto and Nintendo."
 ---
 
 *This set of resources will likely expand as we move forward; feel free to suggest others that you come across!* (You can fork the repo, <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">edit this page</a>, and file a pull request! Or just email me. That works, too.)

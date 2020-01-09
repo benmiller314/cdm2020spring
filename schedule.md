@@ -1,7 +1,7 @@
 ---
 layout: default
-featuredimage: "many-moons.jpg"
-featuredalt: "banner: phases of the moon"
+bannerimage: "many-moons.jpg"
+banneralt: "banner: phases of the moon"
 ---
 
 
