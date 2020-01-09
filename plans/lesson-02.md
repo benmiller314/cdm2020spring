@@ -50,7 +50,7 @@ But its core functionality is meant to solve a different media problem:
 
 <div class="alert alert-success">
 Let's quickly walk through what it looks like:
-<strong><a href="https://github.com/benmiller314/text-demo">https://github.com/benmiller314/text-demo</a></strong>
+<strong><a href="https://github.com/benmiller314/text-demo#readme">https://github.com/benmiller314/text-demo</a></strong>
 </div>
 
 <!--
