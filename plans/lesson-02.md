@@ -75,7 +75,7 @@ We'll be working in groups. Can I get about five volunteers who are feeling good
 
 <div class="alert alert-success">
 Head to
-<strong><a href="https://github.com/benmiller314/digital-affordances-2020spring">https://github.com/benmiller314/digital-affordances-2020spring</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, anchors!)
+<strong><a href="https://github.com/benmiller314/digital-affordances-2020spring#readme">https://github.com/benmiller314/digital-affordances-2020spring</a></strong>, where you'll find more instructions for what to do next – starting with forking the repo. (Thanks, anchors!)
 
 Then follow the instructions in the README file.
 </div>
