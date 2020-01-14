@@ -91,38 +91,35 @@ This is Tyller Barner's "Coffeeshop Conversations," from Spring 2019. I'm very h
 
 ### Project files vs. rendered files
 
+<!-- show Tyller's files -->
+
 <div class="alert alert-warning">
 <strong>Important:</strong> Audacity project files, with extension .aup, do not in themselves contain any sound. They are, instead, an index of the files that live in an adjacent folder: if your main file is <em>project.aup</em>, then the data folder is <em>project_data</em>.
 
-<strong>The .aup file and the \_data folder must always stay in the same place.</strong> If you have one but not the other in your repository, the project will not open properly.
+<strong>The .aup file and the \_data folder must always live in the same containing folder, and move together.</strong> If you have one in your repository but not the other, the project will not open properly!
 </div>
 
-## 4. Git Beyond GitHub (10 min)
+NB: You should never need to manipulate the files in the \_data folder directly: just let Audacity handle them.
 
+## 4a. Git Beyond GitHub (10 min)
 
+The number of files in the \_data folder can get quite large – easily into the hundreds. And the GitHub web interface, as great as it is, *cannot handle that many files at once*. Trying might well break your project.
 
+So we'll need another solution.
 
+Luckily, we have one! As you'll have learned from the videos, GitHub as a (mostly web-based) file-sharing and project-management platform is built on top another system – Git – which runs mostly on text commands.
 
-As you'll have learned from the videos, GitHub is a (mostly web-based) file-sharing and project-management platform built on top of Git – the version control system that runs mostly on text commands. GitHub's pretty, well, pretty.
+And Git can handle quite a bit more than GitHub can... and then share it seamlessly to GitHub, with all the hard work taken care of.
 
-<div class="alert alert-info">
-Let's pause for a moment: <strong>Why would we ever want to use Git outside of GitHub?</strong>
-</div>
-
-
-<details>
-<summary>Super-technical people may have many more reasons than I want to get into. For today, let's focus on a few quick victories... </summary>
-
-
+In particular:
 <ul>
-<li>Git lets us "stage" multiple files at once and wrap them in a single commit.</li>
-<li>Git lets us keep track of small changes locally before we're ready to share them with the world – and then to "push" multiple commits all at once.</li>
-<li>Using the command line lets us access and activate more features of Git than the GitHub defaults allow.</li>
+<li>Git lets you "stage" multiple files at once and wrap them in a single commit.</li>
+<li>Git lets you keep track of changes locally (on your own computer) before you're ready to share them with the world – and then to "push" multiple commits all at once.</li>
+<li>If you use the command line, you can also access and activate more features of Git than the GitHub defaults allow.</li>
 </ul>
 
-These will all be important for using Audacity, which we'll demonstrate next time.
-</details>
 
+### Clone Warriors
 All of that depends on getting your files from GitHub onto your own computer, while still keeping them linked and tracked.
 
 Which means it's now time to **[*clone* the repository you just created](https://help.github.com/articles/cloning-a-repository/)**: that is, let's download it and make sure we're still tracking it with the same Git commit history.
@@ -135,63 +132,71 @@ There are three ways...
 
 <figure>
 <img alt="github clone or download button, open" src="../assets/img/github-clone-or-download-2.png" />
+
+<figcaption>
+<ul><li> <!-- The most obvious is --> download zip (but I don't recommend this)</li>
+<li>command line: <code>git clone %clone_url%</code></li>
+<li>open in desktop (I recommend this)<ul><li>If you haven't yet downloaded GH Desktop, it'll automatically redirect you to a page where you can.</li></ul></li></ul>
+</figcaption>
+
 </figure>
 
+<figure>
+<img alt="github open in desktop – choose file location" src="../assets/img/github-clone-where-to-save.png"
+<figcaption>Click that little "choose" button to get a dialog box, letting you put the files somewhere you can access them easily. <!-- And don't panic if you get an error that the location already contains files! Just click the "choose" button and go somewhere else. --></figcaption>
+</figure>
 
-* download zip
-* command line: `git clone %clone_url%`
-* open in desktop
+## 5. Multiple Views of the Same Files
 
-## 4. Multiple Views of the Same Files
-
-Where do the files go when you clone them? You could use Windows Explorer or Mac Finder to open the folder...
+Where do the files go when you clone them? You could use Windows Explorer or Mac Finder to open the folder you just saved to...
 
 ... but how to do commits there? How to see file history?
 
-Enter the **command line**, a.k.a. _Terminal_ on Mac, or _GitBash_ (or _PowerShell_) on Windows.
 
-<div class="alert alert-warning">
-Not sure how to open a command line? Try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
-</div>
+### The command line: behind the scenes
+//See also the ["Git and GitHub for Poets" episode 1.5, intro to the command line](https://youtu.be/oK8EvVeVltE).//
 
-Much as a repository is just another name for a file folder you're tracking, the command line is just another way of seeing the files you're used to seeing in windows. (Lowercase 'w.')
+Much as a repository is just another name for a file folder you're tracking, the <em>command line</em> is just another way of seeing the files you're used to seeing in windows. (Note the lowercase 'w.') Instead of a graphical interface, everything here will be text.
 
-<div class="alert alert-info">
-Change something in one view, and it changes in the other. Because it's really the same place.
-</div>
 
-### Moving around at the command line
+The command line goes by many names: a.k.a. _Terminal_ on Mac, or _GitBash_ (or _PowerShell_) on Windows. If you're not sure how to open it, try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
 
-To get where you're going:
+
+<figure>
+<img alt="terminal window showing git status command" src="../assets/img/terminal-git-status.png" />
+<figcaption>Above, a terminal window. In the top line, the text to the left of the dollar sign ($) is a "prompt," showing where you are and who you're logged in as; text to the right are commands entered. Here, <code>git status</code> yields information about the repository's state (what's new, modified, or deleted since the last commit) and gives tips about how to proceed (last line before the return of the prompt).
+</figcaption>
+</figure>
+
+
+**To get where you're going:**
 ```bash
 cd path/to/your/folder    # change directory
 pwd               # print working directory (i.e. where am I?)
 ls                # list directory contents
 cd ..             # go up one directory level
 cd ~              # go to home folder
+open .            # open the current directory in Finder/Explorer
 ```
 
-To clone a remote repository (i.e. a project on GitHub): grab the URL from that download button and use it instead of the %remote_url% in this command:
-```bash
-git clone %remote_url%
-```
-(Note that you'll then need to `cd` into the directory that creates.)
+NB: As a shortcut to the folder path in step one above, you can type `cd ` (note the space) and just drag-and-drop the folder from Finder/Explorer into the command line.
+NB: You can also press `tab` to autocomplete a partial file or folder name.
 
-To see what git is tracking:
-```bash
-git status
-```
+<div class="alert alert-info">
+Change something in one view, and it changes in the other. Because it's really the same place.
+</div>
 
-Basic git workflow:
+
+**Basic git workflow:**
 ```bash
-git status           
+git status           # see what git is tracking / what's changed
 git pull             # download changes from GitHub
 git status           # start of loop
 # here you make changes to your files
 git add %filename%   # optionally repeat
 git status
 git commit -m "your headline commit message - note the quotes" -m "your optional extra details, if you want them, just go in a second message."
-                     # repeat loop as desired
+                     # repeat add/commit loop as desired
 git push             # publish your changes
 ```
 
@@ -199,13 +204,19 @@ git push             # publish your changes
 
 ### Yet another view
 
-Alternately, if you've downloaded [https://desktop.github.com](GitHub Desktop), you can use a visual interface to accomplish all of those local commands. And it'll also generously prompt you to push changes when you've finished committing them.
+Alternately, if you've downloaded [GitHub Desktop](https://desktop.github.com), you can use a visual interface to accomplish all of those local commands. And it'll also generously prompt you to push changes when you've finished committing them.
 
 <!-- Ben quickly demos -->
 
+<figure>
+<img alt="github desktop shows status and diff view by default" src="../assets/img/github-desktop-status.png">
+<figcaption>Above, Github Desktop. Checking the boxes at the left is akin to <code>git add</code>; uncheck to unstage individual files, as they'll all be selected by default. Commit messages are entered at the bottom left. A button to push is part of the toolbar at the top right.
+</figcaption>
+</figure>
+
 (NB: If you haven't tried GH Desktop in a few years, it's vastly improved since then.)
 
-## 3b. Back to making use of Git outside of GitHub
+## 4b. Back to Git Beyond GitHub
 
 <div class="alert alert-success">
 With all that settled, let's finally take advantage of Git outside of GitHub, and <strong>make two changes in the same commit:</strong>
@@ -217,55 +228,12 @@ With all that settled, let's finally take advantage of Git outside of GitHub, an
 Then <em>push</em> your changes so they appear on GitHub.
 </div>
 
+
+
 EXT: If you're already good with all this – e.g. if you've used Git before – please help others who are catching up.
 
 
-# 4. Very Brief Intro to the Command Line: going behind the scenes (but the usual scenes)
 
-Much as a repository is just another name for a file folder you're tracking, the command line is just another way of seeing the files you're used to seeing in windows. (Lowercase 'w.')
-
-<div class="alert alert-warning">
-Not sure how to open a command line? Try <a href="https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html">these instructions</a>.
-</div>
-
-To get where you're going:
-```bash
-cd path/to/your/folder    # change directory
-ls                # list directory contents
-```
-
-Download the folder, preserving the connected history:
-```bash
-git clone %clone_url%
-```
-<div class="alert alert-warning">
-NB: Don't include those percent signs; that's just my way of saying that <em>clone_url</em> is a variable, not a literal string you need to type in.
-</div>
-
-Core commands you'll need often:
-
-```bash
-git status           
-git pull             # download changes from GitHub
-git status           # start of loop
-git add %filename%    
-git status
-git commit -m "your headline commit message" -m "your optional extra details, if you want them, just go in a second message."
-                     # repeat loop as desired
-git push             # publish your changes
-```
-
-<div class="alert alert-info">
-<strong>NB:</strong> Edits that you make outside of the command line are reflected in the command line. Why? Because <em>it's the same folder, just viewed from a different vantage point.</em>
-</div>
-
-## 5. A little command line setup for the Soundscape Narrative
-
-Armed with that primer, let's do one more thing at the command line before you go out and start recording and editing soundscapes.
-
-<div class="alert alert-success">
-<a href="https://github.com/pitt-cdm/soundscape-prompt#setup" class="alert-link">Head back into the assignment prompt, and scroll down to Setup.</a> Follow the instructions there.
-</div>
 
 # HW for next time:
 * **Download** the [Audacity](https://www.audacityteam.org/download/) audio editor, or update to the latest version if you already have it.
@@ -273,18 +241,20 @@ Armed with that primer, let's do one more thing at the command line before you g
 * **Bring** headphones – we should have time to practice using it!
 
 * **Listen** to the following recordings made by students in response to a similar prompt:
-<!-- update next time with examples from this class where possible -->
+<!-- update each time with examples from this class where possible -->
   - Barner, Tyller. "Coffee Shop Conversations." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/248](http://dmap.pitt.edu/node/248).
-  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
-  - Johnson, Beth. "Hello." *Digital Media and Pedagogy Showcase Spring 2019.* [http://dmap.pitt.edu/node/249](http://dmap.pitt.edu/node/249).
-  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178).
+  - Funke, Taylor. "Soundscape - Day In: Day Out." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/177](http://dmap.pitt.edu/node/177).
+  - Quaid, Fatema. "A Haunted Halt." *Digital Media and Pedagogy Showcase Fall 2019.* [http://dmap.pitt.edu/node/295](http://dmap.pitt.edu/node/295).
+  - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). (NB: starts loud; turn volume down)
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
   - [Breaking Bad]({{site.github.baseurl}}/assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.
-  - [Battlestar Galactica]({{site.github.baseurl}}/assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes.
+  - [Battlestar Galactica]({{site.github.baseurl}}/assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes. (NB: starts very quiet)
 
-* **Write** a short blog post [on the issue queue]({{site.github.issues_url}}/2): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
+* **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
 
-* _Optional:_ This will be part of the homework for next weekend, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
+<hr/>
+
+* _Optional:_ This will be part of the homework for the weekend, but if you want to get a head start, **read** the following advice on sound recording, **listening to the embedded clips**:
   - Fowkes, Stuart. “The Top 5 Things You Need to Make a Great Field Recording.” *Cities & Memory: Field Recordings, Sound Map, Sound Art*, 13 Aug. 2014, [https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/](https://citiesandmemory.com/2014/08/top-5-things-need-make-great-field-recording/).
   - MacAdam, Alison. “6 NPR Stories That Breathe Life into Neighborhood Scenes.” *NPR Training*, 30 Oct. 2015, [https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/](https://training.npr.org/audio/six-npr-stories-that-breathe-life-into-neighborhood-scenes/). (**Note the time skips she recommends**: sometimes a long clip is embedded, but not meant to be listened to in full.)
