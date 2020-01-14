@@ -14,12 +14,13 @@ layout: bottomnav
 
 ## Plan for the day
 
-1. GitHub for Poets review (25 min)
+1. GitHub for Poets review (15-25 min)
 <!-- EXT. Versioning beyond simple text files -->
-2. First project: Soundscape Narrative (20 min)
-3. What Git does better than GitHub (5 min)
-4. Multiple views of the same files
-5. A little command line setup for Soundscape Narrative
+2. First project assignment: Soundscape Narrative (10-15 min)
+3. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, resize tracks, zoom, .aup files and the _data folder -->
+4. Git Beyond GitHub (10 min)
+5. Multiple views of the same files
+<!-- 6. A little command line setup for Soundscape Narrative -->
 6. HW Preview
 
 
@@ -34,10 +35,9 @@ layout: bottomnav
 Next, <strong>in pairs, compare your impressions.</strong> Help each other with your questions; be ready to share remaining questions or big takeaways. Spend another 5-8 minutes here.
 </div>
 
-<em>EXT: What do you think are the limitations of the GitHub interface? What are some things you might want to do with Git that you haven't yet seen? Conversely, what do you think GitHub, as a website, might do better than Git?</em>
+<em>EXT: What do you think are the limitations of the GitHub interface? What are some things you might want to do with Git that you haven't yet seen? Conversely, what do you think GitHub, as a website, might do better than Git at the command line?</em>
 
-
-Okay, so **back to full-class discussion.** What stands out?
+Okay, so **back to full-class discussion.** What are your takeaways? Your remaining questions?
 
 ## 2. First project: Soundscape Narrative (20 min)
 
@@ -51,16 +51,57 @@ with particular attention to its ability to communicate
   - *narrative pacing and change*.
 
 <div class="alert alert-success">
-To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/soundscape-prompt">https://github.com/benmiller314/soundscape-prompt</a></strong>.
+To read the full assignment – and fork a copy for yourself – go to <strong><a href="https://github.com/benmiller314/soundscape2020spring">https://github.com/benmiller314/soundscape2020spring</a></strong>.
 </div>
 
 Let's read through this together.
 
 <!--
-Go through overview, constraints, deadlines. The sections below are prep for the "setup" section.
+Go through overview, constraints, deadlines. Don't show parachute prompts except to say they exist. The sections below are prep for the "setup" section.
 -->
 
-## 3a. What Git does better than GitHub
+## 3. Audacity Tour, by way of a past-semester example (10-15 min) <!-- tracks, mute/solo, resize tracks, zoom, .aup files and the _data folder -->
+
+I want to start with a behind-the-scenes view of one of the finished soundscapes I'll ask you to listen to for homework.
+
+This is Tyller Barner's "Coffeeshop Conversations," from Spring 2019. I'm very happy to talk at some point about the piece itself, but for now, let's see what it can show us about this new application, Audacity.
+
+### Initial questions to ask:
+
+- How is the space of the app laid out?
+- What's given the most prominent visual focus?
+- What features/tools do you have quick access to?
+
+### Now let's play
+
+<!--
+1. Literally press play.
+2. Zoom far in.
+3. Pin the cursor.
+4. Scroll up and down.
+5. Zoom all the way out in one click.
+6. View > Track Size > Collapse tracks.
+7. Try to move "Hillman Coffee" track to the bottom. Can't do it without stopping!
+8. Stop. Move the track. Hit play again. Where does it start?
+9. Try muting the background noise.
+10. Try muting the music track.
+11. Rename the music track.
+12. Revisit the questions above.
+-->
+
+### Project files vs. rendered files
+
+<div class="alert alert-warning">
+<strong>Important:</strong> Audacity project files, with extension .aup, do not in themselves contain any sound. They are, instead, an index of the files that live in an adjacent folder: if your main file is <em>project.aup</em>, then the data folder is <em>project_data</em>.
+
+<strong>The .aup file and the \_data folder must always stay in the same place.</strong> If you have one but not the other in your repository, the project will not open properly.
+</div>
+
+## 4. Git Beyond GitHub (10 min)
+
+
+
+
 
 As you'll have learned from the videos, GitHub is a (mostly web-based) file-sharing and project-management platform built on top of Git – the version control system that runs mostly on text commands. GitHub's pretty, well, pretty.
 
