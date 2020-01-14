@@ -142,7 +142,7 @@ There are three ways...
 </figure>
 
 <figure>
-<img alt="github open in desktop – choose file location" src="../assets/img/github-clone-where-to-save.png"
+<img alt="github open in desktop – choose file location" src="../assets/img/github-clone-where-to-save.png" />
 <figcaption>Click that little "choose" button to get a dialog box, letting you put the files somewhere you can access them easily. <!-- And don't panic if you get an error that the location already contains files! Just click the "choose" button and go somewhere else. --></figcaption>
 </figure>
 
