@@ -146,6 +146,7 @@ There are three ways...
 <figcaption>Click that little "choose" button to get a dialog box, letting you put the files somewhere you can access them easily. <!-- And don't panic if you get an error that the location already contains files! Just click the "choose" button and go somewhere else. --></figcaption>
 </figure>
 
+
 ## 5. Multiple Views of the Same Files
 
 Where do the files go when you clone them? You could use Windows Explorer or Mac Finder to open the folder you just saved to...
@@ -230,7 +231,7 @@ With all that settled, let's finally take advantage of Git outside of GitHub, an
 Then <em>push</em> your changes so they appear on GitHub.
 </div>
 
-
+Atom editor would be especially useful here!
 
 EXT: If you're already good with all this – e.g. if you've used Git before – please help others who are catching up.
 
