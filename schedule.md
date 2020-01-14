@@ -297,5 +297,5 @@ For next time:
 
 &nbsp;
 <div class="alert alert-success">
-<em>Final portfolios will be due by the end of the final exam slot, which will be announced soon.</em>
+<em>Final portfolios will be due by the end of the final exam slot, which we now know will be <strong>Tuesday, April 21 at 1:50pm</strong>.</em>
 </div>
