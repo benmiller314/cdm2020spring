@@ -154,7 +154,7 @@ Where do the files go when you clone them? You could use Windows Explorer or Mac
 
 
 ### The command line: behind the scenes
-//See also the ["Git and GitHub for Poets" episode 1.5, intro to the command line](https://youtu.be/oK8EvVeVltE).//
+_See also the ["Git and GitHub for Poets" episode 1.5, intro to the command line](https://youtu.be/oK8EvVeVltE)._
 
 Much as a repository is just another name for a file folder you're tracking, the <em>command line</em> is just another way of seeing the files you're used to seeing in windows. (Note the lowercase 'w.') Instead of a graphical interface, everything here will be text.
 
@@ -199,6 +199,8 @@ git commit -m "your headline commit message - note the quotes" -m "your optional
                      # repeat add/commit loop as desired
 git push             # publish your changes
 ```
+
+NB: Git may present you with some error messages, especially the first time you try to use it. Don't panic: **read what the error message has to say!** Most of the time, they'll give you some clear instructions on what to do to fix the problem.
 
 <!-- Ben quickly demos -->
 
