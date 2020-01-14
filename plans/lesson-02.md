@@ -85,7 +85,7 @@ We'll work for 10-15 minutes, then report back.
 ## HW for next time:
 
 * **Watch** Git and GitHub for Poets, starting at least with
-[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow.
+[the Introduction](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) and going as far as your interest and time allow. <!-- FOR NEXT TIME: add [1.5 intro to the command line](https://youtu.be/oK8EvVeVltE) and recommend [1.6 clone, push, pull](https://youtu.be/yXT1ElMEkW8), though it's a little long-winded -->
 * **Practice** following the steps in the video, using either a .txt file or a .md file: create a repository on GitHub, add some content to a file, commit, edit it, commit again, and view the history. Next class we can start with any questions that came up for you in the process.
    - If you've used GitHub a lot, you may want to play around with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formatting. Do you know what happens if you embed html inside a Markdown file? Or Markdown inside an html block?
    * **Download** any software you'll need [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03), possibly including Homebrew (on Mac) and GitBash (on Windows)
