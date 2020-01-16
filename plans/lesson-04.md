@@ -35,7 +35,9 @@ As soon as that file change is saved in the repository folder, either Git or Git
 
 Lots of great comments on the forum: stuff about layers, about background/foreground, about silence and volume. Let's hear some more highlights!
 
-One thing I'd like us to think about throughout this unit is the different layers of sound: how we might imagine grouping individual sounds, under what labels, and how those groups might interact.
+Key concepts:
+* contrast (draws attention)
+* continuity (conveys place and time)
 
 
 ## 2a. Audacity: getting files (5-10 min)
@@ -68,7 +70,7 @@ Good point! Weirdly, GH Desktop doesn't seem to be letting me. But you can also 
 And if that's not working, just head on over to [github.com/benmiller314/soundscape2020spring](https://github.com/benmiller314/soundscape2020spring), click into the in-class-exercise folder, and right-click to download.
 
 <div class="alert alert-success">
-I'll run around helping anyone who needs it! While I'm doing that, <strong>if you've succeeded in downloading the files, give them a listen!</strong> 
+I'll run around helping anyone who needs it! While I'm doing that, <strong>if you've succeeded in downloading the files, give them a listen!</strong>
 </div>
 
 * <div class="attribution-block">Two clips from C-Span in which <a href="https://www.c-span.org/video/?c4840911/senate-leaders-speak-house-impeaches-president-trump">Senate leaders Mitch McConnell (R-KY) and Chuck Schumer (D-NY) speak immediately after the House's impeachment of President Trump.</a> Used under Public Domain, in keeping with <a href="https://www.c-span.org/about/copyrightsAndLicensing/">C-Span policies</a>. Clips extracted using Audacity and <a href="https://github.com/mattingalls/Soundflower">Soundflower</a> (by Matt Ingalls).</div>
