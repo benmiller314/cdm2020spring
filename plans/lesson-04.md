@@ -47,9 +47,9 @@ I've updated the soundscape2020spring repository with a new folder, "in-class-ex
 <details>
 <summary>Show the GH Desktop screenshots, please!</summary>
 <ol>
-  <li><img src="../assets/img/gh-desktop--merge-upstream-master-1.png" alt="select the branch menu" /></li>
-  <li><img src="../assets/img/gh-desktop--merge-upstream-master-2.png" alt="choose a branch to merge into master" /></li>
-  <li><img src="../assets/img/gh-desktop--merge-upstream-master-3.png" alt="choose the upstream/master branch" /></li>
+  <li><figure><img src="../assets/img/gh-desktop--merge-upstream-master-1.png" alt="select the branch menu" /></figure></li>
+  <li><figure><img src="../assets/img/gh-desktop--merge-upstream-master-2.png" alt="choose a branch to merge into master" /></figure></li>
+  <li><figure><img src="../assets/img/gh-desktop--merge-upstream-master-3.png" alt="choose the upstream/master branch" /></figure></li>
 </ol>
 </details>
 
@@ -59,9 +59,9 @@ I've updated the soundscape2020spring repository with a new folder, "in-class-ex
 Good point! Weirdly, GH Desktop doesn't seem to be letting me. But you can also do this operation on the GitHub website, which will include a preview:
 
 <ol>
-  <li><img src="../assets/img/gh-website--merge-upstream-master-1.png" alt="select the branch menu" /></li>
-  <li><img src="../assets/img/gh-website--merge-upstream-master-2.png" alt="choose a branch to merge into master" /></li>
-  <li><img src="../assets/img/gh-website--merge-upstream-master-3.png" alt="choose the upstream/master branch" /></li>
+  <li><figure><img src="../assets/img/gh-website--merge-upstream-master-1.png" alt="select the branch menu" /></figure></li>
+  <li><figure><img src="../assets/img/gh-website--merge-upstream-master-2.png" alt="choose a branch to merge into master" /></figure></li>
+  <li><figure><img src="../assets/img/gh-website--merge-upstream-master-3.png" alt="choose the upstream/master branch" /></figure></li>
 </ol>
 </details>
 
