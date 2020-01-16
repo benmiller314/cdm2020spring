@@ -33,6 +33,7 @@ As soon as that file change is saved in the repository folder, either Git or Git
 
 <!-- Be sure to talk about layers within the clips: how might you group the sounds you heard? -->
 
+Lots of great comments on the forum: stuff about layers, about background/foreground, about silence and volume. Let's hear some more highlights!
 
 One thing I'd like us to think about throughout this unit is the different layers of sound: how we might imagine grouping individual sounds, under what labels, and how those groups might interact.
 
