@@ -79,6 +79,9 @@ Table of contents:
 <dt><a href="https://www.jamendo.com">Jamendo</a></dt>
 <dd>Three sites where you can find music with open licenses for remix. Each has its own community and search interface; I've had some success using CCMixter's tag search feature. Pay attention to the licenses for the specific tracks you want: some have the non-commercial Creative Commons license, and <em>some are licensed only to listen to</em>, especially on SoundCloud, where a lot of professional recording artists post to build buzz. If you're planning on doing any cutting or distorting, look for something you can modify (which includes CC-BY or CC-BY-NC).</dd>
 
+<dt><a href="https://github.com/mattingalls/Soundflower">Soundflower</a></dt>
+<dd>A MacOS system extension that allows you to record directly from any app into Audacity by piping sound output/input through a new "channel". (I suspect something similar is available for PCs but I'm not sure yet what it is. Let me know if you find it!)</dd>
+
 </dl>
 
 ### Visuals
