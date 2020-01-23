@@ -60,7 +60,7 @@ How can we give credit to a source in audio?
 
 * **Work** to bring in a full draft: a solid attempt at a complete soundscape narrative, ideally at the target length. Rough edges are still welcome.
 * **Continue** taking periodic screenshots and posting meaningful commit messages in Git.
-  - **Remember** that you don't need to change the project filename from draft to draft! Why duplicate or triplicate your file storage needs? Just say what's changing in your commit messages, and keep track of which draft is which that way.
+  - Remember that **you don't need to change the project filename from draft to draft!** Why duplicate or triplicate your file storage needs? Just say what's changing in your commit messages, and keep track of which draft is which that way.
 * **Push** a full draft, with the same four parts as the preview *plus* a CREDITS.md file with citations for the sources you've actually used (including direct links where possible) and permissions/license to use them.
   - NB: I'm only suggesting all-caps for special files readers might want to find quickly. It kind of loses the effect if everything is in caps. (Better to be all lowercase, if you have to choose.)
 * **Bring** headphones
