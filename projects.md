@@ -4,13 +4,16 @@ Over the course of the semester, you will complete four projects – three solo 
 
 ## Soundscape Narrative
 
-For the first project, you will arrange layers of sound to project a sense of place, and of things happening in that place. A few generative constraints:
+For the first project, you will arrange layers of sound to project a sense of place, and of things happening in that place. A few generative constraints _(as determined together on [Thursday, 2020-01-23](plans/lesson-06.md))_:
 
-* At least 75% of the sounds should be original recordings by you or your classmates.
-* At least one of the sounds should be an original recording by you.
-* At least once, you should have four layers of sound overlapping.
-* The final product should play for no less than 3 minutes, and no more than 4.
-<!-- Open questions for students: restrict amount of speech? require title? -->
+For a minimum grade of B, all projects for this unit must…
+* Play for 2-4 minutes
+* Contain at least one sound originally recorded by you
+* Contain at least one sound not recorded by you, but which you have permission (e.g. CC license, fair use, etc) to use
+* Have three layers (tracks) of sound overlapping at least once in the file
+* Have something change from the beginning to the end of the piece
+* Meet deadlines and requirements from [the assignment README](https://github.com/benmiller314/soundscape2020spring#deadlines-and-products) (see: citation, reflection, project title)
+* Export a playable ("rendered") .mp3 file
 
 The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
 
