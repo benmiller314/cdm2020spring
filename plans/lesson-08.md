@@ -27,24 +27,36 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 -->
 
 <details>
-<summary><em>Consider adding a voiceover</em></summary>
+<summary><em>Consider adding a voiceover.</em></summary>
+
+Maybe I'm just getting old, but as I've puttered around various places by myself in the last week I've noticed that I don't stay silent: I mutter as I putter. Even if it's just short reactions to things I see ("nice!") or read ("really? really."), even if it's not words ("hmm!"), I tend to narrate my day.
+
+All of which is to say, if your soundscape takes your listeners along on a ride inside someone's head, but you haven't yet included any human voices, I'd at least give some thought to whether a word here or there might help. (Note that the voice doesn't have to exist in the same timestream as the events of the narrative: think about some of the retrospective commentary in <a href="https://training.npr.org/2015/10/30/six-npr-stories-that-breathe-life-into-neighborhood-scenes/">the NPR reading I had you do</a>, especially the pieces featuring Steve Inskeep and Robert Siegel.)
 
 </details>
 
 <details>
-<summary><em>Consider titles</em></summary>
-
-A title can provide a location, a clue, a genre, a commentary; it can make or unmake listener expectations. What will you call your soundscape narrative? Where will you let listeners know that name? (In the README? In a recorded introduction to the sound file itself?)
-</details>
-
-<details>
-<summary><em>Consider transcripts.</em></summary>
+<summary><em>Consider adding a transcript.</em></summary>
 
 If you're working off of a script, as a number of you seem to be, please do consider turning it into a readable transcript you can place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within).
 
 I forgot to send an email with examples (I blame this illness), but I can fix that now! NPR's <em>This American Life</em> does a great job, and they're relatively straightforward in format, too. Why not check out some of their <a href="https://www.thisamericanlife.org/recommended">recommended episodes</a>, including a primer for listeners <a href="https://www.thisamericanlife.org/recommended/new-to-this-american-life">new to the show</a> that tipped me off to this <a href="https://www.thisamericanlife.org/109/notes-on-camp">one on camp</a>. (I was excited by this description: <em>"This one drops you in a place and immerses you there so quickly and happily. Just a deeply cheerful trip into childhood summertime."</em>) Or, for something closer to the length of what you'll be working on – a special episode with <a href="https://www.thisamericanlife.org/241/20-acts-in-60-minutes">20 acts in 60 minutes</a>?
 
 You access the transcript from the top of each full episode page, but you can jump to specific sections, or "acts," when choosing what to listen to.
+</details>
+
+<details>
+<summary><em>Consider how you'll signal it's over.</em></summary>
+Endings are tricky. In an essay, I'd say they usually depend on beginnings: completing some thought you'd left open, or answering a question. In stories, there's often an epiphany (new insight) or a denouement, a return to a previous situation but with the characters' perspectives on it now changed. You can try those things with soundscapes, too, but there are added elements: if you have music, you can make sure to "resolve" back into the root chord, or to complete a rhythmic sequence; if you have an ongoing event, you can fade out; if you have a surprise or joke ending, you can signal intentionality by muting the backgrounds to draw attention to the one track that remains.
+
+There are lots of ways to do this. But if you're satisfied with the overall shape, endings are one place where you can put a little extra polish in!
+
+</details>
+
+<details>
+<summary><em>Consider adding a title.</em></summary>
+
+A title can provide a location, a clue, a genre, a commentary; it can make or unmake listener expectations. What will you call your soundscape narrative? Where will you let listeners know that name? (In the README? In a recorded introduction to the sound file itself, either with or without a <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/TheTeaser?from=Main.ColdOpen">cold open</a>?)
 </details>
 
 <!-- <details>
