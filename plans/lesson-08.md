@@ -74,23 +74,24 @@ Many of you are doing smart work to differentiate foreground sounds from backgro
 
 ## Okay, now go to!
 
-<div style="height:500px; height:50vh;">
+<div style="height:100px; height:10vh;">
 <!-- This div left intentionally blank, for spacing -->
 </div>
 
 ## Homework for next time
 
-* By 11:59pm on Sunday, September 22, **complete – at least for now – your soundscape narrative.** Your repository (on GitHub or in a Box folder shared to me) should include:
+* By 11:59pm on Sunday, **complete – at least for now – your soundscape narrative.** Your repository (on GitHub or in a Box folder shared to me) should include:
    - Your most up-to-date layered Audacity project file (.aup)
    - The `_data` folder associated with that Audacity project
    - A series, now, of screenshots showing your Audacity project in progress. (Think about what moments are worth remembering as you go: where did you level up, or realize something, or get stuck?)
    - An updated ASSETS.md (or CREDITS.md) file reflecting what you actually used, including documentation of any outside sources and your permission to use them (e.g. explicit licenses like CC, or fair use)
    - An updated README.md file introducing your soundscape narrative to a new audience. Give your piece a title! Make it something to live beyond this assignment, if you can. :¬)
-* By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your Audacity project. As explained in the [soundscape prompt](https://github.com/benmiller314/soundscape-prompt-2019fall), this should include:
+* By Tuesday's class, **write a prose reflection** that incorporates images from your feedback and screenshots of your Audacity project. As explained in the [soundscape prompt](https://github.com/benmiller314/soundscape2020spring#deadlines-and-products), this should include:
    - At least 500 words
    - Your own assessment of how you met the baseline criteria and goals for the unit, as well as any aspirational criteria as appropriate
    - At least one photograph of a notecard with feedback you used (and please say how)
    - At least one or two screenshots of your work in progress (ideally, related to the discussion in the previous two bullets)
-* **Post your reflection** to the course site's [Issue queue]({{site.github.issues_url}}/3), to make it easier to embed images.
+* **Post your reflection** to the course site's [Issue queue]({{site.github.issues_url}}), to make it easier to embed images.
    - If you want to then copy the source code into a file in your repo called reflections.md, I won't stop you!
    - If you feel strongly that you'd rather keep your reflection private, you can email it to me instead. But my default assumption is that we learn from each other as much as from ourselves, so I hope you can find a way to write publicly about your experience with this project.
+* Want to see a sample reflection? You could do worse than to look at [Fatema Quaid's](https://github.com/benmiller314/cdm2019fall/issues/3#issuecomment-534351121) notes on "A Haunted Halt" or [Tyller Barner's](https://github.com/pitt-cdm/miller2019spring/issues/2#issuecomment-460512213) on "Coffee Shop Conversations." (I would point out, though, that Barner's is more than three times the minimum length. That's not necessary, or expected.)
