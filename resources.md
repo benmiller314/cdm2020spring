@@ -155,6 +155,14 @@ Under the <a href="#free-and-licensed-images-sounds-and-other-assets">assets lis
 <dd>And here's a longer <a href="https://current.org/2016/02/tips-from-ira-glass-on-better-radio/">lecture on "making better radio,"</a> punctuated with examples, that he gave back in 1998 (many of the principles – and critiques – still hold).</dd>
 <dd>This may be less relevant for this particular assignment, but I was searching the web for a recording of Ira Glass talking about <em>This American Life</em> and how to write stories for the radio, but instead I found an interview-in-writing – for LifeHacker, of all things – in which he answers the question, <a href="https://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031">"What everyday thing are you better at than everyone else? What’s your secret?"</a> with a really great and concise rendering of how he takes hours of tape and condenses them into a story. So if you've got too much textual material for your audio remediation, and you're not sure how to render it down, click the link above and search for that question.</dd>
 
+<dt>Examples of Transcripts</dt>
+<dd>A readable transcript for an audio piece is a Good Thing to place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within).
+
+NPR's <em>This American Life</em> does a great job of this, unsurprisingly, and they're relatively straightforward in format, too. Why not check out some of their <a href="https://www.thisamericanlife.org/recommended">recommended episodes</a>, including a primer for listeners <a href="https://www.thisamericanlife.org/recommended/new-to-this-american-life">new to the show</a> that tipped me off to this <a href="https://www.thisamericanlife.org/109/notes-on-camp">one on camp</a>. (I was excited by this description: <em>"This one drops you in a place and immerses you there so quickly and happily. Just a deeply cheerful trip into childhood summertime."</em>) Or, for something closer to the length of what you'll be working on – a special episode with <a href="https://www.thisamericanlife.org/241/20-acts-in-60-minutes">20 acts in 60 minutes</a>?
+
+You access the transcript from the top of each full episode page, but you can jump to specific sections, or "acts," when choosing what to listen to.
+</dd>
+
 <dt>On minding P's and S's</dt>
 <dd>
 <p>One of the more common challenges of recording speech is that sibilants (s sounds) and plosives (especially p sounds) tend to pop out in stark contrast to the sounds around them. Some of the extended early readings in the unit talk about ways to fix this when first recording, but there are also lots of tutorials out there describing Audacity tricks for filtering them out once they're in the mix.<ul>

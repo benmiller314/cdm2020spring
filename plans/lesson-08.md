@@ -27,28 +27,38 @@ A few seeds of ideas I want to plant, having listened through as much as I could
 -->
 
 <details>
+<summary><em>Consider adding a voiceover</em></summary>
+
+</details>
+
+<details>
 <summary><em>Consider titles</em></summary>
 
 A title can provide a location, a clue, a genre, a commentary; it can make or unmake listener expectations. What will you call your soundscape narrative? Where will you let listeners know that name? (In the README? In a recorded introduction to the sound file itself?)
 </details>
 
 <details>
-<summary><em>Consider volume.</em></summary>
-
-Many of you are doing smart work to differentiate foreground sounds from background, in part through "ducking" the background to a lower volume while keeping the sound going to provide depth. On the foreground side, one risk of recording original sounds is overloading the microphone, such that you get a kind of crackle or squeal as the sound level exceeds what the system can handle. If you notice this happening – you can look for places where the waveform hits the top of the track, or where the volume goes into the red – try Effects > Clip Fix, which should give you a little more room.
-</details>
-
-<details>
 <summary><em>Consider transcripts.</em></summary>
 
-If you're working off of a script, as a number of you seem to be, please do consider turning it into a readable transcript you can place alongside the sound file. See my email for examples of what this might look like, thanks to <a href="https://www.thisamericanlife.org/109/transcript">This American Life</a>.
+If you're working off of a script, as a number of you seem to be, please do consider turning it into a readable transcript you can place alongside the sound file: it's not only more accessible for the temporarily or permanently hearing-impaired, but it also makes your piece easier to search for (and within).
+
+I forgot to send an email with examples (I blame this illness), but I can fix that now! NPR's <em>This American Life</em> does a great job, and they're relatively straightforward in format, too. Why not check out some of their <a href="https://www.thisamericanlife.org/recommended">recommended episodes</a>, including a primer for listeners <a href="https://www.thisamericanlife.org/recommended/new-to-this-american-life">new to the show</a> that tipped me off to this <a href="https://www.thisamericanlife.org/109/notes-on-camp">one on camp</a>. (I was excited by this description: <em>"This one drops you in a place and immerses you there so quickly and happily. Just a deeply cheerful trip into childhood summertime."</em>) Or, for something closer to the length of what you'll be working on – a special episode with <a href="https://www.thisamericanlife.org/241/20-acts-in-60-minutes">20 acts in 60 minutes</a>?
+
+You access the transcript from the top of each full episode page, but you can jump to specific sections, or "acts," when choosing what to listen to.
 </details>
 
-<details>
+<!-- <details>
 <summary><em>Consider citation.</em></summary>
 
 If you're using sounds someone else recorded, be sure to include enough information to recover where it came from. (See <em>Writer/Designer</em> page 162, and the <a href="https://creativecommons.org/use-remix/get-permission/">Creative Commons' own recommendations</a>.) Note that any kind of CC-BY license requires you to say who made the source, not just say that it has a CC-BY license. (Nor is it enough to give a link to the search engine that you found it with.) You can add the information in text alongside the soundscape, or in the soundscape itself, or both!
-</details>
+</details> -->
+
+<!-- <details>
+<summary><em>Consider volume.</em></summary>
+
+Many of you are doing smart work to differentiate foreground sounds from background, in part through "ducking" the background to a lower volume while keeping the sound going to provide depth. On the foreground side, one risk of recording original sounds is overloading the microphone, such that you get a kind of crackle or squeal as the sound level exceeds what the system can handle. If you notice this happening – you can look for places where the waveform hits the top of the track, or where the volume goes into the red – try Effects > Clip Fix, which should give you a little more room.
+</details> -->
+
 
 ## Okay, now go to!
 
