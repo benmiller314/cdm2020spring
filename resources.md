@@ -245,6 +245,8 @@ If you're having trouble uploading large files to GitHub or through email, you c
 * For any file/folder on **Mac:** <a href="https://mac.eltima.com/best-archiver-mac.html">mac.eltima.com/best-archiver-mac.html</a>
 * **For JPEG files**, specifically: <a href="http://www.jpegmini.com/app">www.jpegmini.com/app</a>
 
+* For more on .png vs .jpg file formats, see this <a href="https://www.techsmith.com/blog/jpg-vs-png/">overview</a> or this more <a href="https://www.digitaltrends.com/photography/jpeg-vs-png/">technical explanation</a>.
+
 ## Twine / Interactive Narrative
 
 <dl>
