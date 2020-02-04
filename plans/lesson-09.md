@@ -84,6 +84,12 @@ Let's read through this together.
 I've started pinning some examples of the kinds of collages and collisions I have in mind, but don't take this as expressing some absolute sense of range:
 <a href="https://www.pinterest.com/benmiller314/visual-argumentexplanation/">www.pinterest.com/benmiller314/visual-argumentexplanation</a>
 
+Here, too, are some more student examples in response to this actual assignment:
+* [The Extinction Crisis](http://dmap.pitt.edu/node/301), by Fathima Shabnam
+* [Be Kind](http://dmap.pitt.edu/node/244), by Tessa Sayers
+* [Women in Tech](http://dmap.pitt.edu/node/245), by Nicole Dash
+
+
 
 ### EXT: Google Image's Advanced Search Tools
 <!--
