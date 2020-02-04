@@ -40,16 +40,25 @@ For the next unit, you'll be working on directing attention through visual means
 ## 2. Brief, brief intro to GIMP
 I want to do just a quick preview today, while we're thinking about the shape of tools – and then we'll focus on what I'm asking you to do with them.
 
-Here's a project from last semester's <a href="http://dmap.pitt.edu/digital-showcase-spring-2019">Digital Media Showcase</a>:
+Here's a project from last semester's <a href="http://dmap.pitt.edu/digital-showcase-fall-2019">Digital Media Showcase</a>:
 <figure>
-<a href="http://dmap.pitt.edu/node/245"><img src="http://dmap.pitt.edu/sites/default/files/visual-argument--dashn98--women-in-tech.png" alt="Five famous female computer programming innovators (Hopper, Johnson, Fenler, Wilkes, Easley). Headline reads: 'Who runs the world?'"></a>
-<figcaption>"Women in Tech." Nicole Dash, 2019.</figcaption>
+<a href="http://dmap.pitt.edu/node/300"><img src="https://github.com/emmaknaub/visual-argument/blob/master/visual_argument.png?raw=true" alt="A varied crowd of silhouetted people recedes into the distance; each has a glowing light in their chest. Text reads: 'How bright will you let your light shine?'"></a>
+<figcaption>"Radiate." Emma Knaub, 2019.</figcaption>
 </figure>
 
 Onscreen, it's a flat image. But if we open it in GIMP...
 
-<!-- Open in GIMP -->
-<!-- give tour: layers at bottom right, tools at upper left, tool options at lower left, undo at top right -->
+### Initial questions to ask:
+
+- How is the space of the app laid out?
+- What's given the most prominent visual focus?
+- What features/tools do we have quick access to?
+
+<!-- give tour: layers at bottom right, tools at upper left, tool options at lower left, undo at top right. -->
+<!-- Toggle visibility. -->
+<!-- Duplicate -->
+
+
 
 <div class="alert alert-info">
 There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.course.base_path}}resources">resources page</a>, and please feel free to suggest others as you find them!
@@ -101,7 +110,7 @@ Points to hit:
 
 # Homework for next time:
 
-* **Download and install** [GIMP](https://www.gimp.org/downloads/), the Gnu Image Manipulation Program
+* If you haven't already, **download and install** [GIMP](https://www.gimp.org/downloads/), the GNU Image Manipulation Program
 * **Read** the following short lessons on graphic design, by independent designer Julie Thompson:
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-positive-and-negative-space">positive and negative space</a>;
    - <a href="https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy">dominance and hierarchy</a>;
@@ -111,4 +120,4 @@ Points to hit:
    - By "design," I mean that some person made an active choice in its arrangement.
    - By "argument," I mean there should be an idea beyond the pure visual layout. The argument could be explicit or implicit; it could be serious or a joke. (Some claims are just _X is like Y_.) But you should be able to put it in words.
 * **Write** a short blog post, sharing your visual argument example. Examine it through the lenses of positive/negative, dominance/hierarchy, and rhythm/movement: what does that help you see? Would you say this is effectively designed for making its argument? (NB: If the argument is implicit, please try to articulate what you think it's claiming.)
-   - Post this to the issue queue, under ["Visual Arguments are Everywhere"]({{site.github.issues_url}}/7).
+   - Post this to the [issue queue]({{site.github.issues_url}}), under "Visual Arguments are Everywhere".
