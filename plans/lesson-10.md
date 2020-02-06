@@ -2,7 +2,7 @@
 layout: bottomnav
 ---
 
-# – Generating Visual Ideas
+# Generating Visual Ideas
 
 **Work to have achieved**:
 
