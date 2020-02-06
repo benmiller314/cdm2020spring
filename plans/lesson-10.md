@@ -2,7 +2,7 @@
 layout: bottomnav
 ---
 
-# Intro to GIMP and Visual Design
+# – Generating Visual Ideas
 
 **Work to have achieved**:
 
