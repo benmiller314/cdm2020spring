@@ -21,7 +21,7 @@ layout: bottomnav
 
 ## 1. Building our vocabulary (10-15 min)
 
-A bunch of new terms! Let's try to annotate these – just a few key words each - so we know we're on the same page. Head on over to [bit.ly/cdm2020spring-criteria](#heading=h.fhi9jgmnxpx8) and jump down to "Keywords toward a Visual Rhetoric."
+A bunch of new terms! Let's try to annotate these – just a few key words each - so we know we're on the same page. Head on over to [bit.ly/cdm2020spring-criteria](http://bit.ly/cdm2020spring-criteria#heading=h.fhi9jgmnxpx8) and jump down to "Keywords toward a Visual Rhetoric."
 
 * Visual Dominance <!-- What draws the eye? -->
    - Scale <!-- big -->
@@ -83,9 +83,20 @@ I'll demo, using "Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Be
 <img src="../assets/img/beverly-and-pack--fly-me-to-the-moon.jpg" />
 </figure>
 
+<!--
+1. Image > Canvas Size (use %)
+2. Scissor tool
+3. Copy + Paste -> Floating layer -> anchor as new
+4. Scale layer
+5. Scissor tool (again)
+6. Invert selection, new layer again
+7. Layer to image size
+8. Select vertical rectangle; feather edges
+9. Copy + Paste as pattern
+-->
 
 
-# Homework for next time  :
+# Homework for next time:
 
 * **Choose** at least one or two tutorials from [gimp.org/tutorials](https://gimp.org/tutorials), **and practice** what they teach. For beginners, GIMP Quickies and Simple Floating Logo are probably good places to start; Layer Masks is probably intermediate; and you can get quite advanced as you scroll down the page.
 * **Review** the unit-assignment [goals and options](https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage) for the rhetorical collage / visual argument.
