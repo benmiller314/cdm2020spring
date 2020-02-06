@@ -30,6 +30,8 @@ Second, I know you just finished writing up a reflection on what you did, but I'
 * Now think about Audacity, in particular, as a tool for soundwriting. Given the possibilities and affordances of sound, how does Audacity (try to) make hard things easier? How does the software tell you what's possible? And what tricks to navigating the software, if any, did you realize only after using it for a while?
 <!-- discuss the visual layout of Audacity, e.g. the layers; the feedback of cursor events and changing size/position; the menus -->
 
+<!-- FOR NEXT TIME: You can take 10 minutes here to discuss and share ideas in the google doc -->
+
 For the next unit, you'll be working on directing attention through visual means, and the software I'm asking you to use is [GIMP](https://www.gimp.org/downloads/): the <span title="GNU, in turn, stands for 'GNU's Not Unix.' Yyup.">GNU</span> Image Manipulation Program.
 
 <figure>
@@ -89,7 +91,7 @@ Here, too, are some more student examples in response to this actual assignment:
 * [Be Kind](http://dmap.pitt.edu/node/244), by Tessa Sayers
 * [Women in Tech](http://dmap.pitt.edu/node/245), by Nicole Dash
 
-
+<!-- FOR NEXT TIME: You have 15 more minutes, even after the demo! Ask students to manipulate the image they posted to the Greetings and Salutations forum post. -->
 
 ### EXT: Google Image's Advanced Search Tools
 <!--
