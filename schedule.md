@@ -133,14 +133,14 @@ For next time:
 <h3><a href="{{site.github.baseurl}}/plans/lesson-10">Lesson 10, Thursday 2/6</a> – Generating Visual Ideas</h3>
 
 For next time:
-
-* **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
+* **Choose** and do at least 1-2 [tutorials from the GIMP site](https://gimp.org/tutorials), **and practice** what they teach.  
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 
 <h3><a href="{{site.github.baseurl}}/plans/lesson-11">Lesson 11, Tuesday 2/11</a> – Visual Unit Studio</h3>
 
 For next time:
 
+* **Read** about fonts<!-- https://trydesignlab.com/blog/how-to-choose-the-right-font-for-your-design/ is part 2, but parts 1 and 3 are less essential. Other links within part 2 are EXT for eager readers. -->, optionally playing a font-matching game <!-- http://www.typeconnection.com/ -->
 * **Compose and push** a visual rhetoric preview
 
 <h3><a href="{{site.github.baseurl}}/plans/lesson-12">Lesson 12, Thursday 2/13</a> – Visual Unit Criteria and Stretch Goals</h3>
