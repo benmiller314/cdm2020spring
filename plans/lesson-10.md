@@ -13,7 +13,7 @@ layout: bottomnav
 
 **Plan for the day**:
 
-1. Building our vocabulary (10-15 min)
+1. Building our vocabulary (10-15 min) <!-- was more like 30 -->
 2. Loop writing into offline sketching (15-25 min)
 3. Further GIMP Demo: foreground selection (10 min)
 4. GIMP Practice (30 min)
@@ -39,9 +39,9 @@ A bunch of new terms! Let's try to annotate these – just a few key words each
 ### EXT: Using our vocabulary (5-10 min)
 If time allows, share the images you posted with your table-mates. See if you can level up on your comfort analyzing visual design, using the terms from the reading (and now google doc).
 
-## 2a. Loop writing
+## 2a. Loop writing <!-- Takes 15 min -->
 _This exercise is adapted from one by Sondra Perl._
-<!-- starting at 10:19 -->
+<!-- starting at 3:05 -->
 Take a few minutes to think in writing about the visual arguments you might want to make. I'll read a series of questions aloud. Repeat them silently to yourself, and when you feel yourself answering, make a list.
 
 These lists will remain private, unless you choose to share. I won't ask for them.
@@ -61,7 +61,7 @@ With that chosen subject, write again:
 
 See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
 
-## 2b. Offline sketching
+## 2b. Offline sketching <!-- starts at 3:19, so just Perl stuff was 15 min -->
 And now, draw. Take a piece of paper, fold it in quarters, and in each quarter sketch out some possibility, some version, of what your idea might look like.
 
 If you can, try to make each image significantly different from each other, to give you options; you can use your lists for inspiration. If you can't think of very different ones, then work to make just _some_ change.
@@ -110,6 +110,6 @@ I'll demo, using "Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Be
 NB: For next Thursday, I'll ask you to produce a project preview, just a little something to make sure you've started. But there's also relevant reading. If you think you'll have more time to read now than next week, you can jump ahead:
 </div>
 
-* **Review** the [resources page]({{site.base_path}}/resources) with an eye toward visuals. As before, note that there are sections both for finding images and for getting help thinking visually – and, as before, feel free to suggest additional resources if you have any!
+* **Review** the [resources page]({{site.github.url}}/resources) with an eye toward visuals. As before, note that there are sections both for finding images and for getting help thinking visually – and, as before, feel free to suggest additional resources if you have any!
 * **Read** about fonts at [https://www.canva.com/learn/font-design/](https://www.canva.com/learn/font-design/).
    - Optionally, **play** a font-matching game at http://www.typeconnection.com/ to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson (in the reading for today) called hierarchy by "style."
