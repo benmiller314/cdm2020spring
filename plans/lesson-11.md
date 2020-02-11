@@ -16,7 +16,14 @@ layout: bottomnav
 3. Exit note (5 min)
 
 
-## 1. Guiding thoughts for Studio (5-10 min)
+## 1. Gathering thoughts for Studio (5-10 min)
+
+### GIMP Notes
+* GIMP's toolbox is kinda cluttered, but the tools are also indexed by category in the menu bar, helpfully, under Tools. (And every tool has a keyboard shortcut, too: may be worth memorizing your go-to instruments.)
+* There's often extra tips for the tool you're using under the editing window, in a tiny font; try holding shift, alt, control, command, etc while you click or drag to see what it says/does.
+* Remember our strategies for drawing attention, which you can use to signal your hierarchy through scale, value, color, proximity, and style: [bit.ly/cdm2020spring-criteria](http://bit.ly/cdm2020spring-criteria#heading=h.fhi9jgmnxpx8) (see the section on "Keywords toward a Visual Rhetoric").
+
+### Writing as Processing
 According to [Thompson](https://www.thetypetree.com/blog/graphic-design-101-dominancehierarchy) (our reading from last week), **you can reliably convey only about three levels of dominance**; after that, it starts to get mushy.
 
 <div class="alert alert-success">
@@ -26,11 +33,6 @@ Take a few minutes to write, with your own proposed visual argument / rhetorical
 <li>How would the layout need to change if you changed your ranking, e.g. if you put one of your current tier-twos into the top slot?</li>
 </ul>
 </div>
-
-### GIMP Notes
-* Remember our strategies for drawing attention, which you can use to signal your hierarchy through scale, value, color, proximity, and style: [bit.ly/cdm2020spring-criteria](http://bit.ly/cdm2020spring-criteria#heading=h.fhi9jgmnxpx8) (see the section on "Keywords toward a Visual Rhetoric").
-* GIMP's toolbox is kinda cluttered, but the tools are also indexed by category in the menu bar, helpfully, under Tools. (And every tool has a keyboard shortcut, too: may be worth memorizing your go-to instruments.)
-* There's often extra tips for the tool you're using under the editing window, in a tiny font; try holding shift, alt, control, command, etc while you click or drag to see what it says/does.
 
 ### Timing Reminder / HW Preview
 Some preview of the project will be due before next class, just to make sure you're all getting started on it.
@@ -43,6 +45,10 @@ At the end of class, I'll ask you to send me a note (email's fine) letting me kn
 </div>
 
 I know your lives are busy; take advantage of this dedicated time free from other distractions and obligations to move your piece forward. At the same time, it's worth noting that you're working _in a shared space_, in a studio. If you have questions, or you want feedback on something, you have your classmates and your instructor on-hand. Try not to monopolize anyone's time, but do be open to the possibility of getting farther together than you could on your own.
+
+<div class="alert alert-white">
+p.s. If you need sonic isolation to work, I recommend <a href="http://noisli.com">noisli.com</a>, which lets you modularly adjust about a dozen different kinds of background sounds, from cafes to trains to white and pink noise.
+</div>
 
 ## 3. Quick report back (with 10 min left)
 
