@@ -35,7 +35,8 @@ Take a few minutes to write, with your own proposed visual argument / rhetorical
 ### Timing Reminder / HW Preview
 Some preview of the project will be due before next class, just to make sure you're all getting started on it.
 
-Therefore, the rest of today's class is all about working on your individual projects! **Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.**
+<div class="alert alert-success">
+Therefore, the rest of today's class is all about working on your individual projects! <strong>Find source images or text, level up on layering, watch relevant tutorials on effects or on layout, and see what happens when you apply them to your own digital canvas.</strong></div>
 
 <div class="alert alert-info">
 At the end of class, I'll ask you to send me a note (email's fine) letting me know what you worked on, and how it's going.
@@ -53,7 +54,7 @@ Take five minutes to send me a quick email. If everyone finishes early, we can h
 ## Homework for next time
 
 * **Read** about fonts, if you haven't yet, at [https://www.canva.com/learn/font-design/](https://www.canva.com/learn/font-design/).
-   - Optionally, **play** a font-matching game at http://www.typeconnection.com/ to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
+   - Optionally, **play** a font-matching game at [www.typeconnection.com](http://www.typeconnection.com/) to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson called hierarchy by "style."
 
 * Compose a **Visual Argument Preview**: an early snapshot of your progress, to get the gears turning, to get practice with GIMP, and to start testing out the ideas from your proposal (or beyond). To submit, please **Push to your repository** the following:
    <ul>
