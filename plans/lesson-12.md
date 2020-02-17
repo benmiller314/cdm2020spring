@@ -47,6 +47,15 @@ EXT: If your group feels finished, skip ahead: read through other groups' notes,
 ### 3c. Discuss and Integrate (30 min)
 Quickly read through the other groups' notes, adding comments in the margins to upvote or propose modifications. As you see consensus forming, propose an official version for our list of shared criteria. If debates emerge, we can hash them out.
 
+<!-- NOTES FROM ANNETTE:
+Tensions between what you're saying and what we're doing:  
+* I say it's their language to contribute, but sometimes your responses override what students suggest.
+* Wait longer after asking a question
+ * Only a few confident enough to push back:
+  * What's their incentive to participate? They'd already written it, no clear need to talk about it more. Especially if their language is just being changed by you.
+* WHAT IF YOU: **give them 30 minutes to work on their projects** once the group sections of the doc are filled out and commented on. During that time, synthesize the conversation on your own, making sure to show where their input is valued (e.g. use their language). Then at end of class (last 10 min? 15?), come back with a draft for them to read through and raise questions about (or affirm). 
+-->
+
 We'll refine as a group, and repeat, and then come back and revise after Tuesday's workshop.
 
 ### EXT: sharing insights
