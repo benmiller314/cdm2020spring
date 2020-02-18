@@ -29,7 +29,7 @@ To help maximize what you learn both in receiving _and in giving_ feedback, plea
 </ol>
 </div>
 
-I have here to return to you the index cards from the audio unit – not from the comments you *received*, but the comments you *gave*. Read them over. **Were you doing describe/evaluate/suggest?** If so, be proud! See if you can do it again in a new sensory mode. If not, strive to level up today: **train your attention to see before judging.**
+I have here to return to you the index cards from the audio unit – not from the comments you *received*, but the comments you *gave*. Read them over. Were you doing describe/evaluate/suggest? For example, **can you tell from the cards what you were reacting to**? If so, be proud! See if you can do it again in a new sensory mode. If not, strive to level up today: **train your attention to see, and describe, before judging.**
 
 ## 2. Evaluation reminder: our criteria (5 min)
 We set up a few shared goals and constraints [bit.ly/cdm2020spring-criteria](https://docs.google.com/document/d/18QF00VYOEYDVJ2ciloO0jzZxE3MBaetN-ooVeuHVVLQ/edit#heading=h.r8cu792fqkxb) to meet the baseline requirements. Let's try to help everyone get at least to there!
@@ -91,10 +91,10 @@ Based on your viewing, would anyone like to propose new criteria, whether baseli
 # Homework for Next Time
 
 * Next class will be a graphic designers' studio: **bring headphones for [sonic isolation](http://noisli.com)**, and whatever else you need to work towards finalizing your visual argument / rhetorical collage.
-  - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [rhetorical collage prompt](https://github.com/benmiller314/visual-argument-2020spring#project-2-visual-argument--rhetorical-collage) for further details.
+  - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [rhetorical collage prompt](https://github.com/benmiller314/visual-argument-2020spring#deadlines-and-products) for further details.
 * Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). **Write a short blog post** thinking about possible group projects you'd like to try for the end of term.
   - What further possibilities of graphic design might you want to explore in connection with other people, and other media?
-  - You can post this to the [Issue Queue]({{site.github.issues_url}}/8); like last time, there is no minimum length requirement, but it's a good opportunity to shape the group unit to match your interests!
+  - You can post this to the [Issue Queue]({{site.github.issues_url}}); like last time, there is no minimum length requirement, but it's a good opportunity to shape the group unit to match your interests!
 
 
 ## EXT:
