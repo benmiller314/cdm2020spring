@@ -23,9 +23,10 @@ layout: bottomnav
 To help maximize what you learn both in receiving _and in giving_ feedback, please work in the following three steps:
 
 <div class="alert alert-info">
-<ol><li> First, <strong>describe</strong> what you see, without judging whether it's good or not. What seems to be the top-level focus? What's next in the hierarchy? Can you say back the argument/claim/intervention? <!-- Help learn how the eye is drawn. Test whether the audience is getting the main point you want to get across. --></li>
-<li>Next, <strong>evaluate</strong> according to shared criteria, in light of the focus you perceive in the project. <!-- NB: This is still a form of description: it's not about "good" or "bad" in the abstract but about where it meets or misses the shared or stated goals. --></li>
-<li>Finally, <strong>suggest</strong> some revision possibility that you think might help take the project to the next level: assume a revision is on the way. Given the goals, the focus, and the criteria, what might be next? <!-- Pose this as a suggestion, not a command: and _interpret_ these as suggestions, not commands. --></li>
+<ol>
+   <li>First <strong>describe</strong> what you see,
+   <!-- Test whether the audience is getting the main point you want to get across. --></li>
+   <li>Then <strong>evaluate</strong> where it meets or misses some shared criteria, <!-- NB: This is still a form of description: it's not about "good" or "bad" in the abstract but about where it meets or misses the shared or stated goals. --> and</li> <li>Finally, <strong>suggest</strong> ways to meet and exceed the criteria.  <!-- NB: a suggestion, not a command: and _interpret_ these as suggestions, not commands. --></li>
 </ol>
 </div>
 
@@ -75,7 +76,11 @@ Then...
 
 <div class="alert alert-success">
 Rotate *counter*-clockwise around the monitor-islands, so that you're getting feedback from (and seeing the project of) someone new. Label <em>one</em> index card <strong>From: {yourname}</strong>. View / read through the project fully at least once, then
-<ol><li><strong>Describe</strong> what you see,</li> <li><strong>Evaluate</strong> where it meets or misses the criteria,</li> and <li><strong>Suggest</strong> ways to meet and exceed the criteria!</li></ol>
+
+<ol><li><strong>Describe</strong> what you see, without judging whether it's good or not. What seems to be the top-level focus? What's next in the hierarchy? Can you say back the argument/claim/intervention? <!-- Help learn how the eye is drawn.  --></li>
+<li><strong>Evaluate</strong> with reference to our shared criteria, in light of the focus you perceive in the project. </li>
+<li><strong>Suggest</strong> some revision possibility that you think might help take the project to the next level: assume a revision is on the way. Given the goals, the focus, and the criteria, what might be next? <!-- NB: a suggestion, not a command: and _interpret_ these as suggestions, not commands. --></li>
+</ol>
 </div>
 
 I'll keep track of time.
