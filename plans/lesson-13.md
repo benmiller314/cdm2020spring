@@ -78,12 +78,17 @@ Then...
 Rotate *counter*-clockwise around the monitor-islands, so that you're getting feedback from (and seeing the project of) someone new. Label <em>one</em> index card <strong>From: {yourname}</strong>. View / read through the project fully at least once, then
 
 <ol><li><strong>Describe</strong> what you see, without judging whether it's good or not. What seems to be the top-level focus? What's next in the hierarchy? Can you say back the argument/claim/intervention? <!-- Help learn how the eye is drawn.  --></li>
-<li><strong>Evaluate</strong> with reference to our shared criteria, in light of the focus you perceive in the project. </li>
+<li><strong>Evaluate</strong> with reference to our shared criteria, in light of the focus you perceive in the project.  <!-- NB: This is still a form of description: it's not about "good" or "bad" in the abstract but about where it meets or misses the shared or stated goals. --> </li>
 <li><strong>Suggest</strong> some revision possibility that you think might help take the project to the next level: assume a revision is on the way. Given the goals, the focus, and the criteria, what might be next? <!-- NB: a suggestion, not a command: and _interpret_ these as suggestions, not commands. --></li>
 </ol>
 </div>
 
 I'll keep track of time.
+<!--
+first rotation starts ~2:47
+second rotation starts 2:58
+third rotation starts 3:08
+-->
 
 On subsequent loops, note that **after** viewing the project first, you may also want to read and/or refer to the previous index cards.
 
