@@ -40,7 +40,7 @@ In the letter I wrote for the course syllabus, I asked you to think about "the a
 
 <div class="alert alert-success">
 
-<p>Please spend some time revisiting these questions, in writing, now that you've digitally crafted both sounds and images into coherent compositions. For example:
+<p>Please spend 8-10 minutes revisiting these questions, in writing, now that you've digitally crafted both sounds and images into coherent compositions. For example:
   <ul>
     <li>What's <em>afforded</em> (i.e. enabled, foregrounded, suggested) differently in these different media?</li>
     <li>What strategies carry across them?</li>
@@ -52,7 +52,7 @@ In the letter I wrote for the course syllabus, I asked you to think about "the a
 </p>
 </div>
 
-**Take 8-10 minutes.** I won't collect these directly today, but you will use them to develop your pitch for a collaborative project, and as a snapshot of your progress to look back on (and possibly quote) in a final reflection for the end of the course.
+**I won't collect these directly, but I will ask for volunteers to share as part of a discussion in today's class.** You should also keep them to help you develop your pitch for a collaborative project, and as a snapshot of your progress to look back on (and possibly quote) in a final reflection for the end of the course.
 
 EXT: Reflect on your goals for the course: given your goals and expectations when you began this class, what have you begun to learn? Combined with what you now know about our projects and scheduling patterns, what would you give yourself as a goal for the rest of the term?
 
