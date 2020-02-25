@@ -91,7 +91,7 @@ Some things to notice:
 ### Markup: separating content from display
 How?
 
-<table>
+<table class="table table-bordered thead-light">
   <thead>
     <tr>
       <th>acronym</th>
@@ -120,7 +120,7 @@ CSS is for formatting that marked up content.
 
 In other words:
 
-<table>
+<table class="table table-bordered thead-light">
   <thead>
     <tr>
       <th>acronym</th>
@@ -157,10 +157,27 @@ The basic idea is that you need to signal where the <em>marked-up text</em> begi
 
 The same is true in HTML, but it looks a little different:
 
-| what we're marking | Markdown syntax | HTML syntax |
-| --- | --- | --- |
-| strong text | `**surrounding asterisks**` | `<strong>opening and closing tags</strong>` |
-| emphasized text | `_surrounding underscore_` | `<em>opening and closing tags</em>` |
+<table class="table table-bordered thead-light">
+  <thead>
+    <tr>
+      <th>what we’re marking</th>
+      <th>Markdown syntax</th>
+      <th>HTML syntax</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>strong text</td>
+      <td><code class="language-plaintext highlighter-rouge">**surrounding asterisks**</code></td>
+      <td><code class="language-plaintext highlighter-rouge">&lt;strong&gt;opening and closing tags&lt;/strong&gt;</code></td>
+    </tr>
+    <tr>
+      <td>emphasized text</td>
+      <td><code class="language-plaintext highlighter-rouge">_surrounding underscore_</code></td>
+      <td><code class="language-plaintext highlighter-rouge">&lt;em&gt;opening and closing tags&lt;/em&gt;</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <div class="alert alert-info">
 <p>Unlike in Markdown, opening and closing tags in HTML aren't exactly the same. But they're <em>almost</em> the same: a closing tag in HTML just adds the slash after the first angle bracket.</p>
@@ -172,10 +189,27 @@ The same is true in HTML, but it looks a little different:
 
 One nice thing about having the tags themselves marked by angle brackets is that you can add information to them:
 
-| what we're marking | Markdown syntax | HTML syntax |
-| --- | --- | --- |
-| a basic hyperlink | `[anchor text](http://destination)` | `<a href="http://destination">anchor text</a>` |
-| a hyperlink with extra info | _no default way to do it!_ | <span title="title text is what you see on hover">`<a href="http://destination" class="dummylink external" title="Explanation of where link goes">anchor text</a>`</span> |
+<table class="table table-bordered thead-light">
+  <thead>
+    <tr>
+      <th>what we’re marking</th>
+      <th>Markdown syntax</th>
+      <th>HTML syntax</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a basic hyperlink</td>
+      <td><code class="language-plaintext highlighter-rouge">[anchor text](http://destination)</code></td>
+      <td><code class="language-plaintext highlighter-rouge">&lt;a href="http://destination"&gt;anchor text&lt;/a&gt;</code></td>
+    </tr>
+    <tr>
+      <td>a hyperlink with extra info</td>
+      <td><em>no default way to do it!</em></td>
+      <td><span title="title text is what you see on hover"><code class="language-plaintext highlighter-rouge">&lt;a href="http://destination" class="dummylink external" title="Explanation of where link goes"&gt;anchor text&lt;/a&gt;</code></span></td>
+    </tr>
+  </tbody>
+</table>
 
 ### A Demo
 Some of this is easier to understand with a live demo! Let's head over to a [CodePen](https://codepen.io/benmiller314/pen/poJROZM?editors=1100) where we can get some instant results from adding new HTML and CSS rules.
