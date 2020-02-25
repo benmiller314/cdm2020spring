@@ -247,7 +247,7 @@ I expect this will take a bit more than four minutes, because I fully plan to in
 
 ## Homework for Next Time
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – at least parts 1-4 (from "Introduction" through "Hello, CSS")
 * **Show your work** by pushing your tutorial code to a repository
    - I've already created folders for parts 1-3 in the GH repo you just forked; clone it to your local computer, and you should be able to work in those folders and push.
    - Note that _you'll need to add your own folder_ for part 4, and thereafter.
