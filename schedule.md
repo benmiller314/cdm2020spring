@@ -233,15 +233,18 @@ For next time:
 For next time:
 
 * **By 11:59pm on Tuesday,** complete – at least for now – your website project.
-* **By Thursday's class** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+* **By Thursday** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
 
 <h3><a href="{{site.github.baseurl}}/plans/lesson-21">Lesson 21, Tuesday 3/24</a> – Studio</h3>
 
 For next time:
+<div class="alert alert-danger">
+<strong>Our class WILL NOT MEET on Thursday, 3/26</strong>: I will be out of town for the Conference on College Composition and Communication.
+</div>
 
-* **Our class WILL NOT MEET on Thursday, 3/26: I will be out of town for the Conference on College Composition and Communication.**
-* **By 11:59pm,** complete – at least for now – your website project.
-* **By Thursday's class,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+* **By 11:59pm tonight,** complete – at least for now – your website project.
+* **By Thursday,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
+* Then take the weekend to read through the proposals so far for group projects: what seems both exciting and achievable?
 
 
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
