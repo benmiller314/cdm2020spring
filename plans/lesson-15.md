@@ -91,8 +91,24 @@ Some things to notice:
 ### Markup: separating content from display
 How?
 
-| HTML | HyperText Markup Language | content, groupings |
-| CSS | Cascading Style Sheets | display / presentation |
+<table>
+  <thead>
+    <tr>
+      <th>acronym</th>
+      <th>stands for</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML</td>
+      <td>HyperText Markup Language</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>Cascading Style Sheets</td>
+    </tr>
+  </tbody>
+</table>
 
 What does that mean??
 
@@ -104,10 +120,27 @@ CSS is for formatting that marked up content.
 
 In other words:
 
-| acronym | stands for | used for |
-| --- | --- | --- |
-| HTML | HyperText Markup Language | content, groupings |
-| CSS | Cascading Style Sheets | display / presentation |
+<table>
+  <thead>
+    <tr>
+      <th>acronym</th>
+      <th>stands for</th>
+      <th>used for</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML</td>
+      <td>HyperText Markup Language</td>
+      <td>content, groupings</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>Cascading Style Sheets</td>
+      <td>display / presentation</td>
+    </tr>
+  </tbody>
+</table>
 
 There are other languages that interact with these two, especially JavaScript, but also PHP and Python and Ruby: they can dynamically generate or change the HTML and CSS. And there are preprocessor languages that make it easier to generate HTML and CSS on your own: Markdown, the syntax you use in GitHub READMEs and forum posts, is essentially a shortcut form of HTML. But HTML and CSS are the core of what gets shown on the screen.
 
