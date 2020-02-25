@@ -132,11 +132,30 @@ The same is true in HTML, but it looks a little different:
 <div class="alert alert-info">
 <p>Unlike in Markdown, opening and closing tags in HTML aren't exactly the same. But they're <em>almost</em> the same: a closing tag in HTML just adds the slash after the first angle bracket.</p>
 
+<p>You can think of them as being like <a href="https://xkcd.com/859/">parentheses</a>!</p>
+
 <!-- <p>In general, every tag you open should close. You can nest a complete pair of tags inside another pair, but you can't close the outer pair before closing the inner pair.</p> -->
 </div>
 
+One nice thing about having the tags themselves marked by angle brackets is that you can add information to them:
+
+| what we're marking | Markdown syntax | HTML syntax |
+| --- | --- | --- |
+| a basic hyperlink | `[anchor text](http://destination)` | `<a href="http://destination">anchor text</a>` |
+| a hyperlink with extra info | _no default way to do it!_ | <span title="title text is what you see on hover">`<a href="http://destination" class="dummylink external" title="Explanation of where link goes">anchor text</a>`</span> |
+
 ### A Demo
 Some of this is easier to understand with a live demo! Let's head over to a [CodePen](https://codepen.io/benmiller314/pen/poJROZM?editors=1100) where we can get some instant results from adding new HTML and CSS rules.
+
+<!--
+CSS rules to hit:
+1. headers
+2. paragraphs
+3. no default spacing: let's change it!
+4. a div is like a layer-group: collect these things, operate on them together. it's a container.
+5. id's and # selectors
+6. classes and . selectors
+ -->
 
 ## 4. Web-design unit overview and assignment (10 min)
 
