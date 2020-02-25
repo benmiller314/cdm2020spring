@@ -1,6 +1,6 @@
----
-layout: bottomnav
----
+
+
+
 
 # Sound Criteria and Stretch Goals
 

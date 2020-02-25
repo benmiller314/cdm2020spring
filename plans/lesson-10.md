@@ -1,6 +1,6 @@
----
-layout: bottomnav
----
+
+
+
 
 # Generating Visual Ideas
 

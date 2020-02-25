@@ -1,6 +1,6 @@
----
-layout: bottomnav
----
+
+
+
 
 # GitHub and Git; Intro to Sound unit
 **Texts to have read/watched:**

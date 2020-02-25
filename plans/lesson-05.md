@@ -1,6 +1,6 @@
----
-layout: bottomnav
----
+
+
+
 
 # Sound Ethics, Sound Studio
 

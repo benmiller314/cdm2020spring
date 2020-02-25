@@ -1,6 +1,6 @@
----
-layout: bottomnav
----
+
+
+
 
 # Can You Picture It? Visual Rhetorics and Argument
 

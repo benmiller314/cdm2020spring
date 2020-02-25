@@ -1,6 +1,6 @@
----
-layout: bottomnav
----
+
+
+
 
 # Sound, Space, and Audacity
 
