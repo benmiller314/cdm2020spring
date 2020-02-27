@@ -99,7 +99,7 @@ CSS basics
 -->
 
 Any tricky ones?
-<!-- Ones I think are tricky: Images 2 and 3; CSS 6;
+<!-- Ones I think are tricky: Images 2 and 3; CSS 6; -->
 
 ## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, no later than 3:05. Move, move, move through the first parts! -->
 
