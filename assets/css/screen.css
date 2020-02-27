@@ -230,3 +230,18 @@ dd + dt {
 dd + dt:nth-of-type(even) {
     border-top: 3px solid #05015ea8;
 }
+
+/* Get rid of that default pink code styling */
+code {
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border: 1px solid hsla(210, 3%, 83%, 1);
+    padding: 3px;
+    line-height: inherit;
+    font-family: "Lucida Console", "Monaco", monospace;
+    font-size: 0.9rem;
+    color: #462d32;
+    background-color: #efefef;
+    vertical-align: baseline;
+}
