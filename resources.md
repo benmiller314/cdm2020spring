@@ -206,9 +206,10 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <dd>We'll walk through this demo <a href="{{site.github.baseurl}}/plans/lesson-18#web-design-in-4-minutes-in-15-min">in class</a>; if you're at a loss for what to include in your stylesheet, you can do far worse than adding the basic spacing rules Jeremy Thomas sets up here.</dd>
 
 <dt><a href="https://css-tricks.com/how-css-selectors-work/">How CSS Selectors Work (CSS-Tricks)</a></dt>
-<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details.</p>
-<p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me here, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
+<dd><p>This could be a very useful follow-up to the Interneting is Hard tutorial, or perhaps just a handy reference for some of the more common "advanced" CSS selectors. It starts from basic ways of matching style rules to html elements, and then proceeds to discuss what happens when multiple rules apply to the same element – which rule "wins," or supersedes the other. To sum up, it's not simply which one comes last in the \*.css file (though that also matters): in general, the more narrowly defined rule will still override a more broadly defined one. Read on for more details... and if even that doesn't satisfy you, try <a href="https://css-tricks.com/specifics-on-css-specificity/">css-tricks.com/specifics-on-css-specificity</a>.</p>
+<p>Also, it's worth saying that many of my Google searches for solutions to CSS problems lead me to CSS-Tricks, so I figured I'd point it out early and reassure you that it's legit. Some very clear explanations not only of what to do, but why it works – and, often, alternative approaches to the same challenges.</p>
 </dd>
+
 
 <dt><a href="https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725">CSS Grid Layout</a> tutorial on Medium</dt>
 <dd><p>This is a great little introduction to the latest CSS approach to layout – <code>display: grid</code> – which is new enough that it's not in the Interneting is Hard tutorial, but old enough that it's now has almost universal browser support. (As with many things, older versions of Internet Explorer may not work with grid displays. But does anyone still use old versions of IE?) What I like about this particular tutorial is that it's embedded not only with images, but with short screen-capture GIFs that demonstrate in a very immediate way what happens to the layout when a new CSS rule is added.</p>
@@ -236,6 +237,8 @@ In the <a href="#free-and-licensed-images-sounds-and-other-assets">assets listin
 <dt><a href="https://caniuse.com">caniuse.com</a></dt>
 <dd>CSS is a live language, and the ongoing development of new CSS capabilities means that some browsers are slower to adopt the most current standards than others. To confirm that a particular rule will work across browsers, you can check here: just enter the CSS attribute you wish to set in the big "Can I use ______?" search box at the top of the page.</dd>
 </dl>
+
+<!-- Add section on text editors? i.e atom.io, brackets.io, etc?-->
 
 ## File Compression
 

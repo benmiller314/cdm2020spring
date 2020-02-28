@@ -12,7 +12,7 @@
 4. Offline sketching (10 min)
 5. Studio (30 min)
 
-## 1. Key Concepts and Practical Takeaways (10-15 min) <!-- so aim to be done by 2:45 -->
+## 1. Key Concepts and Practical Takeaways (10-15 min) <!-- so aim to be done by 2:45 UPDATE actually took until 3:00 -->
 
 At your tables, work through the following questions, and be ready to discuss with the whole class if time allows. Some you should be able to go through rather quickly, while others may require more discussion.
 
@@ -101,7 +101,7 @@ CSS basics
 Any tricky ones?
 <!-- Ones I think are tricky: Images 2 and 3; CSS 6; -->
 
-## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, no later than 3:05. Move, move, move through the first parts! -->
+## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, END NO LATER THAN no later than 3:05. Move, move, move through the first parts! If you can't start until after 3:00, assign it for homework instead. OOPS, went until 3:20... time to beef up this note...-->
 
 This is what we didn't get to last time. I'm going to try to be brief, but I want to make sure you see this, because many of the suggested design elements / CSS rules make good defaults so your site doesn't look "unstyled."
 
