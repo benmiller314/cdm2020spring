@@ -240,6 +240,8 @@ Let's read through this together.
 <!-- Go through overview, constraints, deadlines. -->
 
 ## 5. "Web Design in 4 Minutes"... in 15 minutes
+<!-- Okay, revert NOTE FOR NEXT TIME from last time: we ran out of time for this, and it's probably a better use of time to get everyone into the tutorial so you can troubleshoot Atom with them. In fact, skip it until after they've seen the CSS selectors tutorial! -->
+
 I expect this will take a bit more than four minutes, because I fully plan to interject, and I hope you will, too. But that's really what this is called:
 [http://jgthms.com/web-design-in-4-minutes](http://jgthms.com/web-design-in-4-minutes/)
 

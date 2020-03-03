@@ -18,7 +18,7 @@ At your tables, work through the following questions, and be ready to discuss wi
 
 Ask if you can't come to a resolution! I'll share my answer key at the end, so maybe write down your answers for a quick comparison.
 
-Speedy teams, note the EXTs at the end.
+Speedy teams, note the EXTs at the end. <!-- and please do skip the EXTs in the middle until you've gone through all the non-EXT questions, just to save time for studio at the end. -->
 
 
 ### Organizing files
@@ -35,7 +35,7 @@ Speedy teams, note the EXTs at the end.
 2. How do you mark up comments in HTML?
 3. T / F: every HTML element has an opening tag, some element content, and a closing tag.
 4. T / F: in rendering an HTML file, there's no difference between a space, a blank line, or five blank lines.
-5. EXT: What information should pretty much every page's `<head>` include? <!-- <title>, <meta charset='UTF-8'/>, <link rel="stylesheet"> -->
+5. EXT: What information should pretty much every page's `<head>` include? <!-- <title>, <meta charset='UTF-8'/> (or whatever actual charset makes sense), <link rel="stylesheet"> -->
 
 ### Image basics
 1. T / F: every `<img>` tag should specify a source file.
@@ -50,9 +50,9 @@ Speedy teams, note the EXTs at the end.
 3. What do the semicolons in CSS rules do?
 4. How do you mark up comments in CSS?
 5. How can you apply a single CSS rule to multiple HTML elements?  
-6. What happens if you have apply two CSS rules to the same HTML selector, but with different values?
+6. What happens if you have apply two CSS rules to the same HTML selector, but with different values? <!-- FOR NEXT TIME: cut this question! Or at least save it until after they've read the CSS selectors tutorial. Why is this even here? -->
 7. Why is using inline styles generally a bad idea?
-8. EXT: What's one advantage of using `em` as a unit rather than `px`?
+8. EXT: What's one advantage of using `em` as a unit rather than `px`? <!-- FOR NEXT TIME: Make this a non-EXT, and add an EXT that follows up on question 1 (i.e. parallel to the EXT for HTML basics), e.g. when would you want to use each of those locations? -->
 
 EXT: If your group finishes early, (a) let me know you're done, and (b) check out these [example web-design sketches](http://designbeep.com/2012/05/17/33-great-examples-of-web-design-sketches/). What design patterns do you notice? What drawing conventions?
 
@@ -101,7 +101,10 @@ CSS basics
 Any tricky ones?
 <!-- Ones I think are tricky: Images 2 and 3; CSS 6; -->
 
-## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, END NO LATER THAN no later than 3:05. Move, move, move through the first parts! If you can't start until after 3:00, assign it for homework instead. OOPS, went until 3:20... time to beef up this note...-->
+## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, END NO LATER THAN no later than 3:05. Move, move, move through the first parts! If you can't start until after 3:00, assign it for homework instead. OOPS, went until 3:20... time to beef up this note...
+
+Better yet, FOR NEXT TIME, just skip this until after they've done the Box Model tutorial, so they know what the heck margin and padding are. Or assign it for homework at that point? As the first part of studio, so people can call you over with questions? This is perhaps better self-paced, because it's obvious to some and opaque to others.
+-->
 
 This is what we didn't get to last time. I'm going to try to be brief, but I want to make sure you see this, because many of the suggested design elements / CSS rules make good defaults so your site doesn't look "unstyled."
 
