@@ -36,13 +36,13 @@ layout: bottomnav
 <details>
 <summary>Beware of scope creep</summary>
 
-<p>Remember that you only have a couple more weeks on this project. If you've just given yourself an ambitious agenda, think about "minimum deliverable product" and "stretch goals." You have version control; you can iterate. In other words: you can always come back and add <em>more</em>, but it's good to start with what's really at the <em>core</em> of your website idea.</p>
+<p>Bear in mind that you only have a couple more weeks on this project. If you've just given yourself an ambitious agenda, think about "minimum deliverable product" and "stretch goals." You have version control; you can iterate. In other words: you can always come back and add <em>more</em>, but it's good to start with what's really at the <em>core</em> of your website idea.</p>
 
 </details>
 
 <details>
 <summary>Use the structure to guide appearance, not vice-versa</summary>
-<p>This one's related to the first, but applies when you're starting to think about appearances. Remember: visuals are volatile; structure should be steady. It can be very tempting to just accept your browser's default styles as a given, e.g. to jump from a large <code>&lt;h1&gt;</code> page title to an <code>&lt;h5&gt;</code> subtitle because it "looks about right." But this would mis-represent the actual structure of the document – and would seriously confuse screen-reader software trying to summarize the page for a blind visitor. Instead, take note of the CSS rules defining that <code>&lt;h5&gt;</code>, and apply them to <code>&lt;h2&gt;</code> in your stylesheet.</p>
+<p>This one's related to the first, but applies when you're starting to think about appearances. <em>Visuals are volatile; structure should be steady.</em> It can be very tempting to just accept your browser's default styles as a given, e.g. to jump from a large <code>&lt;h1&gt;</code> page title to an <code>&lt;h5&gt;</code> subtitle because it "looks about right." But this would mis-represent the actual structure of the document – and would seriously confuse screen-reader software trying to summarize the page for a blind visitor. Instead, take note of the CSS rules defining that <code>&lt;h5&gt;</code>, and apply them to <code>&lt;h2&gt;</code> in your stylesheet.</p>
 </details>
 
 <details>
@@ -98,9 +98,6 @@ Just be sure to <strong>copy your changes to a file for safe keeping</strong>, o
 
 </details>
 
-<div class="alert alert-info">
-Remember that you have <a href="{{site.github.baseurl}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text</a>?
-</div>
 
 <!-- FOR NEXT TIME, not today
 ## 2. Other notes
@@ -130,6 +127,11 @@ Then your site will build at https://<em>your-username</em>.github.io/<em>your-r
 
 If you're worried about showing up in search results before your site is ready, you can always <a href="https://support.google.com/webmasters/answer/93710">add a noindex meta tag</a>.
 </div>
+
+<div class="alert alert-info">
+Remember that you have <a href="{{site.github.baseurl}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text</a>?
+</div>
+
 
 Save about five minutes at the end to write me a brief exit note about what you've been working on.
 
