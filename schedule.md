@@ -175,7 +175,7 @@ It starts with [CSS Zen Garden](http://www.csszengarden.com/) as seen through th
 -->
 For next time:
 
-* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS")
+* **Do** as much of the [Interneting is Hard (but it doesn't have to be)](https://internetingishard.com/html-and-css/) tutorial as you can – but **at least parts 1-4** (from "Introduction" through "Hello, CSS")
 * **Show your work** by pushing your tutorial code to a repository
 * *Optionally* bring headphones for sonic isolation during studio time
 
@@ -198,7 +198,7 @@ Make sure everyone has successfully activated GitHub Pages before they leave. No
 
 For next time:
 
-* **Do** more of the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
+* **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
 * Separately, also **read** about [Grid Layout](https://medium.com/deemaze-software/css-grid-layout-crossed-sections-fca9e956e725) (and optionally the followup post on [responsive grid](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)). <!-- See notes from /old-plans/2019fall/lesson-21.md -->
 * **Compose and push** a website preview: a beginning.
 
@@ -210,7 +210,7 @@ Offline sketching
 -->
 For next time:
 
-* **Finish** the [tutorial](http://web.archive.org/web/20190213013947/https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing.
+* **Finish** the [tutorial](https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing.
   - Email me with any questions, noting that I can help fastest if you include a screenshot and a link.
 * **Save and push as you go!** A full draft of your website project is due by the Thursday after break.
 * **View/Play** sample Twine games.
