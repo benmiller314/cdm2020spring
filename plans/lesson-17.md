@@ -53,9 +53,9 @@ body.front h2 {
   font-size: 18px;
 }
 </code></pre>
-
 (Setting a class on the <code>&lt;body&gt;</code> is a good way to set up page-wide contexts, e.g. for background or the position of a navigation bar.)
-
+</p>
+<p>
 Or here's code that only applies to an <code>&lt;h2&gt;</code> when it appears inside an element (a <code>&lt;div&gt;</code>, say, or a <code>&lt;header&gt;</code>) with class "title-block":
 <pre><code class="css">
 .title-block h2 {
@@ -63,7 +63,8 @@ Or here's code that only applies to an <code>&lt;h2&gt;</code> when it appears i
 }
 </code></pre>
 This solution probably makes the most sense if you want to do some styling on the containing element, like changing its background or centering a bunch of things.
-
+</p>
+<p>
 Or – probably the simplest solution of all – you could just set the class directly, with a class like "subtitle" (or whatever you want to call it): <code>&lt;h2 class="subtitle"&gt;</code>:
 <pre><code class="css">
 h2.subtitle {
@@ -87,6 +88,7 @@ This has the extra advantage that you can set a lot of other rules for <em>all</
 </figure>
 
 Just be sure to <strong>copy your changes to a file for safe keeping</strong>, or they'll disappear when you refresh! To make copy/paste easier, click on the source your browser created for your new rules: in Firefox it's called "inline", in Chrome "inspector-stylesheet", in Safari "Inspector Stylesheet."
+</p>
 </details>
 
 <details>
@@ -132,10 +134,11 @@ If you're worried about showing up in search results before your site is ready, 
 Save about five minutes at the end to write me a brief exit note about what you've been working on.
 
 ## 4. Exit note
-
+<div class="alert alert-success">
 Before you leave, just as a way for me to check in, I'd like to hear more about what happened today: Did you decide on your navigation? Block out the html? Make some progress on a stylesheet?
 
-**Write me a quick email.**
+<strong>Write me a quick email.</strong>
+</div>
 
 # Homework for next time
 
