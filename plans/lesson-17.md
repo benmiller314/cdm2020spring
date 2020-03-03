@@ -34,7 +34,7 @@ layout: bottomnav
 </details>
 
 <details>
-<summary>Beware of scope creep</summary>
+<summary>Beware of scope creep; plan for phased releases</summary>
 
 <p>Bear in mind that you only have a couple more weeks on this project. If you've just given yourself an ambitious agenda, think about "minimum deliverable product" and "stretch goals." You have version control; you can iterate. In other words: you can always come back and add <em>more</em>, but it's good to start with what's really at the <em>core</em> of your website idea.</p>
 
@@ -65,7 +65,7 @@ Or here's code that only applies to an <code>&lt;h2&gt;</code> when it appears i
 This solution probably makes the most sense if you want to do some styling on the containing element, like changing its background or centering a bunch of things.
 </p>
 <p>
-Or – probably the simplest solution of all – you could just set the class directly, with a class like "subtitle" (or whatever you want to call it): <code>&lt;h2 class="subtitle"&gt;</code>:
+Or – probably the simplest solution of all – you could just set the class directly on the element, calling it something like "subtitle" (or whatever you want to call it): <pre><code class="html">&lt;h2 class="subtitle"&gt;</code></pre>
 <pre><code class="css">
 h2.subtitle {
   font-size: 18px;
@@ -120,7 +120,7 @@ Do what you need to do to level up on HTML and CSS in the direction of your spec
 <div class="alert alert-white">
 <strong>Did you know?</strong> If you're building a website in GitHub (and you are), you can publish it for free, using GitHub Pages! You don't need to create a new repository: Just <ol>
 <li>have a folder in your repo called "docs," [DONE]</li>
-<li>put your website's files in there, and </li>
+<li>put your website's files in there (subfolders are fine), and </li>
 <li>change the settings for the repo to "use master branch /docs folder" as your source.</li>
 </ol>
 Then your site will build at https://<em>your-username</em>.github.io/<em>your-repo</em>. There are more options you can read about, but that's it in a nutshell!
@@ -129,7 +129,7 @@ If you're worried about showing up in search results before your site is ready, 
 </div>
 
 <div class="alert alert-info">
-Remember that you have <a href="{{site.github.baseurl}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text</a>?
+Remember that you have <a href="{{site.github.baseurl}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text and/or images</a>, once you know what your main content areas and headers will be?
 </div>
 
 
