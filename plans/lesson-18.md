@@ -57,5 +57,4 @@ Let's head back to [the doc](https://docs.google.com/document/d/18QF00VYOEYDVJ2c
 * **Push** a full draft, with the same parts as the preview: docs folder with html file(s), css file(s), and any other assets (e.g. images), plus a screenshot, text description, and updated credits/list of desired assets.
   - NB: As I mentioned in the readme file inside the docs folder, **your home page should be called index.html** to properly load in the browser.
   - Also: I'm only suggesting all-caps for special files readers might want to find quickly; it kind of loses the effect if everything is in caps. _Better to be all lowercase, if you have to choose._
-  -
 * **Bring** a camera (phone is fine), to take photos of feedback received
