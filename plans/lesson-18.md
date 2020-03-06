@@ -13,7 +13,7 @@
 5. Confirming criteria (10 min)
 
 
-## 1. Reflective writing (5 min)
+## 1. Reflective writing (5 min) <!-- we start at 2:34 -->
 <div class="alert alert-success">
 In your own space – you won't have to share this unless you want to – do a little writing about your website in progress. What's exciting about it? What's challenging about it? What are you unsure of?
 </div>
@@ -54,7 +54,8 @@ Let's head back to [the doc](https://docs.google.com/document/d/18QF00VYOEYDVJ2c
   - Optionally check out the section on Web Typography (14), e.g. if you're trying to bring in a custom font; and if you're having trouble getting something to position properly even after working through Flexbox (8) and the Grid tutorial in Medium, try the section on Advanced Positioning (9).
 * **Work** to bring in a full draft: a solid attempt at a complete website, ideally meeting baseline criteria. Rough edges are still welcome.
 * **Continue** taking periodic screenshots and posting meaningful commit messages in Git
-* **Push** a full draft, with the same parts as the preview: docs folder with html file(s), css file(s), and any other assets (e.g. images), plus a screenshot, text description, and updated credits/list of desired assets.
+* By Thursday after break, **push** a full draft, with the same parts as the preview: docs folder with html file(s), css file(s), and any other assets (e.g. images), plus a screenshot, text description, and updated credits/list of desired assets.
   - NB: As I mentioned in the readme file inside the docs folder, **your home page should be called index.html** to properly load in the browser.
   - Also: I'm only suggesting all-caps for special files readers might want to find quickly; it kind of loses the effect if everything is in caps. _Better to be all lowercase, if you have to choose._
+  -
 * **Bring** a camera (phone is fine), to take photos of feedback received
