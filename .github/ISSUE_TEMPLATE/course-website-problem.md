@@ -1,5 +1,5 @@
 ---
-name: Website Problem
+name: Course Website Problem
 about: Create a report to help Ben improve the course site
 title: ''
 labels: bug
