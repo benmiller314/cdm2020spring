@@ -23,7 +23,7 @@ Unit I | [What Makes Digital Media New?](#unit-1) | (weeks 1-2)
 Unit II | [Soundscapes and Soundwriting](#unit-2) | (weeks 2-5)
 Unit III | [Visual Rhetorics and Argument](#unit-3) | (weeks 5-8)
 Unit IV | [Webslinging with Markup](#unit-4) | (weeks 8-11)
-Unit V | [Collaborative Composing](#unit-5) | (weeks 11-13)
+Unit V | [<del>Collaborative Composing</del> Putting it Together](#unit-5) | (weeks 11-13)
 Unit VI | [Reflection and Revision](#unit-6) | (weeks 13-14)
 {: .table }
 
@@ -210,95 +210,112 @@ Offline sketching
 -->
 For next time:
 
-* **Finish** the [tutorial](https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing.
+* **Finish** the [tutorial](https://internetingishard.com/html-and-css/), if you haven't yet – or revisit the sections that are still confusing. I especially encourage you to look at sections 12 (Semantic HTML) and 14 (Web Typography), and if you're having trouble with positioning even after working through Flexbox (section 8) and Grid (on Medium), try section 9 (Advanced Positioning).
   - Email me with any questions, noting that I can help fastest if you include a screenshot and a link.
 * **Save and push as you go!** A full draft of your website project is due by the Thursday after break.
-* **View/Play** sample Twine games.
 
 
 <div class="alert alert-warning">
 Spring break is the week of Tu 3/10 and Th 3/12; our only classes will be CSS classes.
 </div>
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-19">Lesson 19, Tuesday 3/17</a> – Studio and Collab Unit Planning</h3>
+<div class="alert alert-danger">
+<p><i class="fa fa-exclamation-circle"></i> Well! This COVID19 thing is going to be an adventure, isn't it! Classes are canceled outright for Tu 3/17 and Th 3/19, and moving online for the four weeks remaining beyond that. The schedule below is now updated, accordingly, and I'll adjust the lesson plans for a distant-learning format. (Mostly, they'll be plans for self-timed composing, but still set for the same calendar day.) </p>
+
+<p>I'm also shifting my office hours online, and reserving class-time as additional office hours; see <a href="http://benmiller314.youcanbook.me">http://benmiller314.youcanbook.me</a> for the Zoom link and advanced reservations (which aren't required).</p>
+</div>
+
+<h3><a href="{{site.github.baseurl}}/plans/lesson-19">Lesson 19, Tuesday <del>3/17</del>3/24</a> – Studio and Final Unit Planning</h3>
 
 For next time:
 
 <!-- * **Write** (or respond to) a pitch toward the collaborative project
 -->
-* **Compose and push** a full draft of your website project
+* **Compose and push** a full draft of your website project no later than Thursday morning (let's say 10am Eastern).
+* To test that it's fully on GitHub, **clone it again to a new location** on your computer: if you can successfully open your pages in a local browser from that second location, you should be good to get feedback in Thursday's asynchronous workshop! <em>(And you should then also be good to **delete that extra copy**, before you get confused as to where you're pushing from.)</em>
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-20">Lesson 20, Thursday 3/19</a> – Web Unit Workshop</h3>
+<h3><a href="{{site.github.baseurl}}/plans/lesson-20">Lesson 20, Thursday <del>3/19</del>3/26</a> – Web Unit Workshop</h3>
+<!-- Recommend this talking timer: https://chrome.google.com/webstore/detail/talking-timer-custom-spea/cbbmoeglgokhkbnnfpoeciheapicdphm?hl=en -->
+<div class="alert alert-warning">
+<del><strong>Our class WILL NOT MEET on Thursday, 3/26</strong>: I will be out of town for the Conference on College Composition and Communication.</del> With my out-of-town conference and most other travel plans canceled, and with two classes vaporized, I'm hoping many of you will be available to "meet" on Thursday, 3/26, even though we weren't originally going to. This will allow us to keep our workshop in its original place in the workflow. <strong>If you won't be able to clone and comment on peers' websites-in-progress, please let me know asap</strong> so we can make other arrangements for feedback!
+</div>
+
 
 For next time:
 
 * **By 11:59pm on Tuesday,** complete – at least for now – your website project.
 * **By Thursday** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-21">Lesson 21, Tuesday 3/24</a> – Studio</h3>
+<h3><a href="{{site.github.baseurl}}/plans/lesson-21">Lesson 21, Tuesday <del>3/24</del>3/31</a> – Studio</h3>
 
 For next time:
-<div class="alert alert-danger">
-<strong>Our class WILL NOT MEET on Thursday, 3/26</strong>: I will be out of town for the Conference on College Composition and Communication.
-</div>
-
 * **By 11:59pm tonight,** complete – at least for now – your website project.
 * **By Thursday,** write a prose reflection that incorporates images from your feedback and screenshots of your work in progress.
-* Then take the weekend to read through the proposals so far for group projects: what seems both exciting and achievable?
+* <del>Then take the weekend to read through the proposals so far for group projects: what seems both exciting and achievable?</del>
 
 
-<h2 id="unit-5">Unit V: Collaborative Composing</h2>
-*The deadlines and assignments here will vary from group to group... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
+<h2 id="unit-5">Unit V: <del>Collaborative Composing</del> Putting it Together (Bit by Bit)<a href="https://open.spotify.com/track/44Ngw7iHXXuSfzxgAb2cuf?si=OctGE9JRTbeP8iNpiKVA9w"><span class="hidden">*</span>*</a></h2>
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-22">Lesson 22, Tuesday 3/31</a> – Intro to Collaborative Unit: Charting a Course Forward</h3>
+<div class="alert alert-warning">
+<p>I'm getting the sense that enforced collaboration is <em>not</em> the best way forward when we can't reliably meet and look at things together. Instead, in this unit I'll ask you to build on what you've already made: a revision, an extension, or a combination, of the modes and media you used in earlier units. If you have a team that can collaborate effectively via online formats (via Zoom, Discord, Slack, what-have-you), that's up to you!</p>
 
-For next time:
-* Make shared repository (GH, Box, or Drive) containing a task list and proposed roles for your team members, if you haven't done that already in class.
-* Decide together what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
-<!--
-* Twinefolk, skim through [the Twine 2 wiki](http://twinery.org/wiki/twine2:guide).
-  - Note as well the possiblity of reverse engineering an existing Twine! Just import the html, and you can see what it's made of.
+<p>If you're feeling especially aspirational, might I suggest that a game or interactive story built in <a href="https://twinery.org">Twine</a> might serve that combinatory goal quite well? I'll see what I'm able to screen-record by way of introduction / guidance.</p>
+</div>
+
+<h3><del>Lesson 22, Tuesday 3/31 – Intro to Collaborative Unit: Charting a Course Forward</del></h3>
+
+<h3><a href="{{site.github.baseurl}}/plans/lesson-22">Lesson 22, Thursday 4/2</a> – Intro to Consolidation Unit: Charting a Course Forward</h3>
+
+<!-- In lesson plan, include this:
+* Some Twine games to play (including student projects), initially presented as a reward for finishing the web project
+* Some kind of reflective/generative writing
+* If you're interested in Twine, skim through [the Twine 2 wiki](http://twinery.org/wiki/twine2:guide).
+  - Important note for you Twinerers: you can reverse engineer an existing Twine! Just right-click to "view source," save that page, import the html into your Twine app, and you should be able to see what it's made of. : )
 -->
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-23">Lesson 23, Thursday 4/2</a> – Collaborative Unit Studio</h3>
+For next time:
+* Make a new repository (GH, Box, or Drive) containing a task list for your project – along with proposed roles for your team members, if you have a team of more than one.
+  - If you're updating an existing project, do this in a new branch of the old repository, instead.
+* Post a link to this repository on the [Issue Queue]({{site.github.issues_url}}).
+* Decide (together, if applicable) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. Push these updated goals to the repo.
+
+<h3><a href="{{site.github.baseurl}}/plans/lesson-23">Lesson 23, <del>Thursday 4/2</del> Tuesday 4/7</a> – Consolidation Unit Studio</h3>
 
 For next time:
-* Push a collaborative project preview (i.e. get something started) to your group repository.
+* Push a project preview (i.e. get something started) to your repository.
 * Continue updating and following your group plan.
 * Document your progress as you go! Screenshot, save, commit (or otherwise log changes), push.
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-24">Lesson 24, Tuesday 4/7</a> – Collaborative Unit Criteria (But Mostly Studio)</h3> <!-- and intro to final portfolio -->
-
-For next time:
-* Full-as-possible draft of collaborative project
-
-<h3><a href="{{site.github.baseurl}}/plans/lesson-25">Lesson 25, Thursday 4/9</a> – Collaborative Unit Studio</h3>
+<h3><a href="{{site.github.baseurl}}/plans/lesson-24">Lesson 24, <del>Tuesday 4/7</del> Thursday 4/9</a> – Consolidation Unit Criteria, Intro to Final Portfolio (But Mostly Studio)</h3>
 <!-- **NO CLASS or a SUB? This is the first day / second night of Passover.** -->
 
+
 For next time:
-* Set group deadlines: are you trying to finish by Sunday? By the last class (next Thursday)?
+* Full-as-possible draft of consolidation project
+
+<h3><a href="{{site.github.baseurl}}/plans/lesson-25">Lesson 25, <del>Thursday 4/9</del> Tuesday 4/14</a> – Workshop</h3>
+
+For next time:
+* Set yourself some deadlines: what are you trying to finish by the last class (in two days!)? Will you continue beyond that for Sunday, knowing the final portfolio is due on Tuesday 4/21?
+* **Read** Paul Ford's "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019). ([Pitt Library link](http://pitt.idm.oclc.org/login?url=https://search-proquest-com.pitt.idm.oclc.org/docview/2237787684))
+* Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
+* **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you.
 
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
-*Before the semester ends, we'll have time set aside for in-class revisions and reviews, and for drafting a reflective introduction to your final portfolio.*
 
-<h3><a href="{{site.github.baseurl}}/plans/lesson-26">Lesson 26, Tuesday 4/14</a> – Studio; Intro to Final Portfolio</h3>
+_Before the semester ends, I'd wanted to set aside time to work on drafting a reflective introduction to your final portfolio. With the lost week, that ends up being... one day. Sigh. Given self-pacing, some of you may end up here sooner...?_
 
-For next time:
-* Finish collaborative project (at least for now), if you haven't yet
+<h3><a href="{{site.github.baseurl}}/plans/lesson-26">Lesson 26, <del>Tuesday 4/14</del> Thursday 4/16</a> – Last day of class! Looking back and looking forward</h3>
 
-* **Read** Paul Ford's "Letter of Recommendation: Bug Fixes" from <em><a href="https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html">The New York Times Magazine</a></em> (June 11, 2019).
-* Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
-* **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll briefly share these next time.
-
-
-<h3><a href="{{site.github.baseurl}}/plans/lesson-27">Lesson 27, Thursday, 4/16</a> – Last day of class! Parting Gifts; Project Presentations; Play and Prep and Q&A</h3>
+<!-- Asynchronous writing toward final portfolio reflection -->
 
 For next time:
-* Work to complete your final portfolio
+* Finish consolidation project by Sunday, if you haven't yet
+* Work to complete your final portfolio (due Tuesday)
 
 &nbsp;
 
 &nbsp;
 <div class="alert alert-success">
-<em>Final portfolios will be due by the end of the final exam slot, which we now know will be <strong>Tuesday, April 21 at 1:50pm</strong>.</em>
+<em>Final portfolios will be due by the end of the final exam slot, which we now know will be <strong>Tuesday, April 21 at 1:50pm</strong>.</em> Grades are due eight days later, so if you want to turn it in earlier (but not before 4/14, I would expect), feel free to do so.
 </div>

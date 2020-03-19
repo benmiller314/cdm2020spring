@@ -254,3 +254,9 @@ pre code {
     border: none;
     padding: initial;
 }
+
+/* Dummy span to stop Atom from italicizing after real underscores and asterisks */
+
+span.hidden {
+	display: none;
+}
