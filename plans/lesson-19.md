@@ -37,6 +37,11 @@ By default, this is what a web browser will display when you just type in the UR
 </details>
 
 <details>
+<summary>Don't forget to have alt text for your images</summary>
+Text-alternatives, which you add to images using <code>&lt;img alt="text description here" src="path/to/source.jpg"&gt;</code>, are a required element in validated html. They're also really helpful, and not only to blind users: they make the html file more readable on its own, and thus more semantic, and they help you troubleshoot layout when image paths are broken by showing you where each image is trying to appear. For more guidance on how to write useful alt text, see <a href="https://webaim.org/techniques/alttext/">https://webaim.org/techniques/alttext/</a>.
+</details>
+
+<details>
 <summary>Don't forget to update your README.</summary>
 This is what GitHub Pages will display if you don't have an index file, but it's also a kind of cover letter for your code. The README should have a brief description of the project, and may I also suggest an active link to your live website, if you have one?
 </details>
