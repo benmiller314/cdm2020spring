@@ -14,6 +14,8 @@
 4. Studio time!
 5. Exit note
 
+
+## 1. Welcome back (and important links)
 Welcome back, everyone – if your last two weeks have been anything like mine, they've been full of anxious news-reading, rebuilding in the wake of disrupted plans, and what one professor I used to work with called "Forced Family Fun."
 
 I'm expecting a certain amount of flexible asynchronicity to the lesson plans moving forward, so adjust to the time you have available. That said, I also want to maintain **a few online spaces where we can feel connected to one another:**
