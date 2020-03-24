@@ -71,7 +71,7 @@ This is what GitHub Pages will display if you don't have an index file, but it's
 
 <details>
 <summary>Take the lowest line-count challenge.</summary>
-<p>In the HTML, consider whether you need all the &lt;div&gt;s you have, or whether you could put the relevant class directly on the element inside it. (It will depend on whether you need the container for flexbox or grid layout.)</p>
+<p>In the HTML, consider whether you need all the &lt;div&gt;s you have, or whether you could put the relevant class directly on the element inside it. (You might well need the container for flexbox or grid layout.) The way I think of &lt;div&gt; is that it groups together several items, kind of like the "group" button in PowerPoint or the layer-groups in GIMP: if you only have one thing inside a &lt;div&gt;, you probably don't need it.</p>
 
 <p>In CSS, look for ways to consolidate rules to avoid repeating yourself. For example, any style you need to apply more than once should probably use a <em>class</em> selector that you can re-use several times in your HTML, rather than an <em>id</em> (which you can only use once).</p>
 
