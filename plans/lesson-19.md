@@ -20,11 +20,11 @@ Welcome back, everyone – if your last two weeks have been anything like mine,
 
 I'm expecting a certain amount of flexible asynchronicity to the lesson plans moving forward, so adjust to the time you have available. That said, I also want to maintain **a few online spaces where we can feel connected to one another:**
 
-* _My online office_, for the duration of the semester, will be at [https://pitt.zoom.us/j/4969331343](https://pitt.zoom.us/j/4969331343). Barring homelife interruptions, I'm going to try to have that room open whenever class would be in session, plus my office hours on Wed/Thurs from 12-1.
+* _My online office_, for the duration of the semester, will be at [https://pitt.zoom.us/j/4969331343](https://pitt.zoom.us/j/4969331343). Barring homelife interruptions, I'm going to try to have that room open whenever class would be in session, plus my office hours on Wed/Thurs from 12-1. **Please come find me there during today's studio hours!** I'm happy to help where I can, and screensharing is often really useful.
 
 * _The google doc_ that we've been using for shared notes, at [http://bit.ly/cdm2020spring-criteria](http://bit.ly/cdm2020spring-criteria), will have new spaces where I'll ask you to check in briefly at the start and end of your own personal class time, mainly during studio days. (See below for some prompts.)
 
-And of course you can also find each other on GitHub, including on the [Issue Queue]({{site.github.issues_url}}) and the links from there to your various repositories.
+* And of course you can also find each other on GitHub, including on the [Issue Queue]({{site.github.issues_url}}) and the links from there to your various repositories. Filing a help request on the issue queue will be one of the best ways to make sure I help answer your questions: it'll help me keep track of what I've responded to (and what I haven't), and it'll prompt you to give me the info I need to respond more swiftly (like screenshots and links).
 
 
 ## 2. Website construction: seeds of revision
