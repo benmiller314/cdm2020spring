@@ -114,7 +114,7 @@ A title can provide a context, a clue, a genre, a commentary; it can add an extr
 
 ## 3. Set an intention
 <div class="alert alert-success">
-Before you start, head over to the google doc and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
+Before you start, <a href="http://bit.ly/cdm2020spring-criteria#heading=h.qobrtj4szd0b">head over to the google doc</a> and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
   <ul>
     <li>Work on responsive layout?</li>
     <li>Work on replacing placeholder content with real content?</li>
