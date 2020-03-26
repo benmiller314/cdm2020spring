@@ -23,15 +23,17 @@ layout: bottomnav
 
 The most obvious change is that you can't very well load your website files on your own computer and switch seats with a neighbor. Instead, I'm putting the 19 of you into four groups: within your group, you'll clone three repositories, and leave feedback for the authors _on GitHub_.
 
-How? Just (1) click through to the history of commits; (2) click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and (3) scroll to the bottom of the _diff view_ that appears. You'll see a comment box there:
-
-<figure><img src="../assets/img/github--cmment-on-commit.gif" alt="screencast of the three steps just described"/></figure>
-
 <div class="alert alert-info">
 To make this process easier, you should probably indicate in your README.md file where to find the main files for your own project: what folder are they in, if not the docs folder?
 
 Relatedly, if you're using Jekyll or something like it, please give instructions on how to load your most current rendered website: e.g. a link to the published GitHub Pages site. Your partners will probably want to View Source on the final rendered page.
 </div>
+
+Here's how and where to leave comments on GitHub: Just (1) click through to the history of commits; (2) click on the _commit hash_, the set of random-seeming numbers and letters almost at the end of the top row (i.e., for the most recent commit); and (3) scroll to the bottom of the _diff view_ that appears. You'll see a comment box there:
+
+<figure><img src="../assets/img/github--comment-on-commit.gif" alt="screencast of the three steps just described"/></figure>
+
+
 
 ### Still describe -> evaluate -> suggest... but describe twice
 
@@ -97,6 +99,11 @@ Let's do this!
 
 ### Timing note
 
+<div class="alert alert-success">
+<strong>We usually spend about 10-12 minutes on each rotation.</strong> I recommend timing yourself to make the amount of feedback roughly equivalent.
+</div>
+
+
 <div class="alert alert-white">
 We're doing this asynchronously now, so I can't keep track of your time... but I can recommend <a href="https://chrome.google.com/webstore/detail/talking-timer-custom-spea/cbbmoeglgokhkbnnfpoeciheapicdphm?hl=en">a Chrome app that will simulate the effect</a>:
 
@@ -107,7 +114,6 @@ We're doing this asynchronously now, so I can't keep track of your time... but I
 
 I'm sure something similar exists if you're not a Chrome user; I found this one pretty quickly on Google.
 
-**We usually spend about 10-12 minutes on each rotation.** I recommend timing yourself to make the amount of feedback roughly equivalent.
 </div>
 
 ### Detailed instructions for workshop-at-a-distance
