@@ -57,7 +57,7 @@ Finally, in your <em>suggestions</em>, some revision possibility that you think 
 I have here to return to you the index cards from the visual unit – not from the comments you *received*, but the comments you *gave*. Read them over. **Were you doing describe/evaluate/suggest?** If so, be proud! See if you can do it again in a new sensory mode. If not, strive to level up today: train your attention to see before judging. -->
 
 ## 2. Evaluation reminder: our criteria (5 min)
-We set up a few shared goals and constraints [bit.ly/cdm2020spring-criteria](http://bit.ly/cdm2020spring-criteria#heading=h.z8d1igk08a86) to meet the baseline requirements. Let's try to help everyone get at least to there!
+We set up [a few shared goals and constraints](http://bit.ly/cdm2020spring-criteria#heading=h.z8d1igk08a86) to meet the baseline requirements. Let's try to help everyone get at least to there!
 
 <aside>
 <strong>Baseline criteria</strong>
