@@ -6,9 +6,7 @@ banneralt: "banner: phases of the moon"
 
 
 ## Office Hours
-Margaret (map353@pitt) will hold office hours at Hillman Library on Fridays, 2:30-4:30pm. Look for her near Cup & Chaucer.
-
-You can book an appointment with Ben (millerb@pitt) below. Meetings will be in **CL 617-N**: through the glass doors near the elevators, then the right-side hallway and way back. And if none of these times work for you, email me to see if we can arrange something else.
+You can book an appointment with Ben (millerb@pitt) using the form below. Meetings will be <del>in <strong>CL 617-N</strong>: through the glass doors near the elevators, then the right-side hallway and way back</del> <strong>on Zoom, at <a href="https://pitt.zoom.us/j/4969331343">pitt.zoom.us/j/4969331343</a></strong>. And if none of these times work for you, email me to see if we can arrange something else.
 
 Below the signup calendar, I'm also embedding my busy/free calendar: <em>if it looks like I have no appointments left open, check here:</em> it might just be that I needed a little warning. Actual reserved appointment slots will show up as "busy" during the standard office-hour window.
 
