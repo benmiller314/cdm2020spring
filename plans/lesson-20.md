@@ -101,9 +101,12 @@ Groups:
 
 * [An](https://github.com/anngx/website-portfolio-2020spring), [Hailey](https://github.com/haileytrampel/website-portfolio-2020spring), [Jake](https://github.com/JakeBaumbaugh/website-portfolio-2020spring), [Linda](https://github.com/lumiio/website-portfolio-2020spring), [Olivia](https://github.com/onewport23/website-portfolio-2020spring)
 * [Angeline](https://github.com/angelinepeng/website-portfolio-2020spring), [Hannah](https://github.com/hannahlangmead/website-portfolio-2020spring), [Kat](https://github.com/katmiller10/website-portfolio-2020spring), [Kosha](https://github.com/kss73/website-portfolio-2020spring), [Ryan](https://github.com/Rvonderhey/website-portfolio-2020spring)
-* [Blake](https://github.com/Tomasco16/website-portfolio-2020spring), [Dilan](https://github.com/Dilan1020/website-portfolio-2020spring), [Matt](https://github.com/MDLudwig/website-portfolio-2020spring), [Jeremy](https://github.com/jerols4/website-portfolio-2020spring)
+* [Blake](https://github.com/Tomasco16/website-portfolio-2020spring)<sup>1</sup>, [Dilan](https://github.com/Dilan1020/website-portfolio-2020spring), [Matt](https://github.com/MDLudwig/website-portfolio-2020spring), [Jeremy](https://github.com/jerols4/website-portfolio-2020spring)
 * [Brahler](https://github.com/Bmb154/WEbpage-stuff), [Emma](https://github.com/emmawooten12/website-portfolio-2020spring), [Kevin](https://github.com/ktdemay/website-portfolio-2020spring), [Michaela](https://github.com/mjb-123/website-portfolio-2020spring), [Sydney](https://github.com/sydneymasterson/website-portfolio-2020spring)
 
+<p class="small">
+<sup>1</sup> Wrote to tell me they might not be able to participate in workshop due to scheduling challenges; if you need an extra set of eyes by tomorrow morning, please let me know! 
+</p>
 
 ### Timing note
 
