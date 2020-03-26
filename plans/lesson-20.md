@@ -117,7 +117,7 @@ I'm sure something similar exists if you're not a Chrome user; I found this one 
 2. In GitHub Desktop, choose the "Open in Atom" option if available, or else use View in Finder (Mac) / View in Explorer (PC) to find the files you just downloaded, and open them in your text editor.<figure><img src="../assets/img/github-desktop--open-in-atom.png" alt="GitHub Desktop with Open in Atom and Show in Finder buttons highlighted"/></figure>
 
 3. Start by viewing the HTML in the docs folder (or, if the main files aren't there, look for something that signals it's the real project and not an exercise). Do the first part of **Describe**: What seem to be the major content areas? What's given top-level focus? (e.g. what kind of things are getting their own pages, or what's at &lt;h1&gt; status within a page?) What's next in the hierarchy?
-    - If you're seeing a lot of curly brackets, or there's a subfolder called "templates", this may be a Jekyll site, which means the HTML will be distributed in a bunch of places. Hopefully there are instructions or a link to the fully-rendered site; once there, you can right-click to View Source, and see the composite HTML that way.
+    - If you're seeing a lot of curly brackets, or there's a subfolder called "_layouts", this may be a Jekyll site, which means the HTML will be distributed in a bunch of places. Hopefully there are instructions or a link to the fully-rendered site; once there, you can right-click to View Source, and see the composite HTML that way.
 
 4. Next up, load the site in your browser (Firefox is best for inspecting the CSS of individual elements, should you want to; Chrome is also pretty good), and **describe again**: What's given visual weight? What falls "above the fold"? Where are you invited to go next?
 
@@ -131,26 +131,13 @@ I'm sure something similar exists if you're not a Chrome user; I found this one 
 
 
 ## 4. Evaluation revisited (10 min)
-Head back to your seats and take a minute to read **and photograph** the notes you've received. (Make sure your photos are legible; I'll be collecting the cards at the end of class.)
-
-Based on your viewing, would anyone like to propose changes to the baseline criteria, or new aspirational goals to consider?
+Based on your viewing, if you'd like to propose changes to the baseline criteria, or add new aspirational goals to consider, please comment on the google doc!
 
 
 # Homework for Next Time
-* Even as we zoom in toward the unit finale (again), I want to keep one eye open toward the bigger picture (again!). At this point, we have a number of [great ideas](https://github.com/benmiller314/cdm2019fall/issues/6) for [group projects](https://github.com/benmiller314/cdm2019fall/issues/10):
-  - Collaborative soundscape narrative / podcast / radio show, perhaps traversing existing soundscape narratives
-  - Art of Foley (adding sounds to video - maybe one of [these](https://www.google.com/search?q=short+videos+no+sound&tbm=vid&sxsrf=ACYBGNTjlnYAR93lkuo0q2cwvLs06VgiNw:1572973957460&source=lnt&tbs=dur:s&sa=X&ved=0ahUKEwiyn-bPyNPlAhUOyFkKHZIRDisQpwUIIQ&biw=1440&bih=798&dpr=1))
-  - "Reverse-Foley" (visually animating, or filming, a soundscape)
-  - Digital stop-motion / flip-book animation ([several tools](https://www.freelancer.com/articles/graphic-design/best-free-animation-software) available)
-  - Animated or text-based game (perhaps using [Twine](http://twinery.org/))
-  - Visual programming (probably in [Scratch](https://scratch.mit.edu/about))
-  - UI/UX design in Adobe Suite (talk to [Margaret](mailto:mpalko@pitt.edu) about this one!)
-
-* Skim through any links above that seem intriguing, and if something strikes you, **[post a proposal]({{site.github.issues_url}}/13) to try to recruit partners**. As before, there is no minimum length for these posts.
-
-* Next class will be a web designers' studio: **optionally bring headphones for [sonic isolation](http://noisli.com)**, and whatever else you need to work towards finalizing your website portfolio.
-  - The final draft is due at the end of the day on Sunday, and a reflection by class-time on Tuesday; see the [prompt](https://github.com/benmiller314/webste-portfolio-2019fall#project-3-website-portfolio) for further details.
-
+* Next class will be a web designers' studio, like this past Tuesday's: I'll be on Zoom during class time (2:30-3:45) to field questions or just to check in.
+* The final draft is due at the end of the day on Tuesday night, 3/31, and a reflection by class-time on Thursday, 4/2; see the [prompt](https://github.com/benmiller314/webste-portfolio-2020spring#project-3-website-portfolio) for further details.
+* Next Thursday, we'll kick off our modified "consolidation unit" with some games and some reflective/generative writing: reread my email and start thinking about what you might want to do.
 
 
 ## EXT:
