@@ -1,6 +1,3 @@
----
-layout: bottomnav
----
 
 # Web Unit Workshop
 
