@@ -105,7 +105,7 @@ Groups:
 * [Brahler](https://github.com/Bmb154/WEbpage-stuff), [Emma](https://github.com/emmawooten12/website-portfolio-2020spring), [Kevin](https://github.com/ktdemay/website-portfolio-2020spring), [Michaela](https://github.com/mjb-123/website-portfolio-2020spring), [Sydney](https://github.com/sydneymasterson/website-portfolio-2020spring)
 
 <p class="small">
-<sup>1</sup> Wrote to tell me they might not be able to participate in workshop due to scheduling challenges; if you need an extra set of eyes by tomorrow morning, please let me know! 
+<sup>1</sup> Wrote to tell me they might not be able to participate in workshop due to scheduling challenges; if you need an extra set of eyes by tomorrow morning, please let me know!
 </p>
 
 ### Timing note
@@ -130,6 +130,7 @@ I'm sure something similar exists if you're not a Chrome user; I found this one 
 ### Detailed instructions for workshop-at-a-distance
 
 1. Go to your first partner's website, and use the "clone or download" button, probably with the "open in desktop" option. <figure><img src="../assets/img/github-clone-or-download-2.png" alt="Clone or download pop-up; also includes the URL to use with the command line." /></figure>
+    - In order to avoid name conflicts, you'll want to append your partner's name to the name of the folder (thanks, Linda, for this tip!) <figure><img src="../assets/img/github-desktop--directory-not-empty.png" alt="if you get an error, just change the folder name" /></figure>
 
 2. In GitHub Desktop, choose the "Open in Atom" option if available, or else use View in Finder (Mac) / View in Explorer (PC) to find the files you just downloaded, and open them in your text editor.<figure><img src="../assets/img/github-desktop--open-in-atom.png" alt="GitHub Desktop with Open in Atom and Show in Finder buttons highlighted"/></figure>
 
