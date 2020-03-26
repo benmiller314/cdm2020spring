@@ -97,10 +97,18 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 
 Let's do this!
 
+### Your groups
+Within each group, you're responsible for commenting on the three people after your name; if that takes you to the end, wrap around again.
+
+* Blake, Dilan, Matt, Jeremy
+* Brahler, Emma, Kevin, Michaela, Sydney
+* An, Hailey, Jake, Linda, Olivia
+* Angeline, Hannah, Kat, Kosha, Ryan
+
 ### Timing note
 
 <div class="alert alert-success">
-<strong>We usually spend about 10-12 minutes on each rotation.</strong> I recommend timing yourself to make the amount of feedback roughly equivalent.
+<strong>We usually spend about 10-15 minutes on each rotation.</strong> I recommend timing yourself to make the amount of feedback roughly equivalent.
 </div>
 
 
