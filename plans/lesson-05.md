@@ -48,7 +48,7 @@ Let's talk through any questions that came up.
 
 I especially want to make sure we're all on the same page about those True/False questions.
 
-* PS: Have you seen our plentiful <a href="{{site.github.baseurl}}/resources">Resources</a> page? Be sure to check out both the free/licensed sounds and music section and the audio-unit-specific advice and examples.
+* PS: Have you seen our plentiful <a href="{{site.github.url}}/resources">Resources</a> page? Be sure to check out both the free/licensed sounds and music section and the audio-unit-specific advice and examples.
 
 ## 3. Homework preview (5 min)
 

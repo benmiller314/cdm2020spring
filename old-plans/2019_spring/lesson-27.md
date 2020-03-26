@@ -14,7 +14,7 @@ layout: bottomnav
 
 ## 1. Prompt for Final Portfolio and Final Reflection (10-15 min)
 
-Please take the [handout]({{site.github.baseurl}}//uploads/handout--final-portfolio-prompt.docx).
+Please take the [handout]({{site.github.url}}//uploads/handout--final-portfolio-prompt.docx).
 
 Let's go over this together so you can ask questions as they come up.
 

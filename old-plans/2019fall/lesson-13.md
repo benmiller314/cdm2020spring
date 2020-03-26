@@ -29,7 +29,7 @@ Primed now by that writing and thinking, I'm going to ask you to get in groups a
 
 ### 3a. Let's try the groups we used last time:
 <figure>
-<img src="{{site.github.baseurl}}/assets/img/2019fall-seating-groups.png" alt="Alex, Brittany, Richard, and Weston / Corey, Danielle, Ellie, and Rebecca / Emma M, Jade, and Julianna / Fatema Q, Natasha, Rachel, and Ruhi / Emma K, Fathima S, and Kevin">
+<img src="{{site.github.url}}/assets/img/2019fall-seating-groups.png" alt="Alex, Brittany, Richard, and Weston / Corey, Danielle, Ellie, and Rebecca / Emma M, Jade, and Julianna / Fatema Q, Natasha, Rachel, and Ruhi / Emma K, Fathima S, and Kevin">
 </figure>
 
 ### 3b. Crowdsource ideas (10 min) <!-- start at ~2:53 -->

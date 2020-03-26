@@ -117,7 +117,7 @@ Options!
 
 * Start gathering materials toward your website, to check feasibility.
 * If you haven't yet done so, why not start the tutorial sections from the homework?
-  - I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github.baseurl}}/schedule) to see which parts I expect you to read and do, and what's beyond baseline.
+  - I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github.url}}/schedule) to see which parts I expect you to read and do, and what's beyond baseline.
 * Above all, **call me over for help as needed**.
 
 NB: I'm not sure if the lab computers will have Atom (I think so), but they should at least have SublimeText, which is very similar.

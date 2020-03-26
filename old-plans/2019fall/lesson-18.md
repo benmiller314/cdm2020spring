@@ -72,7 +72,7 @@ If you're worried about showing up in search results before your site is ready, 
 </div>
 
 <div class="alert alert-info">
-Remember that you have <a href="{{site.github.baseurl}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text</a>?
+Remember that you have <a href="{{site.github.url}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text</a>?
 </div>
 
 Save about five minutes at the end to write me a brief exit note about what you've been working on.

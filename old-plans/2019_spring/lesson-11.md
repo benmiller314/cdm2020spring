@@ -3,7 +3,7 @@
 **Work to have achieved**:
 
 * Read about fonts
-* Review the [resources page]({{site.github.baseurl}}/resources)
+* Review the [resources page]({{site.github.url}}/resources)
 * Write a [visual rhetoric proposal](https://github.com/pitt-cdm/miller2019spring/issues/9)
 
 **Plan for the day**:

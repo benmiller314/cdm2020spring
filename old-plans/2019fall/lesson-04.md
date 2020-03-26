@@ -4,7 +4,7 @@ layout: bottomnav
 
 # Sound, Space, and Audacity
 
-**Texts to have listened to:** ["Coffee Shop Conversations"](http://dmap.pitt.edu/node/248), ["Day In: Day Out"](http://dmap.pitt.edu/node/177), ["Hello"](http://dmap.pitt.edu/node/249), ["Expedition to Planets Unknown"](http://dmap.pitt.edu/node/178), _[Breaking Bad]({{site.github.baseurl}}/assets/sound/bb-pilot-opening.mp3)_, _[Battlestar Galactica]({{site.github.baseurl}}/assets/sound/bg-pilot-opening.mp3)_.
+**Texts to have listened to:** ["Coffee Shop Conversations"](http://dmap.pitt.edu/node/248), ["Day In: Day Out"](http://dmap.pitt.edu/node/177), ["Hello"](http://dmap.pitt.edu/node/249), ["Expedition to Planets Unknown"](http://dmap.pitt.edu/node/178), _[Breaking Bad]({{site.github.url}}/assets/sound/bb-pilot-opening.mp3)_, _[Battlestar Galactica]({{site.github.url}}/assets/sound/bg-pilot-opening.mp3)_.
 
 **Work to have achieved:**
 
@@ -81,7 +81,7 @@ For clip 2, catching the listener's attention is all that matters. Here, anythin
 We'll share these among each other, but not post to GitHub – we don't want any of our fake clips to circulate widely!
 
 <div class="alert alert-info">
-Today's audio clip is from <a href="{{site.github.baseurl}}/uploads/pelosi-accepts-gavel-20190103.mp3">Nancy Pelosi's address to the House of Representatives on again being elected Speaker</a>, January 3, 2019. Download it, and get going!
+Today's audio clip is from <a href="{{site.github.url}}/uploads/pelosi-accepts-gavel-20190103.mp3">Nancy Pelosi's address to the House of Representatives on again being elected Speaker</a>, January 3, 2019. Download it, and get going!
 </div>
 
 <aside><smaller>

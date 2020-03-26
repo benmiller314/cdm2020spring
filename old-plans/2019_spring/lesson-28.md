@@ -54,7 +54,7 @@ If we're in between, let's have a quick Q&A on the final reflection.
 
 ## 5. Departures
 
-If we had a final exam, it would be next Friday from 8:00-9:50am. Instead, the [final portfolio](({{site.github.baseurl}}//uploads/handout--final-portfolio-prompt.docx) is due at the end of that exam slot: Friday, April 26, at 9:50am.
+If we had a final exam, it would be next Friday from 8:00-9:50am. Instead, the [final portfolio](({{site.github.url}}//uploads/handout--final-portfolio-prompt.docx) is due at the end of that exam slot: Friday, April 26, at 9:50am.
 
 The reflection is the main thing, so if you do make revisions, please be sure to talk about them in the reflection.
 
