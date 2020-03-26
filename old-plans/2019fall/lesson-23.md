@@ -44,7 +44,7 @@ Second, I want to suggest that you work out how and when you'll commit to the sh
 
 ## 3. Sharing of resources (5-8 min)<!-- past projects, Twine links, collab Twine strategy -->
 
-Groups working on Twine, if you haven't yet seen it, please do check out the Twine section of the [Resources]({{site.github.url}}/resources#twine--interactive-narrative) page!
+Groups working on Twine, if you haven't yet seen it, please do check out the Twine section of the [Resources]({{site.github_url}}/resources#twine--interactive-narrative) page!
 
 Here are some links to student projects from past semesters:
 

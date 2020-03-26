@@ -251,8 +251,8 @@ EXT: If you're already good with all this – e.g. if you've used Git before �
   - Wick, Thomas. "Soundscape - Expedition to Planets Unknown." *Digital Media and Pedagogy Showcase Spring 2018.* [http://dmap.pitt.edu/node/178](http://dmap.pitt.edu/node/178). (NB: starts loud; turn volume down)
 
 * **Listen**, as well, to the following audio tracks from the first few minutes of successful TV dramas:
-  - [Breaking Bad]({{site.github.url}}/assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.
-  - [Battlestar Galactica]({{site.github.url}}/assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes. (NB: starts very quiet)
+  - [Breaking Bad]({{site.github_url}}/assets/sound/bb-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=D-G8weg2Ndg under Fair Use, for instructional purposes.
+  - [Battlestar Galactica]({{site.github_url}}/assets/sound/bg-pilot-opening.mp3). Sound extracted from https://www.youtube.com/watch?v=9VBTcDF1eVQ under Fair Use, for instructional purposes. (NB: starts very quiet)
 
 * **Write** a short blog post to the appropriate thread [on the issue queue]({{site.github.issues_url}}): What do you notice, i.e. what stands out while reading or listening? What does that suggest, or what does it make you wonder?
 

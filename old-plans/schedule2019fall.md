@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{site.github.url}}/assets/img/many-moons.jpg" class="banner" alt="banner: phases of the moon" />
+<img src="{{site.github_url}}/assets/img/many-moons.jpg" class="banner" alt="banner: phases of the moon" />
 
 # Class-by-Class Schedule
 
@@ -27,7 +27,7 @@ Unit VI | [Reflection and Revision](#unit-6) | (weeks 13-14)
 {: .table }
 
 <h2 id="unit-1">Unit I: What Makes Digital Media New?</h2>
-<h3><a href="{{site.github.url}}/plans/lesson-01">Lesson 1, Tuesday 8/27</a> – Introductions</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-01">Lesson 1, Tuesday 8/27</a> – Introductions</h3>
 HW for next time:
 
 * **Read** [syllabus and grading contract](/{{site.course.base_url}}uploads); return with questions or a signed contract.
@@ -37,7 +37,7 @@ HW for next time:
 * **Join** [GitHub](https://github.com/) if you haven't yet, and **post** an introduction to yourself on <a href="{{site.github.issues_url}}/1">the issue queue</a>].
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-02">Lesson 2, Thursday 8/29</a> – What Can We Do With Digital?</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-02">Lesson 2, Thursday 8/29</a> – What Can We Do With Digital?</h3>
 
 HW for next time:
 
@@ -48,7 +48,7 @@ HW for next time:
 * *Optional* Also **download** the [GitHub Desktop application](https://desktop.github.com), available for MacOS or Windows.
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-03">Lesson 3, Tuesday 9/3</a> – Building a Repository</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-03">Lesson 3, Tuesday 9/3</a> – Building a Repository</h3>
 
 For next time:
 
@@ -61,7 +61,7 @@ For next time:
 
 <h2 id="unit-2">Unit II: Soundscapes and Soundwriting</h2>
 
-<h3><a href="{{site.github.url}}/plans/lesson-04">Lesson 4, Thursday 9/5</a> – Sound, Space, and Audacity<!-- tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
+<h3><a href="{{site.github_url}}/plans/lesson-04">Lesson 4, Thursday 9/5</a> – Sound, Space, and Audacity<!-- tracks, split, join. Do soundwalk at end iff time allows. (It won't.) :\ --></h3>
 
 For next time:
 
@@ -73,7 +73,7 @@ For next time:
 * **Bring** headphones so you can work in class
 <!-- Ben HW: bring in sounds to practice with -->
 
-<h3><a href="{{site.github.url}}/plans/lesson-05">Lesson 5, Tuesday 9/10</a> – Hands On with Audacity</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-05">Lesson 5, Tuesday 9/10</a> – Hands On with Audacity</h3>
 <!-- representative and reprehensible sampling
 -->
 
@@ -88,7 +88,7 @@ For next time:
   - a brief description of what you've included (.txt or .md)
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-06">Lesson 6, Thursday 9/12</a> – Sound criteria and stretch goals</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-06">Lesson 6, Thursday 9/12</a> – Sound criteria and stretch goals</h3>
 
 
 For next time:
@@ -98,7 +98,7 @@ For next time:
 * **Push** a full draft, with the same four parts as the preview *plus* a SOURCES.md file crediting your sources and permissions/license to use them
 * **Bring** headphones
 
-<h3><a href="{{site.github.url}}/plans/lesson-07">Lesson 7, Tuesday 9/17</a> – Sound Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-07">Lesson 7, Tuesday 9/17</a> – Sound Workshop</h3>
 
 For next time:
 
@@ -106,7 +106,7 @@ For next time:
 * **Bring** headphones so you can work in class
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-08">Lesson 8, Thursday 9/19</a> – Sound Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-08">Lesson 8, Thursday 9/19</a> – Sound Studio</h3>
 
 For next time:
 
@@ -118,7 +118,7 @@ For next time:
 <h2 id="unit-3">Unit III: Visual Rhetorics and Argument</h2>
 *In this unit, you will make a claim through the juxtaposition of images and text. As with the sound project, the context for your argument is open: you could be making a social commentary, calling for action, constructing a parody, riffing on a pun, explaining a concept, and so on. Whatever you choose, you should consider your audience and what they would find persuasive or interesting, and how you therefore wish to attract and direct their attention.*
 
-<h3><a href="{{site.github.url}}/plans/lesson-09">Lesson 9, Tuesday 9/24</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-09">Lesson 9, Tuesday 9/24</a> – Can You Picture It? Visual Rhetorics and Argument</h3>
 
 For next time:
 
@@ -126,7 +126,7 @@ For next time:
 * **Find** an example of a rhetorical visual design
 * **Write** a blog post about your example, using the analytical language from the reading
 
-<h3><a href="{{site.github.url}}/plans/lesson-10">Lesson 10, Thursday 9/26</a> – Intro to GIMP and Visual Design</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-10">Lesson 10, Thursday 9/26</a> – Intro to GIMP and Visual Design</h3>
 
 For next time:
 
@@ -137,33 +137,33 @@ For next time:
 </div>
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-11">Lesson 11, Thursday 10/3</a> - Generating Visual Ideas</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-11">Lesson 11, Thursday 10/3</a> - Generating Visual Ideas</h3>
 
 For next time:
 
 * **Write** a visual rhetoric proposal, including a prospective asset list; post to <a href="{{site.github.issues_url}}">the issue queue</a>
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-12">Lesson 12, Tuesday 10/8</a> – Visual Unit Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-12">Lesson 12, Tuesday 10/8</a> – Visual Unit Studio</h3>
 
 For next time:
 
 * **Compose and push** a visual rhetoric preview
 
-<h3><a href="{{site.github.url}}/plans/lesson-13">Lesson 13, Thursday 10/10</a> – Visual Unit Criteria and Stretch Goals</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-13">Lesson 13, Thursday 10/10</a> – Visual Unit Criteria and Stretch Goals</h3>
 
 For next time:
 
 * **Compose and push** a visual rhetoric draft
 
-<h3><a href="{{site.github.url}}/plans/lesson-14">Lesson 14, Tuesday 10/15</a> – Visual Unit Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-14">Lesson 14, Tuesday 10/15</a> – Visual Unit Workshop</h3>
 
 For next time:
 
 * **Write** a blog post with more ideas toward weeks 12-13 (collaborative creative unit)
 * **Bring** headphones
 
-<h3><a href="{{site.github.url}}/plans/lesson-15">Lesson 15, Thursday 10/17</a> – Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-15">Lesson 15, Thursday 10/17</a> – Studio</h3>
 
 For next time:
 
@@ -175,7 +175,7 @@ For next time:
 <h2 id="unit-4">Unit IV: Webslinging (HTML + CSS markup)</h2>
 *In this unit, you will build a multi-page website from scratch, beginning with html and css files.*
 
-<h3><a href="{{site.github.url}}/plans/lesson-16">Lesson 16, Tuesday 10/22</a> – Midterm Reflections and Intro to Markup</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-16">Lesson 16, Tuesday 10/22</a> – Midterm Reflections and Intro to Markup</h3>
 <!--
 Revisit Sorapure/Manovich, introduce Janet Murray. This unit will focus on the encyclopedic, spatial, and procedural nature of digital media.
 Modern web markup is all about separation of content from display.
@@ -190,7 +190,7 @@ For next time:
 
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-17">Lesson 17, Thursday 10/24</a> – Intro to Web Design and Generative Sketching</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-17">Lesson 17, Thursday 10/24</a> – Intro to Web Design and Generative Sketching</h3>
 <!--
 Start with EXT from last time, if need be.
 [Web design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
@@ -205,7 +205,7 @@ For next time:
 * **Read** more about [how CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
 * **Write** a website proposal, including at least one hand-drawn design sketch, types of pages, and a prospective asset list. Post to the <a href="{{site.github.issues_url}}">issue queue</a>.
 
-<h3><a href="{{site.github.url}}/plans/lesson-18">Lesson 18, Tuesday 10/29</a> – Web Unit Studio / Deployment</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-18">Lesson 18, Tuesday 10/29</a> – Web Unit Studio / Deployment</h3>
 
 <!--
 Make sure everyone has successfully activated GitHub Pages before they leave -->
@@ -215,7 +215,7 @@ For next time:
 * **Do** more of the [tutorial](https://internetingishard.com/html-and-css/), including at least Flexbox (8) and Responsive Design (10), if you haven't yet.
 * **Compose and push** a website preview: a beginning.
 
-<h3><a href="{{site.github.url}}/plans/lesson-19">Lesson 19, Thursday 10/31</a> – Web Unit Criteria and Stretch Goals</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-19">Lesson 19, Thursday 10/31</a> – Web Unit Criteria and Stretch Goals</h3>
 <!--
 Happy Halloween!
 Developer tools demo
@@ -227,7 +227,7 @@ For next time:
 * **Compose and push** a full draft of your website project
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-20">Lesson 20, Tuesday 11/5</a> – Web Unit Workshop</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-20">Lesson 20, Tuesday 11/5</a> – Web Unit Workshop</h3>
 *Election Day*
 
 For next time:
@@ -237,7 +237,7 @@ For next time:
 * **Bring** headphones
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-21">Lesson 21, Thursday 11/7</a> – Studio</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-21">Lesson 21, Thursday 11/7</a> – Studio</h3>
 
 For next time:
 
@@ -249,25 +249,25 @@ For next time:
 <h2 id="unit-5">Unit V: Collaborative Composing</h2>
 *The deadlines and assignments here will vary... unless we all agree to just make interactive stories in [Twine](https://twinery.org), in which case I'll follow a similar deadline pattern to the previous three units.*
 
-<h3><a href="{{site.github.url}}/plans/lesson-22">Lesson 22, Tuesday 11/12</a> – Intro to Final Unit: Charting a Course Forward <!--(Integrative Interactive Narratives)--></h3>
+<h3><a href="{{site.github_url}}/plans/lesson-22">Lesson 22, Tuesday 11/12</a> – Intro to Final Unit: Charting a Course Forward <!--(Integrative Interactive Narratives)--></h3>
 
 For next time:
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-23">Lesson 23, Thursday 11/14</a> – Grouping Up and Setting Out</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-23">Lesson 23, Thursday 11/14</a> – Grouping Up and Setting Out</h3>
 
 For next time:
 * Make shared repository (GH, Box, or Drive), task list.
 * Push a collaborative project preview (get something started)
 
-<h3><a href="{{site.github.url}}/plans/lesson-24">Lesson 24, Tuesday 11/19</a> – Studio / Minilessons / TBD</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-24">Lesson 24, Tuesday 11/19</a> – Studio / Minilessons / TBD</h3>
 
 For next time:
 
 * Keep documenting your progress with screenshots, commit messages, and/or reflective notes
 
 
-<h3><a href="{{site.github.url}}/plans/lesson-25">Lesson 25, Thursday 11/21</a> – Studio / Minilessons / TBD</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-25">Lesson 25, Thursday 11/21</a> – Studio / Minilessons / TBD</h3>
 
 For next time:
 
@@ -280,7 +280,7 @@ For next time:
 
 <h2 id="unit-6">Unit VI: Reflection and Revision</h2>
 
-<h3><a href="{{site.github.url}}/plans/lesson-26">Lesson 26, Tuesday 12/3</a> – Looking Backward to Look Forward (plus Studio time)</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-26">Lesson 26, Tuesday 12/3</a> – Looking Backward to Look Forward (plus Studio time)</h3>
 <!--
 TRANSFER OWNERSHIP OF PROJECT REPOS
 Metaphors for learning?
@@ -296,7 +296,7 @@ For next time:
 * Ford writes, "I read the change logs, and I think: <em>Humans can do things.</em>" **Read back** through your own change logs, i.e. the commit histories of your projects; skim through the lesson plans. What things have you done this semester?
 * **Choose** something from the course that you want to remember beyond this semester: a thing you or someone else made, or said, that struck a chord with you. We'll briefly share these next time.
 
-<h3><a href="{{site.github.url}}/plans/lesson-27">Lesson 27, Thursday 12/5</a> – Parting Gifts; in-class writing and revising time</h3>
+<h3><a href="{{site.github_url}}/plans/lesson-27">Lesson 27, Thursday 12/5</a> – Parting Gifts; in-class writing and revising time</h3>
 <!--
  OMETs (teacher evaluations)
 -->

@@ -83,7 +83,7 @@ So walk us through
 
 And other announcements.
 
-1. If we had a final exam, it would be **this coming Tuesday,** from 12:00pm-1:50pm. Instead, the [final portfolio]({{site.github.url}}//uploads/handout--final-portfolio-prompt.docx) is due at the end of that exam slot: Tuesday, December 10, at 1:50pm.
+1. If we had a final exam, it would be **this coming Tuesday,** from 12:00pm-1:50pm. Instead, the [final portfolio]({{site.github_url}}//uploads/handout--final-portfolio-prompt.docx) is due at the end of that exam slot: Tuesday, December 10, at 1:50pm.
 
 2. The reflection is the main thing, so if you do make revisions, please be sure to talk about them in the reflection.
 

@@ -110,6 +110,6 @@ I'll demo, using "Fly Me to the Moon, by Way of a Hot Air Balloon" (2009) by [Be
 NB: For next Thursday, I'll ask you to produce a project preview, just a little something to make sure you've started. But there's also relevant reading. If you think you'll have more time to read now than next week, you can jump ahead:
 </div>
 
-* **Review** the [resources page]({{site.github.url}}/resources) with an eye toward visuals. As before, note that there are sections both for finding images and for getting help thinking visually – and, as before, feel free to suggest additional resources if you have any!
+* **Review** the [resources page]({{site.github_url}}/resources) with an eye toward visuals. As before, note that there are sections both for finding images and for getting help thinking visually – and, as before, feel free to suggest additional resources if you have any!
 * **Read** about fonts at [https://www.canva.com/learn/font-design/](https://www.canva.com/learn/font-design/).
    - Optionally, **play** a font-matching game at http://www.typeconnection.com/ to get a sense of (a) what sorts of fonts are out there and (b) how designers go about pairing fonts for what Thompson (in the reading for today) called hierarchy by "style."

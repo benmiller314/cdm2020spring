@@ -129,7 +129,7 @@ If you're worried about showing up in search results before your site is ready, 
 </div>
 
 <div class="alert alert-info">
-Remember that you have <a href="{{site.github.url}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text and/or images</a>, once you know what your main content areas and headers will be?
+Remember that you have <a href="{{site.github_url}}/resources#web-design">Resources</a> on our website. For today, might I especially point out the design advantages of <a href="https://loremipsum.io">placeholder text and/or images</a>, once you know what your main content areas and headers will be?
 </div>
 
 

@@ -156,7 +156,7 @@ Options!
 
 * Start gathering materials toward your website, to check feasibility.
 * If you haven't yet done so, why not start the tutorial sections from the homework?
-  - I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github.url}}/schedule) to see which parts I expect you to read and do, and what's beyond baseline.
+  - I won't assign *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule) to see which parts I expect you to read and do, and what's beyond baseline.
 * Above all, **call me over for help as needed**.
 
 EXT: If you're good on what a CSS class is, and how to add it to an HTML element, read up on [Bootstrap](https://getbootstrap.com/), a very widely used CSS framework. (I use it on this site, for example.) What "framework" essentially means is that they've pre-created a bunch of CSS classes for you, so you can start using them to design your own layout from scratch. It's a little like Lego for web design, only free.

@@ -4,7 +4,7 @@
 
 # Sound, Space, and Audacity
 
-**Texts to have listened to:** ["Coffee Shop Conversations"](http://dmap.pitt.edu/node/248), ["Day In: Day Out"](http://dmap.pitt.edu/node/177), ["A Haunted Halt"](http://dmap.pitt.edu/node/295), ["Expedition to Planets Unknown"](http://dmap.pitt.edu/node/178), _[Breaking Bad]({{site.github.url}}/assets/sound/bb-pilot-opening.mp3)_, _[Battlestar Galactica]({{site.github.url}}/assets/sound/bg-pilot-opening.mp3)_.
+**Texts to have listened to:** ["Coffee Shop Conversations"](http://dmap.pitt.edu/node/248), ["Day In: Day Out"](http://dmap.pitt.edu/node/177), ["A Haunted Halt"](http://dmap.pitt.edu/node/295), ["Expedition to Planets Unknown"](http://dmap.pitt.edu/node/178), _[Breaking Bad]({{site.github_url}}/assets/sound/bb-pilot-opening.mp3)_, _[Battlestar Galactica]({{site.github_url}}/assets/sound/bg-pilot-opening.mp3)_.
 
 **Work to have achieved:**
 

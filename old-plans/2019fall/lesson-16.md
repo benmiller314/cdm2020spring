@@ -136,14 +136,14 @@ Emphasize that this is all _exactly_ the same html.
 Note that you can set Atom as your default text editor in GitHub Desktop, making it very easy to browse and edit all of a repo's files. I recommend it!
 
 <figure>
-<img src="{{site.github.url}}/uploads/gh-desktop--set-text-editor.png" alt="GitHub Desktop > preferences > advanced > external editor" />
+<img src="{{site.github_url}}/uploads/gh-desktop--set-text-editor.png" alt="GitHub Desktop > preferences > advanced > external editor" />
 <figcaption>Use the advanced tab in preferences</figcaption>
 </figure>
 
 ## EXT: Start the homework tutorial.
 I think the full tutorial's worth reading through, even if you're already familiar with the content (I was, and I still consolidated a lot of my understandings).
 
-But if you're able to breeze through parts 1-4, and still have time left in class, please look through the web-related sections of the class  [Resources]({{site.github.url}}/resources) page, and click through to the documentation for anything that sounds interesting!
+But if you're able to breeze through parts 1-4, and still have time left in class, please look through the web-related sections of the class  [Resources]({{site.github_url}}/resources) page, and click through to the documentation for anything that sounds interesting!
 
 <!-- MOVED TO NEXT LESSON
 ## 4. "Web Design in 4 Minutes"... in 15 minutes

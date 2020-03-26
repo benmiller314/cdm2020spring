@@ -91,4 +91,4 @@ We'll work for 10-15 minutes, then report back.
    * **Download** any software you'll need [to use Git at the command line](https://gist.github.com/derhuerst/1b15ff4652a867391f03), possibly including Homebrew (on Mac) and GitBash (on Windows)
      - If you're feeling intimidated by the command line but want to give it a go, try out this [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
    * *Optional but highly recommended:* Also **download** the [GitHub Desktop application](https://desktop.github.com), available for MacOS or Windows. <!-- FOR NEXT TIME: ALSO HAVE THEM DOWNLOAD ATOM, so they can do the local text editing required in lesson 3! -->
-* *Optional:* Want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page]({{site.github.url}}/resources).
+* *Optional:* Want a more hands-on guide through the full GitHub functionality? See the GitHub Learning Lab entry on our [Resources page]({{site.github_url}}/resources).

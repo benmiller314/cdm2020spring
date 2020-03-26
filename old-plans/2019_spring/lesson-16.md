@@ -49,7 +49,7 @@ Not sure what that should look like? Here are [33 examples](http://designbeep.co
 Options!
 
 * If you haven't yet done so, why not start the tutorial sections from the homework?
-* I won't have assigned time for *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github.url}}/schedule) to see what's expected, and what's beyond baseline
+* I won't have assigned time for *all* the sections of the tutorial; you can look ahead in the [schedule]({{site.github_url}}/schedule) to see what's expected, and what's beyond baseline
 * Start gathering materials toward your website, to check feasibility
 * Above all, **call me over for help as needed**.
 

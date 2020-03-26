@@ -6,7 +6,7 @@ layout: bottomnav
 
 **Work to have achieved**:
 
-* Review the [resources page]({{site.github.url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage)
+* Review the [resources page]({{site.github_url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-2019fall#project-2-visual-argument--rhetorical-collage)
 * Write a [visual rhetoric proposal]({{site.github.issues_url}}/8)
 
 **Plan for the day**:

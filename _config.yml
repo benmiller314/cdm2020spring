@@ -28,5 +28,6 @@ course:
     email: millerb@pitt.edu
     # No @ before your username; e.g., twitter, not @twitter
     twitter: benmiller314
-github: [metadata]
+# github: [metadata]
+github_url: https://benmiller314.github.io/cdm2020spring
 theme: jekyll-theme-time-machine

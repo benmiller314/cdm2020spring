@@ -5,7 +5,7 @@
 # Visual Unit Studio
 
 **Work to have achieved**:
-* Review the [resources page]({{site.github.url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-2020spring#project-2-visual-argument--rhetorical-collage)
+* Review the [resources page]({{site.github_url}}/resources) and unit assignment [goals and options](https://github.com/benmiller314/visual-argument-2020spring#project-2-visual-argument--rhetorical-collage)
 * Do at least 1-2 tutorials from [gimp.org/tutorials](https://gimp.org/tutorials)
 * Write a [visual rhetoric proposal]({{site.github.issues_url}})
 
