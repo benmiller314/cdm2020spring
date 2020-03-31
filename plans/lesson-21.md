@@ -54,7 +54,7 @@ I also highly recommend that you look back over [my expandable notes on the webs
 Here's some new advice:
 <details>
 <summary>If you want to publish your website, use the docs folder</summary>
-<p>It's one of the standard places where GitHub pages will look for the files from which to build your site. Inside that folder, you should find a second README that I made with further instructions. (And if you've deleted it, you can look back at <a href="https://github.com/benmiller314/website-portfolio-2020spring/tree/master/docs">the assignment repo</a>.)
+<p>It's one of the standard places where GitHub pages will look for the files from which to build your site. Inside that folder, you should find a second README that I made with further instructions. (And if you've deleted it, you can look back at <a href="https://github.com/benmiller314/website-portfolio-2020spring/tree/master/docs">the assignment repo</a>.)</p>
 </details>
 
 <details>
