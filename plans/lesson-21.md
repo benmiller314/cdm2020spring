@@ -37,11 +37,11 @@ In the course of responding to questions, I've created a few screencasts, and I'
 I'm sharing these here, in case they're helpful to more of you:
 
 * [Putting items in a row with flexbox](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd2f6e85-ddbc-486d-8f92-ab8900188039)
-    - Using Flexbox to put images in a horizontal row, rather than displaying as default vertical blocks, takes just one or two lines of CSS and at most two new lines of HTML (&lt;div&gt; and &lt;/div&gt;).
+    - Using Flexbox to put images in a horizontal row, rather than displaying as default vertical blocks, takes just one or two lines of CSS and at most two new lines of HTML (<code>&lt;div&gt;</code> and <code>&lt;/div&gt;</code>).
 * [Grouping images and captions in rows (HTML/CSS)](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca1c79ce-b1e0-4620-b296-ab8f001a9aef)
     - A block element with `display:flex;` will assign positions to all of its child elements, giving them space based on the *number* of child elements. Therefore, you'll often need to group smaller items into &lt;div&gt;s in order to create the correct number of objects for the flexbox to distribute.
 * [Centering a nav-bar with `margin: 0 auto;`](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33c892fd-388f-498b-9955-ab8f0015722a)
-    - When margin (or padding) has two values, the first value controls the top-bottom margin (or padding), and the second controls the left-right. `Auto` left-right margins will provide equal spacing (i.e. horizontal centering), but – and here's the kicker – only if the object has a defined width. (Otherwise, your browser won't know how much to subtract from the containing element before splitting that remaining space in half.)
+    - When `margin` (or `padding`) has two values, the first value controls the top-bottom margin (or padding), and the second controls the left-right. `Auto` left-right margins will provide equal spacing (i.e. horizontal centering), but – and here's the kicker – only if the object has a defined width. (Otherwise, your browser won't know how much to subtract from the containing element before splitting that remaining space in half.)
 
 I also highly recommend that you look back over [my expandable notes on the website previews](lesson-19#2-website-construction-seeds-of-revision), from last week's studio, if you haven't yet integrated that cross-project advice:
  * You should have an index.html (or index.md)
@@ -54,6 +54,7 @@ I also highly recommend that you look back over [my expandable notes on the webs
 Here's some new advice:
 <details>
 <summary>If you want to publish your website, use the docs folder</summary>
+
 <p>It's one of the standard places where GitHub pages will look for the files from which to build your site. Inside that folder, you should find a second README that I made with further instructions. (And if you've deleted it, you can look back at <a href="https://github.com/benmiller314/website-portfolio-2020spring/tree/master/docs">the assignment repo</a>.)</p>
 </details>
 
@@ -74,7 +75,7 @@ A title can provide a context, a clue, a genre, a commentary; it can add an extr
 <details>
 <summary>Articulate permissions.</summary>
 
-<p>If you're using resources you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Where to do this? Ideally, somewhere small under the image itself. (There's a semantic html way of doing this with &lt;figure&gt; and &lt;figcaption&gt;.) Alternately, you can have a rights page somewhere, or use the site footer – or link to an external CREDITS file in your repo.</p>
+<p>If you're using resources you didn't make yourself, be sure to include enough information to recover where it came from: a direct link to the image and to the specific license (if there is one) is ideal. Where to do this? Ideally, somewhere small under the image itself. (There's a semantic html way of doing this with <code>&lt;figure&gt;</code> and <code>&lt;figcaption&gt;</code>.) Alternately, you can have a rights page somewhere, or use the site footer – or link to an external CREDITS file in your repo.</p>
 
 <p><em>NB: If an image is under copyright, you can still use it if you can make a good case that it's a Fair Use.</em>  See <em>Writer/Designer</em> page 156 to review the Four Factors you need to consider.</p>
 </details>
