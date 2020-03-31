@@ -18,7 +18,9 @@
 ## 1. Welcome back / reminders
 Hello again, everyone! I miss seeing you, but I was very happy to read through your notes to each other on the drafts for Thursday's workshop. If you haven't yet seen or given comments, please try to do so during today's class hours! Instructions are in the [last lesson plan](lesson-20).
 
-Today's studio will work just like last week's. As a reminder, **you are _not_ required to join a Zoom meeting for today's class, but you _are_ expected to post notes on your intention at the beginning and progress by the end of whatever time you spend**; I'll be using those notes as a way of taking attendance. Because this is asynchronous, though, you have all of Tuesday to check in. (And if it's there by Wednesday morning, I'll consider it having been done on Tuesday. :)
+<div class="alert alert-success">
+Today's studio will work just like last week's. As a reminder, <strong>you are <em>not</em> required to join a Zoom meeting for today's class, but you <em>are</em> expected to post notes on your intention at the beginning and progress by the end of whatever time you spend</strong>; I'll be using those notes as a way of taking today's attendance. Because this is asynchronous, though, you have all of Tuesday to check in. (And if it's there by Wednesday morning, I'll consider it as having been done on Tuesday. :)
+</div>
 
 Working on our own times, though, there are still ways to reach out to each other:
 
