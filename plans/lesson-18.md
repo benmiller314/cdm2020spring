@@ -33,6 +33,10 @@ Take 10 minutes in groups to make some lists: given the <a href="https://github.
 That is, <strong>I really want you to see these aspirational goals as opportunities to stretch yourselves and your skills, not just to do more of the same.</strong> Think about what would be new and potentially exciting, but not required for everyone.
 </div>
 
+<!-- Aspirations I want to suggest include:
+Use comments in your html and css to explain (including to yourself) what you're trying to do
+-->
+
 ### 3b. Comment and Discuss in the Doc (10 min)
 Quickly read through the other groups' notes, adding collegial comments in the margins to upvote or propose modifications.
 

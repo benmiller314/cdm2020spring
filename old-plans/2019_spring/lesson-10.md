@@ -77,9 +77,9 @@ Take a moment now to read back over your lists. Is there something that stands o
 
 With that chosen subject, write again:
 
-4. What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors.
-5. Is there anything you're forgetting to add to your list? A line from a song? A color?
-6. Who else might be interested in this? Who, that is, could be your audience?
+5. What terms or images come to mind when you think of this subject? ... Think about categories of words: actions vs things. Descriptors.
+6. Is there anything you're forgetting to add to your list? A line from a song? A color?
+7. Who else might be interested in this? Who, that is, could be your audience?
 
 See if you can summon up the whole of this idea, like it's right here in the room with you. Where does it live? Is it above you? Inside you? In the palm of your hand? Just sit with your idea for a moment, feeling where you connect to it.
 
