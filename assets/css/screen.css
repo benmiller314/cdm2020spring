@@ -130,6 +130,10 @@ img.banner {
     margin-right: 0.5em;
 }
 
+h2, h3 {
+    margin-top: 1.1em;
+}
+
 /* Don't let the anchor-jumps get chomped by the header */
 h1::before, h2::before, h3::before, h4::before, #content::before {
   display: block;
