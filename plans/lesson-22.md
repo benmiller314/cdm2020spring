@@ -112,7 +112,7 @@ A choose-your-own-adventure story is one way to think about it. But it's not alw
 Here are some examples, grouped more or less in pairs of shorter (odds) and longer (evens). **Open and play through at least one of each, or through the beginning few scenes, until you get the flavor.** Note that the first four are more or less professional-level, while the last two were made by students at Pitt.
 
 1. [The Tiniest Room](https://erik108.itch.io/the-tiniest-room) - a minimalist escape room
-2. [The Griffin and the Minor Canon](https://cmg.itch.io/the-griffin-and-the-minor-canon) - more poetic (it's actually an adaptation of a [short story](https://www.classicshorts.com/stories/griffin.html) from 1885)
+2. [The Griffin and the Minor Canon](https://cmg.itch.io/the-griffin-and-the-minor-canon) - more poetic (it's actually an adaptation of a [short story](https://www.classicshorts.com/stories/griffin.html) from 1885). Hint: if you're stuck, visit the stone ledge a few times. The view isn't always the same.
 3. [Queers in Love at the End of the World](https://w.itch.io/end-of-the-world) - what will you do with the short time you have left?
 4. [the uncle who works for nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo) – a horror game; see trigger warning link on home screen.
 5. [Conquering Cathy](http://philome.la/mtyrhetoric/conquering-cathy/play) - "A trial of fortitude & vitality at the University of Pittsburgh"
