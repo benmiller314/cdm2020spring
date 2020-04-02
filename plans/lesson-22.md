@@ -138,6 +138,20 @@ In the meantime, if this sounds intriguing, I encourage you to look at the <a hr
 ## Generative writing
 Now that you have a sense of what's possible, in general, it's time for you to write your way into a sense of what's drawing you, in particular. *(This exercise adapted from Sondra Perl's [Guidelines for Composing](http://bit.ly/perlfeltsense))*  <!-- Record this in Audacity?? -->
 
+<div class="alert alert-info">
+
+<figure>
+    <figcaption>For an audio version of the text-based writing prompts that follow, use this media player:</figcaption>
+    <audio
+        controls
+        src="../assets/sound/ben-reads-perl-guidelines--final-unit.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+</div>
+
 Take a breath. Close your eyes. Put down your pen, or take your hands off your keyboard. Find a way to be present to yourself, wherever you are, and know that **whatever you write for next set of questions will not be collected:** it's for you alone.
 
 1. Start by making a list: What's on my mind? what have I been meaning to do lately? When you feel yourself answering, begin to write.
