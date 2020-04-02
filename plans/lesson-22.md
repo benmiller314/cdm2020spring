@@ -120,7 +120,7 @@ Here are some examples, grouped more or less in pairs of shorter (odds) and long
 
 
 <div class="alert alert-white">
-I'm working on getting a screencast recorded of an intro to the Twine interface, for the curious, demonstrating how easy it is to get started -- and some idea of how deep the rabbit-hole goes if you want to get into it. The link'll go live here when it's ready.
+I'm working on getting a screencast recorded of an intro to the Twine interface, for the curious, demonstrating how easy it is to get started -- and some idea of how deep the rabbit-hole goes if you want to get into it. I'll email and post a link here when it's ready.
 
 In the meantime, if this sounds intriguing, I encourage you to look at the <a href="../resources#twine--interactive-narrative">relevant section of our course resources page</a> for links to the Twine wiki (your basic starting point) and some good video tutorials (listed as a "slightly more advanced intro").
 <!--
