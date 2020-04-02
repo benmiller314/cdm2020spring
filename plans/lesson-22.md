@@ -176,9 +176,8 @@ EXT: If you have time now, you can get started on implementing your plan! We'll 
   - a brief overview of your project goals
   - a task list for your project
   - proposed roles for your team members, if you have a team of more than one
+* Post your project proposal, with a link to the repository, on the [Issue Queue]({{site.github.issues_url}}).
+* Decide (together, if working on a team) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. **Push these updated goals to your repo.**
+
 
 <span class="footnote-block"><sup>1</sup> If you're updating an existing project, do this in a new branch of the old repository, instead.</span>
-
-* Post your project proposal, with a link to the repository, on the [Issue Queue]({{site.github.issues_url}}).
-
-* Decide (together, if working on a team) what would constitute a minimum deliverable project, and what series of stretch goals you'll try for beyond that minimum. **Push these updated goals to your repo.**
