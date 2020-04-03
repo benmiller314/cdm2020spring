@@ -118,11 +118,9 @@ Here are some examples, grouped more or less in pairs of shorter (odds) and long
 5. [Conquering Cathy](http://philome.la/mtyrhetoric/conquering-cathy/play) - "A trial of fortitude & vitality at the University of Pittsburgh"
 6. [Remnants](https://philome.la/lissamay/remnants-by-kelly-sung/play/index.html) – Your mother is crying next to your bed. Why can't you touch her hand?
 
+I've recorded a roughly [10-minute screencast intro to Twine](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44615ce9-c3cf-4834-b479-ab920021d354) and why I think it's useful now: in a nutshell, it allows you to apply your knowledge of html and css, and the affordances of sound and/or image, in a shared context that's also pretty fun. And many of you did say you wanted to build games!
 
-<div class="alert alert-white">
-I'm working on getting a screencast recorded of an intro to the Twine interface, for the curious, demonstrating how easy it is to get started -- and some idea of how deep the rabbit-hole goes if you want to get into it. I'll email and post a link here when it's ready.
-
-In the meantime, if this sounds intriguing, I encourage you to look at the <a href="../resources#twine--interactive-narrative">relevant section of our course resources page</a> for links to the Twine wiki (your basic starting point) and some good video tutorials (listed as a "slightly more advanced intro").
+If this sounds intriguing, I encourage you to look at the <a href="../resources#twine--interactive-narrative">relevant section of our course resources page</a> for links to the Twine and Harlowe wikis (your basic starting point) and some good video tutorials (listed as a "slightly more advanced intro").
 <!--
 * Screencast: introduce the genre by showing the opening sequences of some (polished/published) games
   - When you first download the Twine app, it may tell you the file "can't be opened because it's from an unknown developer." Not to worry: just right-click the executable, and choose Open from the context menu. Instead of rejecting the program outright, it'll just give you warning but still let you Open Anyway.
