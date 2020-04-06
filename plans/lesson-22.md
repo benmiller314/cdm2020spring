@@ -121,15 +121,17 @@ Here are some examples, grouped more or less in pairs of shorter (odds) and long
 I've recorded a roughly [10-minute screencast intro to Twine](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44615ce9-c3cf-4834-b479-ab920021d354) and why I think it's useful now: in a nutshell, it allows you to apply your knowledge of html and css, and the affordances of sound and/or image, in a shared context that's also pretty fun. And many of you did say you wanted to build games!
 
 If this sounds intriguing, I encourage you to look at the <a href="../resources#twine--interactive-narrative">relevant section of our course resources page</a> for links to the Twine and Harlowe wikis (your basic starting point) and some good video tutorials (listed as a "slightly more advanced intro").
-<!--
-* Screencast: introduce the genre by showing the opening sequences of some (polished/published) games
+
+
+<!-- * Screencast: introduce the genre by showing the opening sequences of some (polished/published) games
   - When you first download the Twine app, it may tell you the file "can't be opened because it's from an unknown developer." Not to worry: just right-click the executable, and choose Open from the context menu. Instead of rejecting the program outright, it'll just give you warning but still let you Open Anyway.
   * Show how you can import an existing game and see how it works
   * Walk through the basic features, show how easy it is to do basics
   * Show the Harlowe wiki and the cookbook
   * Link to the Harlowe wiki and the cookbok
-  * Link to some additional student examples
--->
+  * Link to some additional student examples -->
+
+
 </div>
 
 
