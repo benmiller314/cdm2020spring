@@ -118,7 +118,7 @@ Here are some examples, grouped more or less in pairs of shorter (odds) and long
 5. [Conquering Cathy](http://philome.la/mtyrhetoric/conquering-cathy/play) - "A trial of fortitude & vitality at the University of Pittsburgh"
 6. [Remnants](https://philome.la/lissamay/remnants-by-kelly-sung/play/index.html) – Your mother is crying next to your bed. Why can't you touch her hand?
 
-I've recorded a roughly [10-minute screencast intro to Twine](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44615ce9-c3cf-4834-b479-ab920021d354) and why I think it's useful now: in a nutshell, it allows you to apply your knowledge of html and css, and the affordances of sound and/or image, in a shared context that's also pretty fun. And many of you did say you wanted to build games!
+**I've recorded a roughly [10-minute screencast intro to Twine](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44615ce9-c3cf-4834-b479-ab920021d354) and why I think it's useful now**: in a nutshell, it allows you to apply your knowledge of html and css, and the affordances of sound and/or image, in a shared context that's also pretty fun. And many of you did say you wanted to build games!
 
 If this sounds intriguing, I encourage you to look at the <a href="../resources#twine--interactive-narrative">relevant section of our course resources page</a> for links to the Twine and Harlowe wikis (your basic starting point) and some good video tutorials (listed as a "slightly more advanced intro").
 
@@ -131,8 +131,6 @@ If this sounds intriguing, I encourage you to look at the <a href="../resources#
   * Link to the Harlowe wiki and the cookbok
   * Link to some additional student examples -->
 
-
-</div>
 
 
 ## Generative writing
