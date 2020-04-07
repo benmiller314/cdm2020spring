@@ -21,7 +21,7 @@ One goal I have, overall, is to help you feel more empowered to learn new digita
 
 <div class="alert alert-success">
    <ol>
-      <li><strong>What was it <em>like</em> to compose a website?</strong> To what other activities might you compare it? <ul><li>For example, was it like getting butterflies to fly in formation? (That metaphor is Betsy Sargent's, I can't take credit for it.) Was it like writing on loose paper with a pen that's chained in a dark room? Like singing and humming at the same time?</li></ul></li> Let your mind wander for a minute, and see what comes to mind when you start off thinking about the <em>process</em> of working with html, css, etc.</li>
+      <li><strong>What was it <em>like</em> to compose a website?</strong> To what other activities might you compare it? <ul><li>For example, was it like getting butterflies to fly in formation? (That metaphor is Betsy Sargent's, I can't take credit for it.) Was it like writing on loose paper with a pen that's chained in a dark room? Like singing and humming at the same time?</li></ul> Let your mind wander for a minute, and see what comes to mind when you start off thinking about the <em>process</em> of working with html, css, etc.</li>
       <li>Would you use the same metaphor for the other kinds of digital composing you've used this semester? If not, what other metaphor would you propose?</li>
       <li><em>Within the metaphors</em> you've come up with, what strategies would help you continue improving? What strategies might that suggest in real life, i.e. outside of the metaphor?</li>
    </ol>
