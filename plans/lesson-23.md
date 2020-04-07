@@ -17,9 +17,13 @@
 
 ## 0. Welcome back / updates
 
-Hello again, everyone! I miss seeing you, and I'm delighted to spend at least a few minutes with at least some of you. **If you're arriving between 2:30 and 3:00, please join us at the Zoom link I've sent out previously.** (I'm trying to minimize the number of times I post it on public pages, now that Zoom bombing has become a thing. If we need to, I'll add a password and send it to you by email, but we're not there yet.)
+Hello again, everyone! I miss seeing you, and I'm delighted to spend at least a few minutes with at least some of you. **If you're arriving between 2:30 and 3:00, please [join us](https://pitt.zoom.us/j/4969331343)!**
 
 I've now sent out notes on all the visual unit projects (at last - and again, so sorry!), and I'm going to do my utmost to respond to your web unit projects by this time next week. In the meantime, the consolidation unit proposals that have been coming in seem to be exciting, feasible, and sensible ways to deepen your practice. (Okay, apparently I sound like a yoga teacher now? Strange times, indeed.) Well done, everyone!
+
+<div class="alert alert-danger">
+If you haven't yet posted a proposal for the consolidation unit, please <a href="{{site.github.issues_url}}/13">do so</a> as soon as you can! There are generative writing prompts in the <a href="lesson-22">previous lesson plan</a>. I'm happy to email with you about it, too, if you're not ready for a public post.
+</div>
 
 ## 1. Faces and Voices (5-10 min)
 
