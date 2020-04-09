@@ -2,7 +2,7 @@
 
 **Work to have done**:
 
-* Work in pursuit of a Preview for your Consolidation Unit Project (proposals should all be on the [issue queue]({{site.github.issues_url}}) by now)
+* Work in pursuit of a Preview for your Consolidation Unit Project (proposals should all be on the [issue queue]({{site.github.issues_url}}/13) by now)
 
 
 **Plan for the day**:
@@ -15,15 +15,22 @@
 
 Today is mostly like the other distant-learning studios: I'll be online, but you are not required to join the Zoom (though you're certainly welcome, even if you don't have questions).
 
-That being said,
-* You <em>are</em> expected to post notes on your intention at the beginning and progress by the end of whatever time you spend</strong>; I'll be using those notes as a way of taking today's attendance.
-  - Because this is asynchronous, though, you have all of Thursday to check in. (And if it's there by Friday morning, I'll consider it as having been done on Thursday. :)
-* Please also read the information below about my expectations for your final portfolios, including the linked handout.
+That being said...
 
+<div class="alert alert-white">
+<ul>
+  <li> You <em>are</em> expected to post notes on your intention at the beginning and progress by the end of whatever time you spend</strong>; I'll be using those notes as a way of taking today's attendance.
+    <ul>
+      <li>Because this is asynchronous, though, you have all of Thursday to check in. (And if it's there by Friday morning, I'll consider it as having been done on Thursday. :)</li>
+    </ul>
+  </li>
+  <li>You should also read the information below about my expectations for your final portfolios, including the linked handout.</li>
+</ul>
+</div>
 
 ## 1. Final Portfolio Introduction (10 min)
 
-The final portfolio will consist of a single post on the [issue queue]({{site.github.issues_url}}/) containing:
+The final portfolio will consist of a single post on the issue queue (thread coming soon), containing:
 
 1.	a **prose reflection** of at least 800-1200 words (1200-1800 recommended), reflecting on the course and framing the portfolio’s contents in terms of your learning and goals;
     * NB: I have a **[handout](https://github.com/benmiller314/cdm2020spring/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true)** with guidelines and prompts for this reflection. You don't have to print it out, but please do read it!
@@ -37,7 +44,7 @@ In addition to the portfolio, or as preparation for it, I encourage you to retak
 NB: There is no separate reflection deadline for the consolidation unit; you can just include that in the final reflection for the semester.
 </div>
 
-Have questions about all that? You're probably not alone! Please [create a new post]({{site.github.issues_url}}/new) on the issue queue.
+Have questions about all that? You're probably not alone! Please [create a new post]({{site.github.issues_url}}/new) on the issue queue and I'll respond where everyone can see it.
 
 ## 2. Reminders
 Working on our own times, there are still ways to reach out to each other:
@@ -63,9 +70,9 @@ Just a sentence or two as a guidepost will give you something to come back to, t
 
 
 ## 4. Studio
-<div class="alert alert-success">
+<!-- <div class="alert alert-success"> -->
 Take 70 minutes, and subtract however long you just spent reading the sections above. Then give yourself reminders to stretch, save, and write commit messages as you go!
-</div>
+<!-- </div> -->
 
 I'll be online [in Zoom](https://pitt.zoom.us/j/4969331343) from 2:30-3:45pm.
 
@@ -82,14 +89,15 @@ Don't forget to save periodically as you go:
 
 Before you leave, just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular CSS skill? Decide something about your project? Raise a question in a new way that you'd like some help with?
 
-**Head back into the [google doc](http://bit.ly/cdm2020spring-criteria#heading=h.vv41f9hb2m9w) and reply to your intention-post.** You could email me directly if you prefer, but I'm hoping some of your insights or achievements will help inspire others.
-
+<div class="alert alert-success">
+<strong>Head back into the <a href="http://bit.ly/cdm2020spring-criteria#heading=h.vv41f9hb2m9w">google doc</a> and reply to your intention-post.</strong> You could email me directly if you prefer, but I'm hoping some of your insights or achievements will help inspire others.
+</div>
 
 # Homework for next time
 
 Your individual tasks will be determined by your projects; if you're working in a group, make sure you discuss your timing and tasks with each other.
 
-Whatever you choose, I'm hoping that by Tuesday you'll be able to produce some kind of _Draft_.
+**Whatever you choose, I'm hoping that by Tuesday you'll be able to produce some kind of _Draft_.** Polish isn't necessary, but aim to have your project be recognizably within the genre it's trying to become. 
 
 Given the variation in media and intentions, we don't have a coherent set of shared criteria, but if you don't have past criteria to go by (e.g. for revisions and extension projects), it's worth thinking about how we've developed criteria in the past: What do you value in similar work by other people? What strikes you as a reasonable baseline for completion? What are your stretch goals and aspirations beyond that?
 
