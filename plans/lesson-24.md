@@ -19,7 +19,7 @@ That being said...
 
 <div class="alert alert-white">
 <ul>
-  <li> You <em>are</em> expected to post notes on your intention at the beginning and progress by the end of whatever time you spend</strong>; I'll be using those notes as a way of taking today's attendance.
+  <li>You <em>are</em> expected to post notes on your intention at the beginning and progress by the end of whatever time you spend; I'll be using those notes as a way of taking today's attendance.
     <ul>
       <li>Because this is asynchronous, though, you have all of Thursday to check in. (And if it's there by Friday morning, I'll consider it as having been done on Thursday. :)</li>
     </ul>
@@ -97,7 +97,7 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 
 Your individual tasks will be determined by your projects; if you're working in a group, make sure you discuss your timing and tasks with each other.
 
-**Whatever you choose, I'm hoping that by Tuesday you'll be able to produce some kind of _Draft_.** Polish isn't necessary, but aim to have your project be recognizably within the genre it's trying to become. 
+**Whatever you choose, I'm hoping that by Tuesday you'll be able to produce some kind of _Draft_.** Polish isn't necessary, but aim to have your project be recognizably within the genre it's trying to become.
 
 Given the variation in media and intentions, we don't have a coherent set of shared criteria, but if you don't have past criteria to go by (e.g. for revisions and extension projects), it's worth thinking about how we've developed criteria in the past: What do you value in similar work by other people? What strikes you as a reasonable baseline for completion? What are your stretch goals and aspirations beyond that?
 
