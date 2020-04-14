@@ -1,4 +1,4 @@
-# Virtual Studio + a short reading
+# Virtual Studio, Optional Workshop, + a short reading
 
 **Work to have done**:
 
@@ -25,7 +25,7 @@ That being said...
       <li>Because this is asynchronous, though, you have all of Tuesday to check in. (And if it's there by Wednesday morning, I'll consider it as having been done on Tuesday. :)</li>
     </ul>
   </li>
-  <li>You should also read the information below about my expectations for your final portfolios, including the linked handout.</li>
+  <li>This being a "full draft" day, you are welcome to invite feedback from peers. But because I'm seeing a lot of variation in terms of where people are, I don't want to require a full formal workshop. <ul><li>Instead, <em>if you'd like more eyes on your project, please post a link alongside your intention in the google doc</em>, and </li><li>begin your session by checking for other people's links. </li><li>Workshop can then proceed pairwise along the same lines as <a href="lesson-20">last time</a>.</li></ul></li>
 </ul>
 </div>
 
