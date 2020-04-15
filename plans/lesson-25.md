@@ -42,7 +42,7 @@ If you read through the [handout](https://github.com/benmiller314/cdm2020spring/
 The portfolio should open with a prose reflection of at least 800-1200 words, reflecting on the course and framing the portfolio's contents in terms of your learning and goals. In particular, <strong>the reflection should have two parts</strong>, though you can mix them or move back and forth:
 
 <ol class="spaced">
-  <li>The first is an <strong>articulation of your learning in the class</strong>, focused more on transferable skills than individual tools; the questions below are meant to help you develop your thoughts toward that end.</li>
+  <li>The first is an <strong>articulation of your learning in the class</strong>, focused more on transferable skills than individual tools; the questions in the handout are meant to help you develop your thoughts toward that end.</li>
 
   <li>The second part is an <strong>introduction to the specific projects in your portfolio</strong>, calling attention to features of these multimodal texts that you hope will <em>illustrate or provide evidence for the first part’s claims and questions</em>.</li>
 </ol>
