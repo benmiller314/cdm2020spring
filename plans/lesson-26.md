@@ -104,7 +104,7 @@ So walk us through
 You know how this works by now.
 
 <div class="alert alert-success">
-Before you start your solo time today, <a href="http://bit.ly/cdm2020spring-criteria#heading=h.vv41f9hb2m9w">head over to the google doc</a> and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
+Before you start your solo time today, <a href="http://bit.ly/cdm2020spring-criteria#heading=h.mbz01ya98yd1">head over to the google doc</a> and write a quick line about what you hope to accomplish with your remaining time. e.g. Will you...
   <ul>
     <li>Locate tutorials (for what)?</li>
     <li>Gather assets you can use in your project?</li>
@@ -132,7 +132,7 @@ Don't forget to save periodically as you go:
 Before you leave, just as a way for me to check in, I'd like to hear more about what happened today: did you find images? Level up on a particular CSS skill? Decide something about your project? Raise a question in a new way that you'd like some help with?
 
 <div class="alert alert-success">
-<strong>Head back into the <a href="http://bit.ly/cdm2020spring-criteria#heading=h.vv41f9hb2m9w">google doc</a> and reply to your intention-post.</strong> You could email me directly if you prefer, but I'm hoping some of your insights or achievements will help inspire others.
+<strong>Head back into the <a href="http://bit.ly/cdm2020spring-criteria#heading=h.mbz01ya98yd1">google doc</a> and reply to your intention-post.</strong> You could email me directly if you prefer, but I'm hoping some of your insights or achievements will help inspire others.
 </div>
 
 ## 4. Endless departures
