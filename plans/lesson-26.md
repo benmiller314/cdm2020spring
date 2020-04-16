@@ -50,7 +50,7 @@ As you know from previous reflections, you can upload an image into your post on
 ![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates]
 ```
 
-If you want the image to link directly to your repository for that project, you would add another layer of markup, using the structure [anchor](URL). So in this case, because the anchor is that whole long thing GitHub generated after the drag-and-drop, you'd link like this:
+If you want the image to link directly to your repository for that project, you would add another layer of markup, using the structure `[anchor](URL)`. So in this case, because the anchor is that whole long thing GitHub generated after the drag-and-drop, you'd link like this:
 
 ```markdown
 [![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates]](https://github.com/username/repo)
@@ -60,7 +60,7 @@ Note the double closing bracket in the middle.
 
 But if that's too annoying, you can also just paste the regular link underneath the image, like this:
 
-```markdown
+```Markdown
 **Soundscape thumbnail:**
 
 ![name-of-file.png](somecrazylongURLthatGitHubauto-generates]
@@ -72,7 +72,6 @@ But if that's too annoying, you can also just paste the regular link underneath 
 
 Hope that clarifies things!
 
-Ben
 
 ## 2. Consolidation projects: introductions and send-offs
 
