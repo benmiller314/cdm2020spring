@@ -79,7 +79,7 @@ I don't have a chance here to convene all of us together, as we would in a norma
 
 Still: I want you to know that I am incredibly proud of what you've produced this semester, even since the shift to online / distant learning, but really all year long.
 
-
+<!--
 This isn't a workshop, but rather a celebration, and an invitation: afterward, we'll have time to play through the games and scroll through the websites.
 
 So walk us through
@@ -90,14 +90,14 @@ So walk us through
     <li>where can we access it? (can someone in the group write the URL on the board?)</li>
   </ul>  
 </li>
-<li>a celebration of group members' strengths and contributions<!--remember that from the criteria?-->, and</li>
+<li>a celebration of group members' strengths and contributions<!--remember that from the criteria?--><!--, and</li>
 <li>what the fate of the project will be for the foreseeable future:
     <ul>
         <li>will you keep it alive?</li>
         <li>can others participate if they want?</li>
     </ul>
 </li>
-</ol>
+</ol> -->
 
 ## 3. Studio time
 
@@ -139,15 +139,15 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 
 And other announcements.
 
-1. If you're not yet satisfied with your consolidation project, aim to be finished with it by Sunday, so you have time to work on your final portfolio reflection.
+* If you're not yet satisfied with your consolidation project, aim to be finished with it by Sunday, so you have time to work on your final portfolio reflection.
 
-2. If we had a final exam, it would be **this coming Tuesday,** from 12:00pm-1:50pm. Instead, the [final portfolio]((https://github.com/benmiller314/cdm2020spring/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true)) is due at the end of that exam slot: Tuesday, April 21, at 1:50pm.
+* If we had a final exam, it would be **this coming Tuesday,** from 12:00pm-1:50pm. Instead, the [final portfolio]((https://github.com/benmiller314/cdm2020spring/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true)) is due at the end of that exam slot: Tuesday, April 21, at 1:50pm.
 
-3. **The reflection is the main thing**, so if you do make revisions, please be sure to talk about them in the reflection. Or even if you don't have time to make revisions, but want to talk about what you *would* revise, talk about that in the reflection, too. Be sure you see the guiding questions in the handout linked above.
+* **The reflection is the main thing**, so if you do make revisions, please be sure to talk about them in the reflection. Or even if you don't have time to make revisions, but want to talk about what you *would* revise, talk about that in the reflection, too. Be sure you see the guiding questions in the handout linked above.
 
-4. Having everyone at home makes it hard to hold extra office hours, but please do email me or use the Issue Queue if you have any questions or want to see a demo of anything! If we can find a good time for a Zoom call, I'll do my best to help.
+* Having everyone at home makes it hard to hold extra office hours, but please do email me or use the Issue Queue if you have any questions or want to see a demo of anything! If we can find a good time for a Zoom call, I'll do my best to help.
 
-5. If you're coming up on the end of the weekend and realize that a few extra days would make the difference between feeling cut off and feeling finished, just let me know! The school's given me a little extra flexibility on getting grades in, and I can certainly pass that on to you. But I also want to be mindful of not dragging the semester on longer than you can sustain.
+* If you're coming up on the end of the weekend and realize that a few extra days would make the difference between feeling cut off and feeling finished, just let me know! The school's given me a little extra flexibility on getting grades in, and I can certainly pass that on to you. But I also want to be mindful of not dragging the semester on longer than you can sustain.
 
 
 ## [We end with poetry](https://merwinconservancy.org/2019/03/now-it-is-clear-by-w-s-merwin-2/).
