@@ -30,7 +30,7 @@ That being said...
 
 ## 1. Final Portfolio Introduction (10 min)
 
-The final portfolio will consist of a single post on the issue queue (thread coming soon), containing:
+The final portfolio will consist of a single post on the [issue queue]({{site.github.issues_url}}) (thread coming soon), containing:
 
 1.	a **prose reflection** of at least 800-1200 words (1200-1800 recommended), reflecting on the course and framing the portfolio’s contents in terms of your learning and goals;
     * NB: I have a **[handout](https://github.com/benmiller314/cdm2020spring/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true)** with guidelines and prompts for this reflection. You don't have to print it out, but please do read it!

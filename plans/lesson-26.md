@@ -141,7 +141,7 @@ And other announcements.
 
 * If you're not yet satisfied with your consolidation project, aim to be finished with it by Sunday, so you have time to work on your final portfolio reflection.
 
-* If we had a final exam, it would be **this coming Tuesday,** from 12:00pm-1:50pm. Instead, the [final portfolio]((https://github.com/benmiller314/cdm2020spring/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true)) is due at the end of that exam slot: Tuesday, April 21, at 1:50pm.
+* If we had a final exam, it would be **this coming Tuesday,** from 12:00pm-1:50pm. Instead, the [final portfolio](https://github.com/benmiller314/cdm2020spring/blob/gh-pages/uploads/handout--final-portfolio-prompt.docx?raw=true) is due to the [Issue Queue]({{site.github.issues_url}}) at the end of that exam slot: Tuesday, April 21, at 1:50pm.
 
 * **The reflection is the main thing**, so if you do make revisions, please be sure to talk about them in the reflection. Or even if you don't have time to make revisions, but want to talk about what you *would* revise, talk about that in the reflection, too. Be sure you see the guiding questions in the handout linked above.
 
