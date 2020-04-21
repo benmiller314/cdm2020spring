@@ -17,8 +17,9 @@ aka Something / That I Remember
 
 1. OMETs (and tech comfort survey, take 2)
 2. Final portfolio clarification of terms
-3. Studio time
-4. Endless departures
+3. Consolidation projects: intros and sendoffs
+4. Studio time
+5. Endless departures
 
 ## 1. OMETs, then studio time
 
@@ -47,24 +48,25 @@ EXT: If you haven't yet, I also encourage you to head over to the <a href="http:
 As you know from previous reflections, you can upload an image into your post on the Issue Queue just by dragging and dropping the file, which will generate some markup like this:
 
 ```markdown
-![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates]
+![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates)
 ```
 
 If you want the image to link directly to your repository for that project, you would add another layer of markup, using the structure `[anchor](URL)`. So in this case, because the anchor is that whole long thing GitHub generated after the drag-and-drop, you'd link like this:
 
 ```markdown
-[![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates]](https://github.com/username/repo)
+[![name-of-file.png](https://somecrazylongURLthatGitHubauto-generates)](https://github.com/username/repo)
 ```
 
-Note the double closing bracket in the middle.
+Note the double closing in the middle: close-parenthesis, close-bracket.
 
-But if that's too annoying, you can also just paste the regular link underneath the image, like this:
+If that's too annoying, you can also just paste the regular link underneath the image, like this:
 
 ```Markdown
 **Soundscape thumbnail:**
 
 ![name-of-file.png](somecrazylongURLthatGitHubauto-generates]
 
+[Link to soundscape file](https://github.com/username/repo/blob/master/name-of-playable-file.mp3)
 [Link to soundscape repository](https://github.com/username/repo)
 ```
 
@@ -73,7 +75,7 @@ But if that's too annoying, you can also just paste the regular link underneath 
 Hope that clarifies things!
 
 
-## 2. Consolidation projects: introductions and send-offs
+## 3. Consolidation projects: introductions and send-offs
 
 I don't have a chance here to convene all of us together, as we would in a normal semester, to celebrate the work you've done: enough people have written to tell me they don't have the availability or the connectivity to make a real-time call together during our class window, and outside that window is even harder.
 
@@ -99,7 +101,7 @@ So walk us through
 </li>
 </ol> -->
 
-## 3. Studio time
+## 4. Studio time
 
 You know how this works by now.
 
@@ -135,7 +137,7 @@ Before you leave, just as a way for me to check in, I'd like to hear more about 
 <strong>Head back into the <a href="http://bit.ly/cdm2020spring-criteria#heading=h.mbz01ya98yd1">google doc</a> and reply to your intention-post.</strong> You could email me directly if you prefer, but I'm hoping some of your insights or achievements will help inspire others.
 </div>
 
-## 4. Endless departures
+## 5. Endless departures
 
 And other announcements.
 
