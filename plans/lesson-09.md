@@ -66,7 +66,7 @@ Onscreen, it's a flat image. But if we open it in GIMP...
 There are lots of tutorials out there, including right on the GIMP website. If you ever get stuck, try <a href="https://docs.gimp.org/2.10/en/gimp-getting-unstuck.html">Chapter 4: Getting Unstuck</a>. (I've also put some other resources on the <a href="{{site.course.base_path}}resources">resources page</a>, and please feel free to suggest others as you find them!
 </div>
 
-## Visual unit overview and assignment
+## 3. Visual unit overview and assignment
 
 Your second project is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you:
 
