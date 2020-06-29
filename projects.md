@@ -34,6 +34,10 @@ For your third project, you will build a responsive website using basic html and
 
 ## Group Project (Interactive Narrative)
 
+<div class="alert alert-warning">
+COVID-19 Update: Rather than doing a group project online in the height of a pandemic, I'm updating this assignment to emphasize revision and consolidation without necessarily introducing new technical challenges (though you're always welcome to aspire). See [the first lesson of the last unit](https://benmiller314.github.io/cdm2020spring/plans/lesson-22#2-consolidation-unit-goals-5-10-min) for more information.
+</div>
+
 Throughout the semester, I will periodically ask you to develop proposals for a collaborative final project that will allow you to integrate – and extend – what you've learned about composing digital media. In the last month of the semester, you'll break into groups according to your interests, and work to bring these visions to fruition as best you can in the time available. (Almost everything can be revised, including the projects above; but in collaborative work, issues of scope become especially important to consider.) <!-- As part of a second-draft proposal, have them suggest roles that participants can play within the project, e.g. visuals editor or project manager. -->
 
 The default medium for this integrative project is an *interactive narrative*, which is to say a kind of readerly choose-your-own-adventure game. The open-source Twine platform, <a href="http://twinery.org/">as its website says</a>, allows you to author such games without needing any code, if you want... but also to bring in variables, conditional logic, images, CSS, and JavaScript if that's the kind of thing you're into. (Another advantage of working in teams: maybe only one of you wants to dig that deep, but you can still all benefit.)
