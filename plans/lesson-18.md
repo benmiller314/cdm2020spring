@@ -44,7 +44,7 @@ As you see consensus forming, propose an official version for our list of shared
 
 ## 4. NEW! Studio While I Synthesize (30 min)
 
-After Dr. Vee's visit during our last criteria day, she and I discussed the ways that energy flagged at this point in the lesson. So instead of dragging everyone along through every possible criterion, **I'm going to work solo write up a list that reflects your consensus in the comments, while you all work solo (or in small groups) on your projects and tutorials.**
+After Dr. Vee's visit during our last criteria day, she and I discussed the ways that energy flagged at this point in the lesson. So instead of dragging everyone along through every possible criterion, **I'm going to work solo to write up a list that reflects your consensus in the comments, while you all work solo (or in small groups) on your projects and tutorials.**
 
 Then we'll reconvene at the end of the class to ratify or modify what I've come up with, in one fell swoop.
 
