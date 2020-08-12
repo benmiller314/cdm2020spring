@@ -46,8 +46,15 @@ Table of contents:
 
 ## Help with Git and GitHub
 <dl>
+<dt><a href="https://education.github.com/discount_requests/new">Get free private repositories</a></dt>
+<dd>Important for starting out: GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
+
 <dt><a href="https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git and GitHub for Poets</a></dt>
 <dd>A delightfully nerdy, yet strangely accessible, playlist of tutorial videos on using GitHub and Git (in that order) to keep track of changes to a text file. A great way to learn more about the features that make these tools appealing to coders and non-coders alike.</dd>
+
+<dt><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop">Getting Started with GitHub Desktop</dt>
+<dt><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop">Contributing and Collaborating using GitHub Desktop</a></dt>
+<dd>The official documentation for using the GH Desktop application, a GUI (graphical user interface) that gives you more flexibility than the GitHub website, but also a more user-friendly appearance (including next-step-in-the-workflow suggestions) than command-line git. See especially the section, part of the second page linked above, about <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch">making changes in a branch</a>.</dd>
 
 <dt><a href="https://education.github.com/git-cheat-sheet-education.pdf">Git Cheat Sheet</a></dt>
 <dd>Two pages containing everything you need to know for everyday version-tracking, from how to set up your local repository to how to recover past versions, with your normal status->add->commit->push-> workflow prominently placed. This is all for the command line; if that makes you uncomfortable, see the Command Line Crash Course, below.</dd>
@@ -57,9 +64,6 @@ Table of contents:
 
 <dt><a href="https://lab.github.com/paths">GitHub Learning Lab</a></dt>
 <dd>Should you feel enticed by our course to want to go deeper into the capabilities of GH and go with the GitHub Flow, come here: it's a system of tutorials built directly into the GitHub web interface, with a "robot" that gives you prompts and affirmations of success right in the Issue Queues and Revision Histories of your own repositories. (Each new "course" you take in the Learning Lab will auto-generate a new repository to play with.) To enable this magic of automation work, you'll have to give the app some major permissions on your account – but since it's written by the same people who make GitHub, I felt pretty comfortable trusting them anyway. (They already keep all my stuff, you know?)</dd>
-
-<dt><a href="https://education.github.com/discount_requests/new">Get free private repositories</a></dt>
-<dd>Important for starting out: GitHub defaults to making repositories public, and ordinarily you would have to buy a paid account to keep your projects private. But if you have a .edu email account, you can request a discount that lets you get unlimited private repositories for free. Click the link to find out more.</dd>
 
 </dl>
 
