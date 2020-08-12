@@ -52,7 +52,7 @@ Table of contents:
 <dt><a href="https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git and GitHub for Poets</a></dt>
 <dd>A delightfully nerdy, yet strangely accessible, playlist of tutorial videos on using GitHub and Git (in that order) to keep track of changes to a text file. A great way to learn more about the features that make these tools appealing to coders and non-coders alike.</dd>
 
-<dt><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop">Getting Started with GitHub Desktop</dt>
+<dt><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop">Getting Started with GitHub Desktop</a></dt>
 <dt><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop">Contributing and Collaborating using GitHub Desktop</a></dt>
 <dd>The official documentation for using the GH Desktop application, a GUI (graphical user interface) that gives you more flexibility than the GitHub website, but also a more user-friendly appearance (including next-step-in-the-workflow suggestions) than command-line git. See especially the section, part of the second page linked above, about <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch">making changes in a branch</a>.</dd>
 
