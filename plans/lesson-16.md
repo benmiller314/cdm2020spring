@@ -101,9 +101,9 @@ CSS basics
 Any tricky ones?
 <!-- Ones I think are tricky: Images 2 and 3; CSS 6; -->
 
-## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, END NO LATER THAN no later than 3:05. Move, move, move through the first parts! If you can't start until after 3:00, assign it for homework instead. OOPS, went until 3:20... time to beef up this note...
+## 2. Web Design in 4 Minutes (in 10 minutes) <!-- aiming for 2:50-3:00, END NO LATER THAN no later than 3:05. Move, move, move through the first parts! If you can't start until after 3:00, assign it for homework instead. OOPS, went until 3:20... time to beef up this note... -->
 
-Better yet, FOR NEXT TIME, just skip this until after they've done the Box Model tutorial, so they know what the heck margin and padding are. Or assign it for homework at that point? As the first part of studio, so people can call you over with questions? This is perhaps better self-paced, because it's obvious to some and opaque to others.
+<!-- Better yet, FOR NEXT TIME, just skip this until after they've done the Box Model tutorial, so they know what the heck margin and padding are. Or assign it for homework at that point? As the first part of studio, so people can call you over with questions? This is perhaps better self-paced, because it's obvious to some and opaque to others.
 -->
 
 This is what we didn't get to last time. I'm going to try to be brief, but I want to make sure you see this, because many of the suggested design elements / CSS rules make good defaults so your site doesn't look "unstyled."
